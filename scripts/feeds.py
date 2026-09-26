@@ -24,11 +24,23 @@ def haal(url, timeout=20):
 
 
 def _veld(item_xml, tag):
-    m = re.search(rf"<{tag}[^>]*>(.*?)</{tag}>", item_xml, re.S)
+    m = re.search(rf"<{tag}[^>]*>(.*?)</{tag}>", item_xml, re.S | re.I)
     if not m:
         return ""
     t = re.sub(r"^<!\[CDATA\[|\]\]>$", "", m.group(1).strip())
     return html.unescape(re.sub(r"<[^>]+>", "", html.unescape(t))).strip()
+
+
+def _link(item_xml):
+    """Sommige bronnen (TinyFish html-fetch) verliezen de <link>-tags omdat <link> in HTML
+    een voidelement is; de URL blijft dan als kale tekst tussen de andere tags staan."""
+    link = _veld(item_xml, "link")
+    if link:
+        return link
+    kaal = re.sub(r"<title.*?</title>", "", item_xml, flags=re.S | re.I)
+    kaal = re.sub(r"<description.*?</description>", "", kaal, flags=re.S | re.I)
+    m = re.search(r"https?://[^\s<]+", kaal)
+    return m.group(0) if m else ""
 
 
 def druk_items(naam, xml, uren, nu):
@@ -42,7 +54,7 @@ def druk_items(naam, xml, uren, nu):
         h = (nu - d).total_seconds() / 3600
         if h <= uren:
             n += 1
-            print(f"{naam} | {h:.0f}u | {d.astimezone().strftime('%d-%m')} | {_veld(item_xml, 'title')} | {_veld(item_xml, 'link')}")
+            print(f"{naam} | {h:.0f}u | {d.astimezone().strftime('%d-%m')} | {_veld(item_xml, 'title')} | {_link(item_xml)}")
     return n
 
 
