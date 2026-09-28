@@ -1,1 +1,44 @@
-{"datum": "2026-09-24", "status": "ingepland"}
+{
+  "datum": "2026-09-28",
+  "status": "wacht_op_keuze",
+  "slack_kanaal": "C0C1MU54N81",
+  "slack_ts": "1790572258.909709",
+  "eigen_ts": ["1790572258.909709", "1790572259.223929", "1790572259.551119"],
+  "akiflow_task_id": "8b8393dc-e39a-40a4-91ae-fe3e8acfaf49",
+  "opmerking": "Koptekst is als los tekstbericht gepost, maar de ts kon niet worden vastgelegd (het bot-token mist history-scope). De drie opties zijn direct daaronder als aparte berichten met afbeelding geplaatst; hun ts staat hieronder bij 'opties'. Afbeeldingen zijn geplaatst als image-block met de publieke GitHub-URL, niet als geuploade Slack-file, omdat het netwerkbeleid van deze omgeving files.slack.com blokkeert.",
+  "opties": [
+    {
+      "nr": 1,
+      "kop": "Toptarief treft straks meer mensen",
+      "samenvatting": "De grens voor het toptarief blijft in 2027 gewoon op 78.426 euro staan, zonder correctie voor inflatie.\nDaardoor val je sneller in de hoogste belastingschijf als je meer gaat verdienen.\nBij sommige inkomens houd je van een extra verdiende euro nog maar 10 tot 20 cent over.",
+      "todo": "Check wat een loonsverhoging of bonus je netto oplevert voordat je ja zegt. Bespreek met je adviseur hoe je omgaat met het toptarief.",
+      "bron": "Telegraaf, 27 september",
+      "artikel_url": "https://www.telegraaf.nl/financieel/grote-groep-nederlanders-moet-straks-toptarief-betalen-werken-zou-moeten-lonen-maar-dat-doet-het-niet/162175855.html",
+      "slide": "slides/2026-09-28-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-28-1.png",
+      "slack_ts": "1790572258.909709"
+    },
+    {
+      "nr": 2,
+      "kop": "Energierekening blijft onnodig hoog",
+      "samenvatting": "Huishoudens betalen tot dertig keer meer energiebelasting dan grote bedrijven.\nEen plan om dat recht te trekken ligt na drie jaar alweer in de ijskast.\nDe overheid wacht liever op Europese regels dan nu al in te grijpen.",
+      "todo": "Houd je energierekening en contract in de gaten en vergelijk regelmatig of overstappen loont.",
+      "bron": "NU.nl, 27 september",
+      "artikel_url": "https://www.nu.nl/de-broeikas/6410815/plan-jetten-voor-lagere-energierekening-na-drie-jaar-al-bij-grofvuil.html",
+      "slide": "slides/2026-09-28-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-28-2.png",
+      "slack_ts": "1790572259.223929"
+    },
+    {
+      "nr": 3,
+      "kop": "Grote erfenis leidt tot verhuizen",
+      "samenvatting": "Wie 50.000 euro of meer erft, verhuist vaker en kiest vaker voor een groter of vrijstaand huis, blijkt uit CBS-onderzoek.\nErfgenamen lossen ook extra af op hun hypotheek en leggen vaker zonnepanelen.\nEen erfenis verandert dus vaak je woonplannen.",
+      "todo": "Denk op tijd na over wat een erfenis of schenking betekent voor je woonplannen en bespreek dit met je adviseur.",
+      "bron": "Telegraaf, 28 september",
+      "artikel_url": "https://www.telegraaf.nl/financieel/onderzoek-erfenis-leidt-vaak-tot-verhuizing-naar-groter-of-vrijstaand-huis/162235813.html",
+      "slide": "slides/2026-09-28-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-28-3.png",
+      "slack_ts": "1790572259.551119"
+    }
+  ]
+}
