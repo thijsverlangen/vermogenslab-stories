@@ -1,9 +1,10 @@
 {
   "datum": "2026-09-28",
-  "status": "wacht_op_keuze",
+  "status": "ingepland",
+  "gekozen": [1],
   "slack_kanaal": "C0C1MU54N81",
   "slack_ts": "1790572258.909709",
-  "eigen_ts": ["1790572258.909709", "1790572259.223929", "1790572259.551119"],
+  "eigen_ts": ["1790572258.909709", "1790572259.223929", "1790572259.551119", "1790581634.099479"],
   "akiflow_task_id": "8b8393dc-e39a-40a4-91ae-fe3e8acfaf49",
   "opmerking": "Koptekst is als los tekstbericht gepost, maar de ts kon niet worden vastgelegd (het bot-token mist history-scope). De drie opties zijn direct daaronder als aparte berichten met afbeelding geplaatst; hun ts staat hieronder bij 'opties'. Afbeeldingen zijn geplaatst als image-block met de publieke GitHub-URL, niet als geuploade Slack-file, omdat het netwerkbeleid van deze omgeving files.slack.com blokkeert.",
   "opties": [
