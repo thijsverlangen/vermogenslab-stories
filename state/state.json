@@ -1,45 +1,44 @@
 {
-  "datum": "2026-09-28",
-  "status": "ingepland",
-  "gekozen": [1],
+  "datum": "2026-09-29",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1790572258.909709",
-  "eigen_ts": ["1790572258.909709", "1790572259.223929", "1790572259.551119", "1790581634.099479"],
-  "akiflow_task_id": "8b8393dc-e39a-40a4-91ae-fe3e8acfaf49",
-  "opmerking": "Koptekst is als los tekstbericht gepost, maar de ts kon niet worden vastgelegd (het bot-token mist history-scope). De drie opties zijn direct daaronder als aparte berichten met afbeelding geplaatst; hun ts staat hieronder bij 'opties'. Afbeeldingen zijn geplaatst als image-block met de publieke GitHub-URL, niet als geuploade Slack-file, omdat het netwerkbeleid van deze omgeving files.slack.com blokkeert.",
+  "slack_ts": "1790654979.688439",
+  "eigen_ts": ["1790654979.688439", "1790655019.578859", "1790655020.098739", "1790655020.501419"],
+  "akiflow_task_id": "07ceacc1-fc4f-47ff-8d05-0ee9902b958d",
+  "opmerking": "Afbeeldingen zijn geplaatst als image-block met de publieke GitHub-URL, niet als geuploade Slack-file, omdat het netwerkbeleid van deze omgeving files.slack.com blokkeert.",
   "opties": [
     {
       "nr": 1,
-      "kop": "Toptarief treft straks meer mensen",
-      "samenvatting": "De grens voor het toptarief blijft in 2027 gewoon op 78.426 euro staan, zonder correctie voor inflatie.\nDaardoor val je sneller in de hoogste belastingschijf als je meer gaat verdienen.\nBij sommige inkomens houd je van een extra verdiende euro nog maar 10 tot 20 cent over.",
-      "todo": "Check wat een loonsverhoging of bonus je netto oplevert voordat je ja zegt. Bespreek met je adviseur hoe je omgaat met het toptarief.",
-      "bron": "Telegraaf, 27 september",
-      "artikel_url": "https://www.telegraaf.nl/financieel/grote-groep-nederlanders-moet-straks-toptarief-betalen-werken-zou-moeten-lonen-maar-dat-doet-het-niet/162175855.html",
-      "slide": "slides/2026-09-28-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-28-1.png",
-      "slack_ts": "1790572258.909709"
+      "kop": "Erfenis leidt vaak tot verhuizing",
+      "samenvatting": "Erf je 50.000 euro of meer, dan verhuis je volgens het CBS bijna twee keer zo vaak als mensen zonder zo'n erfenis.\nJe kiest dan vaker voor een groter of vrijstaand huis, meer zonnepanelen en lost extra af op de hypotheek.",
+      "todo": "Denk op tijd na over wat een erfenis betekent voor je woonplannen en hypotheek. Bespreek de fiscale gevolgen met je adviseur.",
+      "bron": "NU.nl, 28 september",
+      "artikel_url": "https://www.nu.nl/economie/6411210/mensen-met-erfenis-gaan-vaker-verhuizen-of-kiezen-voor-zonnepanelen.html",
+      "slide": "slides/2026-09-29-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-29-1.png",
+      "slack_ts": "1790655019.578859"
     },
     {
       "nr": 2,
-      "kop": "Energierekening blijft onnodig hoog",
-      "samenvatting": "Huishoudens betalen tot dertig keer meer energiebelasting dan grote bedrijven.\nEen plan om dat recht te trekken ligt na drie jaar alweer in de ijskast.\nDe overheid wacht liever op Europese regels dan nu al in te grijpen.",
-      "todo": "Houd je energierekening en contract in de gaten en vergelijk regelmatig of overstappen loont.",
-      "bron": "NU.nl, 27 september",
-      "artikel_url": "https://www.nu.nl/de-broeikas/6410815/plan-jetten-voor-lagere-energierekening-na-drie-jaar-al-bij-grofvuil.html",
-      "slide": "slides/2026-09-28-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-28-2.png",
-      "slack_ts": "1790572259.223929"
+      "kop": "Pensioenverdeling bij scheiding verandert",
+      "samenvatting": "Vanaf 2028 veranderen de regels voor pensioen bij een scheiding.\nNu krijgt je ex-partner pas geld zodra jij met pensioen gaat, straks krijgt iedereen meteen een eigen pensioenpot.\nOok het partnerpensioen wordt straks anders verdeeld.",
+      "todo": "Ga je scheiden of ben je onlangs gescheiden? Bespreek met je adviseur wat dit voor je pensioen betekent.",
+      "bron": "Telegraaf, 28 september",
+      "artikel_url": "https://www.telegraaf.nl/financieel/theo-gommer-nieuwe-wet-pensioen-en-echtscheiding-dit-is-het-belangrijkste-verschil/162181120.html",
+      "slide": "slides/2026-09-29-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-29-2.png",
+      "slack_ts": "1790655020.098739"
     },
     {
       "nr": 3,
-      "kop": "Grote erfenis leidt tot verhuizen",
-      "samenvatting": "Wie 50.000 euro of meer erft, verhuist vaker en kiest vaker voor een groter of vrijstaand huis, blijkt uit CBS-onderzoek.\nErfgenamen lossen ook extra af op hun hypotheek en leggen vaker zonnepanelen.\nEen erfenis verandert dus vaak je woonplannen.",
-      "todo": "Denk op tijd na over wat een erfenis of schenking betekent voor je woonplannen en bespreek dit met je adviseur.",
-      "bron": "Telegraaf, 28 september",
-      "artikel_url": "https://www.telegraaf.nl/financieel/onderzoek-erfenis-leidt-vaak-tot-verhuizing-naar-groter-of-vrijstaand-huis/162235813.html",
-      "slide": "slides/2026-09-28-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-28-3.png",
-      "slack_ts": "1790572259.551119"
+      "kop": "Stroom via dynamisch contract duurder",
+      "samenvatting": "Heb je een dynamisch energiecontract, dan betaal je deze maand voor stroom ruim twee keer zoveel als vorig jaar.\nVooral 's avonds is stroom duur, omdat gascentrales moeten bijspringen zodra de zon weg is.\nHet gaat om de kale marktprijs, zonder belasting en leverancierskosten.",
+      "todo": "Kijk bij een dynamisch contract naar het moment waarop je stroom gebruikt en verschuif dat naar daluren.",
+      "bron": "NU.nl, 28 september",
+      "artikel_url": "https://www.nu.nl/economie/6410984/ook-met-dynamisch-contract-is-stroom-deze-maand-ruim-twee-keer-zo-duur.html",
+      "slide": "slides/2026-09-29-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-29-3.png",
+      "slack_ts": "1790655020.501419"
     }
   ]
 }
