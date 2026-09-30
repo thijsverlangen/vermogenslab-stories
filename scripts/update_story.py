@@ -15,7 +15,6 @@ Gebruik:
 """
 import json, re, sys, urllib.request
 from pathlib import Path
-from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "state" / "update_story.json"
@@ -91,6 +90,7 @@ def check():
 
 
 def f(size):
+    from PIL import ImageFont
     fnt = ImageFont.truetype(FONT, size)
     fnt.set_variation_by_axes([500, 100, 12, 500])   # Medium, zoals Avenir Next Medium lokaal
     return fnt
@@ -122,6 +122,7 @@ def _cta_regels(d, breedte):
 
 
 def render(blokken, uit):
+    from PIL import Image, ImageDraw   # alleen nodig bij renderen; check werkt zonder Pillow
     img = Image.new("RGB", (W, H), ZWART)
     d = ImageDraw.Draw(img)
     breedte = W - 2 * MARGE
