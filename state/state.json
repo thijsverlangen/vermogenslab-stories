@@ -1,44 +1,44 @@
 {
-  "datum": "2026-09-30",
-  "status": "geen_keuze",
+  "datum": "2026-10-01",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1790741346.778159",
-  "eigen_ts": ["1790741346.778159", "1790741398.452759", "1790741398.933969", "1790741399.244639"],
-  "akiflow_task_id": "ee066b36-34d7-4e15-b10b-91e755a236b0",
+  "slack_ts": "1790827772.434319",
+  "eigen_ts": ["1790827772.434319", "1790827814.704629", "1790827815.072369", "1790827815.430129"],
+  "akiflow_task_id": "0814e6e9-b382-4d6c-aacd-da0cbe180d00",
   "opmerking": "Afbeeldingen zijn geplaatst als image-block met de publieke GitHub-URL, niet als geuploade Slack-file, omdat het netwerkbeleid van deze omgeving files.slack.com blokkeert.",
   "opties": [
     {
       "nr": 1,
-      "kop": "Noodfonds Energie opent later",
-      "samenvatting": "Het Noodfonds Energie opent pas op 4 januari, met veel meer geld dan vorig jaar.\nZo'n 500.000 huishoudens met een laag inkomen en hoge energiekosten kunnen een tegemoetkoming krijgen, maar een grote groep met verborgen energiearmoede valt nog buiten de boot.",
-      "todo": "Kom je in aanmerking? Vraag op tijd aan vanaf 4 januari en check ook andere toeslagen.",
+      "kop": "Box 3 raakt kleine spaarders",
+      "samenvatting": "Het kabinet verlaagt het belastingvrije bedrag in box 3 van 1800 naar 1000 euro.\nSpaarders en beleggers betalen daardoor sneller en meer belasting. Dga's mogen vanaf 2028 nog maar 100.000 euro belastingvrij lenen van hun bv, in plaats van 500.000 euro nu.",
+      "todo": "Check wat de lagere vrijstelling voor jouw spaargeld of beleggingen betekent en bespreek een bv-lening met je adviseur.",
       "bron": "NOS, 29 september",
-      "artikel_url": "https://nos.nl/l/2632998",
-      "slide": "slides/2026-09-30-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-30-1.png",
-      "slack_ts": "1790741398.452759"
+      "artikel_url": "https://nos.nl/artikel/2632999-meer-beleggers-en-spaarders-gaan-belasting-betalen-sociale-zekerheid-niet-gekort",
+      "slide": "slides/2026-10-01-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-01-1.png",
+      "slack_ts": "1790827814.704629"
     },
     {
       "nr": 2,
-      "kop": "Verduurzamen met subsidie in trek",
-      "samenvatting": "Steeds meer huiseigenaren verduurzamen hun huis met subsidie of lening van het Rijk.\nIn 2025 ging het om bijna 300.000 woningen, 22 procent meer dan het jaar ervoor, maar huizen met een vve blijven duidelijk achter.",
-      "todo": "Check welke subsidies of leningen voor verduurzaming beschikbaar zijn voor jouw woning of vve.",
-      "bron": "NU.nl, 29 september",
-      "artikel_url": "https://www.nu.nl/economie/6411258/huiseigenaren-verduurzamen-volop-met-subsidie-vves-lopen-achter.html",
-      "slide": "slides/2026-09-30-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-30-2.png",
-      "slack_ts": "1790741398.933969"
+      "kop": "Zzp-wet moet duidelijkheid bieden",
+      "samenvatting": "Minister Aartsen werkt aan een nieuwe Zelfstandigenwet die moet vastleggen wanneer je als zzp'er mag werken.\nEind september komt er een conceptwet, de ingangsdatum is 1 januari 2028. Doel is dat zzp'ers en opdrachtgevers vooraf zekerheid hebben.",
+      "todo": "Hou de nieuwe criteria in de gaten en bespreek met je opdrachtgever of boekhouder of je straks nog als zzp'er werkt.",
+      "bron": "Telegraaf, 1 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/minister-wil-veilige-haven-bieden-aan-echte-zelfstandige-einde-maken-aan-jarenlange-zzp-discussie/162221184.html",
+      "slide": "slides/2026-10-01-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-01-2.png",
+      "slack_ts": "1790827815.072369"
     },
     {
       "nr": 3,
-      "kop": "Aftrek zorgkosten mogelijk weg",
-      "samenvatting": "Het kabinet wil de aftrek van zorgkosten vanaf 2028 schrappen.\nZo'n 900.000 huishoudens krijgen nu gemiddeld 400 euro per jaar terug via de belasting, en wie ook zorgtoeslag krijgt wordt dubbel geraakt.",
-      "todo": "Reken na wat dit voor jouw belastingaangifte en zorgtoeslag kan betekenen en bespreek het met je adviseur.",
-      "bron": "Telegraaf, 29 september",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/oproep-maak-jij-je-zorgen-om-het-verdwijnen-van-de-aftrek-specifieke-zorgkosten/162303231.html",
-      "slide": "slides/2026-09-30-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-09-30-3.png",
-      "slack_ts": "1790741399.244639"
+      "kop": "Hypotheekrente op hoogste niveau",
+      "samenvatting": "De hypotheekrente is dit jaar nog niet zo hoog geweest als nu.\nVoor een hypotheek van 10 jaar vast met NHG betaal je gemiddeld rond de 4,4 procent, een paar maanden terug was dat nog geen 4 procent. Daardoor kun je met hetzelfde inkomen minder lenen.",
+      "todo": "Reken na wat de hogere rente betekent voor je maximale hypotheek en bespreek je plannen met een adviseur.",
+      "bron": "NU.nl, 1 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6411535/hypotheekrente-stijgt-naar-hoogste-niveau-van-het-jaar-en-raakt-leencapaciteit.html",
+      "slide": "slides/2026-10-01-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-01-3.png",
+      "slack_ts": "1790827815.430129"
     }
   ]
 }
