@@ -1,44 +1,44 @@
 {
-  "datum": "2026-10-02",
-  "status": "geen_keuze",
+  "datum": "2026-10-03",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1790914125.789099",
-  "akiflow_task_id": "eaa856a5-4c19-4025-be1d-5a1ba1c6629b",
-  "eigen_ts": ["1790914125.789099", "1790914126.123539", "1790914126.417439", "1790914126.804949"],
+  "slack_ts": "1791000515.506539",
+  "akiflow_task_id": "38e07ce9-790d-4d7e-ab73-64117c52d241",
+  "eigen_ts": ["1791000515.506539", "1791000561.630399", "1791000561.946609", "1791000562.258969"],
   "opmerking": "Afbeeldingen zijn geplaatst als image-block met de publieke GitHub-URL, niet als geuploade Slack-file, omdat het netwerkbeleid van deze omgeving files.slack.com blokkeert.",
   "opties": [
     {
       "nr": 1,
-      "kop": "Box 3-plan voor spaarders aangepast",
-      "samenvatting": "Minister Heinen overweegt het box 3-plan aan te passen na felle kritiek uit de Tweede Kamer.\nSpaarders en beleggers zouden vanaf 2028 al bij 1000 euro rendement belasting betalen, maar die grens vindt hij zelf ook te laag. Ook de tijdelijke belastingverhoging voor volgend jaar ligt onder vuur.",
-      "todo": "Houd de aangekondigde box 3-wijzigingen in de gaten en bespreek met je adviseur wat een andere vrijstelling voor jou betekent.",
-      "bron": "NOS, 1 oktober",
-      "artikel_url": "https://nos.nl/artikel/2633258-kabinet-is-bereid-om-kleinere-spaarders-en-beleggers-toch-te-ontzien",
-      "slide": "slides/2026-10-02-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-02-1.png",
-      "slack_ts": "1790914126.123539"
+      "kop": "Hypotheek voor ouderen wordt strenger",
+      "samenvatting": "Rabobank en Obvion scherpen vanaf maart 2027 de hypotheeknorm aan voor wie binnen 15 jaar met pensioen gaat, nu is dat nog 10 jaar.\nJe verwachte pensioeninkomen en levensverwachting tellen dan eerder mee, en boven je 85e mag de hypotheek nog maximaal 70 procent van de woningwaarde zijn.",
+      "todo": "Check of dit jouw hypotheekplannen raakt en bespreek de nieuwe regels met je hypotheekadviseur.",
+      "bron": "NU.nl, 2 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6411734/rabobank-scherpt-hypotheeknorm-voor-ouderen-aan-pensioen-telt-eerder-mee.html",
+      "slide": "slides/2026-10-03-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-03-1.png",
+      "slack_ts": "1791000561.630399"
     },
     {
       "nr": 2,
-      "kop": "Nieuwe zzp-wet in consultatie",
-      "samenvatting": "Minister Aartsen stuurt de Zelfstandigenwet de internetconsultatie in.\nMet een zelfstandigentoets en werkrelatietoets moet vooraf duidelijk zijn of je als zzp'er mag werken, om schijnzelfstandigheid te voorkomen. De wet moet in januari 2028 ingaan.",
-      "todo": "Volg de consultatie en bespreek met je opdrachtgever of boekhouder of je straks nog als zzp'er aan de criteria voldoet.",
-      "bron": "Rijksoverheid, 1 oktober",
-      "artikel_url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/01/zelfstandigenwet-biedt-meer-duidelijkheid-en-erkenning-voor-zzpers",
-      "slide": "slides/2026-10-02-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-02-2.png",
-      "slack_ts": "1790914126.417439"
+      "kop": "Nieuwe zzp-wet roept vragen op",
+      "samenvatting": "Minister Aartsen wil met de Zelfstandigenwet vanaf 2028 vastleggen wanneer je als zzp'er geldt, met eisen als een KvK-inschrijving en drie opdrachtgevers in twee jaar.\nDeskundigen twijfelen of dit echt meer zekerheid geeft, want je moet er dagelijks aan blijven voldoen.",
+      "todo": "Volg de wet en bespreek met je boekhouder of opdrachtgever of je straks nog als zzp'er door de toets komt.",
+      "bron": "NOS, 2 oktober",
+      "artikel_url": "https://nos.nl/l/2633383",
+      "slide": "slides/2026-10-03-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-03-2.png",
+      "slack_ts": "1791000561.946609"
     },
     {
       "nr": 3,
-      "kop": "Rabobank beperkt hypotheek ouderen",
-      "samenvatting": "Rabobank en Obvion passen vanaf maart 2027 de hypotheeknormen aan voor wie binnen 15 jaar met pensioen gaat, nu nog 10 jaar.\nJe pensioeninkomen en levensverwachting tellen dan eerder mee, en op je 85e mag de schuld nog maximaal 70 procent van de woningwaarde zijn.",
-      "todo": "Reken na wat dit voor jouw maximale hypotheek betekent als je tegen je pensioen aan zit en bespreek het met je adviseur.",
-      "bron": "ANP, 1 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/rabobank-verlaagt-maximale-hypotheek-flink-voor-52-plussers-en-hoogbejaarden-veel-mensen-gaan-hier-last-van-krijgen/162430737.html",
-      "slide": "slides/2026-10-02-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-02-3.png",
-      "slack_ts": "1790914126.804949"
+      "kop": "Belastingvrije personeelskorting verdwijnt",
+      "samenvatting": "Vanaf 2027 verdwijnt de losse belastingvrijstelling voor personeelskorting van maximaal 500 euro per jaar.\nWerkgevers kunnen korting op eigen producten nog wel geven via de vrije ruimte van de werkkostenregeling, maar passen ze dat niet aan dan dreigt een heffing van 80 procent over het teveel.",
+      "todo": "Check bij je werkgever of jouw personeelskorting hierdoor verandert en reken na wat dat voor je nettoloon betekent.",
+      "bron": "Telegraaf, 2 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/personeelskorting-onder-druk-winkeliers-vrezen-strafheffing-van-80-procent/162375048.html",
+      "slide": "slides/2026-10-03-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-03-3.png",
+      "slack_ts": "1791000562.258969"
     }
   ]
 }
