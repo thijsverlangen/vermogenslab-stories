@@ -1,10 +1,11 @@
 {
   "datum": "2026-10-04",
-  "status": "wacht_op_keuze",
+  "status": "ingepland",
+  "gekozen": [1],
   "slack_kanaal": "C0C1MU54N81",
   "slack_ts": "1791086948.867239",
   "akiflow_task_id": "e233263f-661b-4146-b2c2-5cafeaa945cc",
-  "eigen_ts": ["1791086948.867239", "1791086949.086819", "1791086949.346559", "1791086949.576649"],
+  "eigen_ts": ["1791086948.867239", "1791086949.086819", "1791086949.346559", "1791086949.576649", "1791100041.713129"],
   "opmerking": "Afbeeldingen zijn geplaatst als image-block met de publieke GitHub-URL, niet als geuploade Slack-file, omdat het netwerkbeleid van deze omgeving files.slack.com blokkeert.",
   "opties": [
     {
