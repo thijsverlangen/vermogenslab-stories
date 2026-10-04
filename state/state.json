@@ -1,44 +1,44 @@
 {
-  "datum": "2026-10-03",
-  "status": "geen_keuze",
+  "datum": "2026-10-04",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1791000515.506539",
-  "akiflow_task_id": "38e07ce9-790d-4d7e-ab73-64117c52d241",
-  "eigen_ts": ["1791000515.506539", "1791000561.630399", "1791000561.946609", "1791000562.258969"],
+  "slack_ts": "1791086948.867239",
+  "akiflow_task_id": "e233263f-661b-4146-b2c2-5cafeaa945cc",
+  "eigen_ts": ["1791086948.867239", "1791086949.086819", "1791086949.346559", "1791086949.576649"],
   "opmerking": "Afbeeldingen zijn geplaatst als image-block met de publieke GitHub-URL, niet als geuploade Slack-file, omdat het netwerkbeleid van deze omgeving files.slack.com blokkeert.",
   "opties": [
     {
       "nr": 1,
-      "kop": "Hypotheek voor ouderen wordt strenger",
-      "samenvatting": "Rabobank en Obvion scherpen vanaf maart 2027 de hypotheeknorm aan voor wie binnen 15 jaar met pensioen gaat, nu is dat nog 10 jaar.\nJe verwachte pensioeninkomen en levensverwachting tellen dan eerder mee, en boven je 85e mag de hypotheek nog maximaal 70 procent van de woningwaarde zijn.",
-      "todo": "Check of dit jouw hypotheekplannen raakt en bespreek de nieuwe regels met je hypotheekadviseur.",
-      "bron": "NU.nl, 2 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6411734/rabobank-scherpt-hypotheeknorm-voor-ouderen-aan-pensioen-telt-eerder-mee.html",
-      "slide": "slides/2026-10-03-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-03-1.png",
-      "slack_ts": "1791000561.630399"
+      "kop": "Zorgkostenaftrek verdwijnt vanaf 2028",
+      "samenvatting": "Het kabinet wil per 2028 de aftrek van zorgkosten zoals hulpmiddelen en dieetkosten schrappen, net als de compensatie daarvoor.\nVooral chronisch zieken en mensen met een laag inkomen voelen dat, en een concreet alternatief is er nog niet.",
+      "todo": "Check of je nu zorgkosten aftrekt en bespreek de gevolgen op tijd met je adviseur of boekhouder.",
+      "bron": "Telegraaf, 3 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/dit-belastingplan-sneeuwt-onder-bij-box-3-maar-raakt-de-kwetsbaarste-burgers-het-hardst-hiervan-gaan-veel-patienten-de-dupe-worden/162535170.html",
+      "slide": "slides/2026-10-04-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-04-1.png",
+      "slack_ts": "1791086949.086819"
     },
     {
       "nr": 2,
-      "kop": "Nieuwe zzp-wet roept vragen op",
-      "samenvatting": "Minister Aartsen wil met de Zelfstandigenwet vanaf 2028 vastleggen wanneer je als zzp'er geldt, met eisen als een KvK-inschrijving en drie opdrachtgevers in twee jaar.\nDeskundigen twijfelen of dit echt meer zekerheid geeft, want je moet er dagelijks aan blijven voldoen.",
-      "todo": "Volg de wet en bespreek met je boekhouder of opdrachtgever of je straks nog als zzp'er door de toets komt.",
-      "bron": "NOS, 2 oktober",
-      "artikel_url": "https://nos.nl/l/2633383",
-      "slide": "slides/2026-10-03-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-03-2.png",
-      "slack_ts": "1791000561.946609"
+      "kop": "Nieuwe zzp-wet stuit op twijfel",
+      "samenvatting": "Minister Aartsen wil zzp'ers en opdrachtgevers meer zekerheid geven met de Zelfstandigenwet, die in 2028 moet ingaan.\nOndernemers zetten toch vraagtekens: de eis van drie opdrachtgevers in twee jaar is lastig voor wie langere projecten doet, en je moet er dagelijks aan blijven voldoen.",
+      "todo": "Check of jouw manier van werken straks aan de nieuwe eisen voldoet en bespreek dit met je opdrachtgever of adviseur.",
+      "bron": "RTL Nieuws, 3 oktober",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5656811/veilige-haven-voor-zzper-ondernemers-schieten-gaten-nieuwe",
+      "slide": "slides/2026-10-04-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-04-2.png",
+      "slack_ts": "1791086949.346559"
     },
     {
       "nr": 3,
-      "kop": "Belastingvrije personeelskorting verdwijnt",
-      "samenvatting": "Vanaf 2027 verdwijnt de losse belastingvrijstelling voor personeelskorting van maximaal 500 euro per jaar.\nWerkgevers kunnen korting op eigen producten nog wel geven via de vrije ruimte van de werkkostenregeling, maar passen ze dat niet aan dan dreigt een heffing van 80 procent over het teveel.",
-      "todo": "Check bij je werkgever of jouw personeelskorting hierdoor verandert en reken na wat dat voor je nettoloon betekent.",
-      "bron": "Telegraaf, 2 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/personeelskorting-onder-druk-winkeliers-vrezen-strafheffing-van-80-procent/162375048.html",
-      "slide": "slides/2026-10-03-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-03-3.png",
-      "slack_ts": "1791000562.258969"
+      "kop": "Duurzaam huis geeft hogere hypotheek",
+      "samenvatting": "Koop je een huis met een goed energielabel, dan mag je bij veel banken extra lenen voor je hypotheek, tot wel 40.000 euro bij het beste label.\nUit onderzoek van ASN Bank blijkt dat meer dan de helft van de starters dit niet weet.",
+      "todo": "Check het energielabel van een woning die je op het oog hebt en vraag je hypotheekadviseur wat dat voor je leenruimte betekent.",
+      "bron": "Telegraaf, 4 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/helft-starters-onwetend-over-gunstige-voorwaarden-duurzame-woningen-tot-wel-40.000-euro-extra-hypotheek-mogelijk/162503370.html",
+      "slide": "slides/2026-10-04-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-04-3.png",
+      "slack_ts": "1791086949.576649"
     }
   ]
 }
