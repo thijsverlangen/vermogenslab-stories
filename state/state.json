@@ -1,45 +1,43 @@
 {
-  "datum": "2026-10-04",
-  "status": "ingepland",
-  "gekozen": [1],
+  "datum": "2026-10-05",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1791086948.867239",
-  "akiflow_task_id": "e233263f-661b-4146-b2c2-5cafeaa945cc",
-  "eigen_ts": ["1791086948.867239", "1791086949.086819", "1791086949.346559", "1791086949.576649", "1791100041.713129"],
-  "opmerking": "Afbeeldingen zijn geplaatst als image-block met de publieke GitHub-URL, niet als geuploade Slack-file, omdat het netwerkbeleid van deze omgeving files.slack.com blokkeert.",
+  "slack_ts": "1791173918.748629",
+  "akiflow_task_id": "9d9c0f3d-cf46-4a40-8c9c-044f5305301c",
+  "eigen_ts": ["1791173918.748629", "1791173943.017229", "1791173943.291679", "1791173943.584519"],
   "opties": [
     {
       "nr": 1,
-      "kop": "Zorgkostenaftrek verdwijnt vanaf 2028",
-      "samenvatting": "Het kabinet wil per 2028 de aftrek van zorgkosten zoals hulpmiddelen en dieetkosten schrappen, net als de compensatie daarvoor.\nVooral chronisch zieken en mensen met een laag inkomen voelen dat, en een concreet alternatief is er nog niet.",
-      "todo": "Check of je nu zorgkosten aftrekt en bespreek de gevolgen op tijd met je adviseur of boekhouder.",
-      "bron": "Telegraaf, 3 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/dit-belastingplan-sneeuwt-onder-bij-box-3-maar-raakt-de-kwetsbaarste-burgers-het-hardst-hiervan-gaan-veel-patienten-de-dupe-worden/162535170.html",
-      "slide": "slides/2026-10-04-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-04-1.png",
-      "slack_ts": "1791086949.086819"
+      "kop": "Personeelskorting verdwijnt per 2027",
+      "samenvatting": "Werkgevers mogen werknemers nu nog belastingvrij 20 procent korting geven op eigen spullen, tot 500 euro per jaar.\nVanaf 2027 schrapt het kabinet die losse vrijstelling. Korting mag nog, maar telt dan mee in de gewone vrije ruimte.",
+      "todo": "Check als werkgever of de personeelskorting straks nog past binnen je vrije ruimte en bespreek dit op tijd met je adviseur.",
+      "bron": "AD, 4 oktober",
+      "artikel_url": "https://www.ad.nl/geld/kabinet-wil-van-personeelskorting-af-retailsector-baalt-is-belangrijke-blijk-van-waardering-voor-ons-personeel~adfa381b/",
+      "slide": "slides/2026-10-05-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-05-1.png",
+      "slack_ts": "1791173943.017229"
     },
     {
       "nr": 2,
-      "kop": "Nieuwe zzp-wet stuit op twijfel",
-      "samenvatting": "Minister Aartsen wil zzp'ers en opdrachtgevers meer zekerheid geven met de Zelfstandigenwet, die in 2028 moet ingaan.\nOndernemers zetten toch vraagtekens: de eis van drie opdrachtgevers in twee jaar is lastig voor wie langere projecten doet, en je moet er dagelijks aan blijven voldoen.",
-      "todo": "Check of jouw manier van werken straks aan de nieuwe eisen voldoet en bespreek dit met je opdrachtgever of adviseur.",
-      "bron": "RTL Nieuws, 3 oktober",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5656811/veilige-haven-voor-zzper-ondernemers-schieten-gaten-nieuwe",
-      "slide": "slides/2026-10-04-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-04-2.png",
-      "slack_ts": "1791086949.346559"
+      "kop": "Samen huis kopen blijft lastig",
+      "samenvatting": "Het kabinet wil woningdelen makkelijker maken, zodat je met vrienden of familie samen een huis kunt kopen.\nMaar van de tientallen geldverstrekkers bieden er maar een paar een hypotheek voor drie of vier personen, omdat het risico lastiger te overzien is.",
+      "todo": "Breng van tevoren in kaart wat jullie samen kunnen lenen en maak afspraken over wat er gebeurt als iemand later vertrekt.",
+      "bron": "Telegraaf, 4 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/woningcrisis-dwingt-vrienden-samen-onder-een-dak-maar-risicos-zijn-groot-hier-moet-je-op-letten/162479075.html",
+      "slide": "slides/2026-10-05-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-05-2.png",
+      "slack_ts": "1791173943.291679"
     },
     {
       "nr": 3,
-      "kop": "Duurzaam huis geeft hogere hypotheek",
-      "samenvatting": "Koop je een huis met een goed energielabel, dan mag je bij veel banken extra lenen voor je hypotheek, tot wel 40.000 euro bij het beste label.\nUit onderzoek van ASN Bank blijkt dat meer dan de helft van de starters dit niet weet.",
-      "todo": "Check het energielabel van een woning die je op het oog hebt en vraag je hypotheekadviseur wat dat voor je leenruimte betekent.",
-      "bron": "Telegraaf, 4 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/helft-starters-onwetend-over-gunstige-voorwaarden-duurzame-woningen-tot-wel-40.000-euro-extra-hypotheek-mogelijk/162503370.html",
-      "slide": "slides/2026-10-04-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-04-3.png",
-      "slack_ts": "1791086949.576649"
+      "kop": "Vermogen bepaalt je toeslagen",
+      "samenvatting": "Toeslagen kijkt voor je kindgebonden budget alleen naar je vermogen op 1 januari.\nSta je dan boven de grens, dan verlies je dat hele jaar je recht, ook als je vermogen later weer daalt. Een moeder moest zo over 2023 ruim 2487 euro terugbetalen.",
+      "todo": "Check in Mijn Toeslagen je geschatte vermogen en inkomen en pas dit op tijd aan om een naheffing te voorkomen.",
+      "bron": "Dagelijkse Standaard, 4 oktober",
+      "artikel_url": "https://www.dagelijksestandaard.nl/economie/kindgebonden-budget-terugbetalen-vermogen-235129-raad-van-state",
+      "slide": "slides/2026-10-05-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-05-3.png",
+      "slack_ts": "1791173943.584519"
     }
   ]
 }
