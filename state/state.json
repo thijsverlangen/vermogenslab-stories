@@ -1,44 +1,48 @@
 {
-  "datum": "2026-10-05",
-  "status": "ingepland",
-  "gekozen": [3],
+  "datum": "2026-10-12",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1791173918.748629",
-  "akiflow_task_id": "9d9c0f3d-cf46-4a40-8c9c-044f5305301c",
-  "eigen_ts": ["1791173918.748629", "1791173943.017229", "1791173943.291679", "1791173943.584519", "1791187697.074559"],
+  "slack_ts": "1791788466.577649",
+  "eigen_ts": [
+    "1791788466.577649",
+    "1791788468.662389",
+    "1791788470.765389",
+    "1791788473.253869"
+  ],
+  "akiflow_task_id": "a3dfb704-1c2f-482b-8d4f-280700093dbb",
   "opties": [
     {
       "nr": 1,
-      "kop": "Personeelskorting verdwijnt per 2027",
-      "samenvatting": "Werkgevers mogen werknemers nu nog belastingvrij 20 procent korting geven op eigen spullen, tot 500 euro per jaar.\nVanaf 2027 schrapt het kabinet die losse vrijstelling. Korting mag nog, maar telt dan mee in de gewone vrije ruimte.",
-      "todo": "Check als werkgever of de personeelskorting straks nog past binnen je vrije ruimte en bespreek dit op tijd met je adviseur.",
-      "bron": "AD, 4 oktober",
-      "artikel_url": "https://www.ad.nl/geld/kabinet-wil-van-personeelskorting-af-retailsector-baalt-is-belangrijke-blijk-van-waardering-voor-ons-personeel~adfa381b/",
-      "slide": "slides/2026-10-05-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-05-1.png",
-      "slack_ts": "1791173943.017229"
+      "kop": "Extra belasting voor grote vermogens",
+      "samenvatting": "Vanaf 2028 betaal je in box 3 belasting over je werkelijke rendement, ook over waardestijgingen die je nog niet verkocht hebt.\nHet kabinet heeft nog geen dekking. Bedenker Marnix van Rij wil een extra heffing op vermogens boven 5 miljoen euro en waarschuwt voor chaos door de haast.",
+      "todo": "Heb jij of je bv een groot vermogen? Houd de uitwerking van box 3 in de gaten en bespreek dit met je adviseur.",
+      "bron": "Telegraaf, 12 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/bedenker-box-3-plan-marnix-van-rij-vreest-chaos-laat-vermogens-boven-5-miljoen-extra-betalen/162819656.html",
+      "slide": "slides/2026-10-12-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-12-1.png",
+      "slack_ts": "1791788468.662389"
     },
     {
       "nr": 2,
-      "kop": "Samen huis kopen blijft lastig",
-      "samenvatting": "Het kabinet wil woningdelen makkelijker maken, zodat je met vrienden of familie samen een huis kunt kopen.\nMaar van de tientallen geldverstrekkers bieden er maar een paar een hypotheek voor drie of vier personen, omdat het risico lastiger te overzien is.",
-      "todo": "Breng van tevoren in kaart wat jullie samen kunnen lenen en maak afspraken over wat er gebeurt als iemand later vertrekt.",
-      "bron": "Telegraaf, 4 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/woningcrisis-dwingt-vrienden-samen-onder-een-dak-maar-risicos-zijn-groot-hier-moet-je-op-letten/162479075.html",
-      "slide": "slides/2026-10-05-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-05-2.png",
-      "slack_ts": "1791173943.291679"
+      "kop": "Nieuwe nettarieven voor huishoudens",
+      "samenvatting": "De ACM wil dat huishoudens vanaf 2029 meer gaan betalen naar gebruik van het stroomnet, in plaats van een vast bedrag per aansluiting.\nWie veel stroom gebruikt op drukke momenten, zoals 's avonds de auto laden, betaalt meer. Ongeveer 6 op de 10 huishoudens gaat er juist op vooruit.",
+      "todo": "Check later hoe de nieuwe tarieven voor jouw woning uitpakken en bekijk of je je stroomverbruik kunt spreiden.",
+      "bron": "NU.nl / ACM, 11 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6412432/acm-wil-dat-huishoudens-meer-naar-gebruik-betalen-met-nieuwe-nettarieven.html",
+      "slide": "slides/2026-10-12-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-12-2.png",
+      "slack_ts": "1791788470.765389"
     },
     {
       "nr": 3,
-      "kop": "Vermogen bepaalt je toeslagen",
-      "samenvatting": "Toeslagen kijkt voor je kindgebonden budget alleen naar je vermogen op 1 januari.\nSta je dan boven de grens, dan verlies je dat hele jaar je recht, ook als je vermogen later weer daalt. Een moeder moest zo over 2023 ruim 2487 euro terugbetalen.",
-      "todo": "Check in Mijn Toeslagen je geschatte vermogen en inkomen en pas dit op tijd aan om een naheffing te voorkomen.",
-      "bron": "Dagelijkse Standaard, 4 oktober",
-      "artikel_url": "https://www.dagelijksestandaard.nl/economie/kindgebonden-budget-terugbetalen-vermogen-235129-raad-van-state",
-      "slide": "slides/2026-10-05-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-05-3.png",
-      "slack_ts": "1791173943.584519"
+      "kop": "Twijfel over nieuwe zzp-wet",
+      "samenvatting": "Het kabinet wil met de Zelfstandigenwet vanaf 2028 duidelijker maken wanneer je echt zzp'er bent en wanneer niet.\nExperts twijfelen of dit werkt: het grootste deel van de zzp'ers blijft in een grijs gebied, en zonder handhaving verandert er volgens hen in de praktijk weinig.",
+      "todo": "Werk je met zzp'ers of ben je zelf zzp'er? Check of je voldoet aan de nieuwe zelfstandigheids- en werkrelatietoets.",
+      "bron": "NU.nl, 11 oktober",
+      "artikel_url": "https://www.nu.nl/nujij/6411681/experts-over-nieuwe-zzp-wet-lost-niks-op-zolang-er-niet-wordt-gehandhaafd.html",
+      "slide": "slides/2026-10-12-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-12-3.png",
+      "slack_ts": "1791788473.253869"
     }
   ]
 }
