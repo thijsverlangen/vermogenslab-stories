@@ -1,48 +1,48 @@
 {
-  "datum": "2026-10-12",
-  "status": "geen_keuze",
+  "datum": "2026-10-13",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1791788466.577649",
+  "slack_ts": "1791864606.412409",
   "eigen_ts": [
-    "1791788466.577649",
-    "1791788468.662389",
-    "1791788470.765389",
-    "1791788473.253869"
+    "1791864606.412409",
+    "1791864608.519059",
+    "1791864610.834639",
+    "1791864613.141879"
   ],
-  "akiflow_task_id": "a3dfb704-1c2f-482b-8d4f-280700093dbb",
+  "akiflow_task_id": "44fe7a08-e26b-4f0d-84b2-0a827affa532",
   "opties": [
     {
       "nr": 1,
-      "kop": "Extra belasting voor grote vermogens",
-      "samenvatting": "Vanaf 2028 betaal je in box 3 belasting over je werkelijke rendement, ook over waardestijgingen die je nog niet verkocht hebt.\nHet kabinet heeft nog geen dekking. Bedenker Marnix van Rij wil een extra heffing op vermogens boven 5 miljoen euro en waarschuwt voor chaos door de haast.",
-      "todo": "Heb jij of je bv een groot vermogen? Houd de uitwerking van box 3 in de gaten en bespreek dit met je adviseur.",
-      "bron": "Telegraaf, 12 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/bedenker-box-3-plan-marnix-van-rij-vreest-chaos-laat-vermogens-boven-5-miljoen-extra-betalen/162819656.html",
-      "slide": "slides/2026-10-12-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-12-1.png",
-      "slack_ts": "1791788468.662389"
+      "kop": "NHG-grens stijgt naar 500.000",
+      "samenvatting": "De NHG-grens gaat in 2027 omhoog van 470.000 naar 500.000 euro, blijkt uit een Kamerstuk.\nKoop je een huis met energielabel E, F of G? Dan telt vanaf 2027 standaard 20.000 euro extra voor verduurzaming mee in je hypotheek.",
+      "todo": "Koop je een huis met een laag energielabel? Bespreek de nieuwe regels voor verduurzaming met je hypotheekadviseur.",
+      "bron": "AD, 13 oktober",
+      "artikel_url": "https://www.ad.nl/economie/nhg-grens-stijgt-naar-500-000-euro-kopers-van-woningen-met-laag-energielabel-moeten-aan-de-bak~aa221fbc/",
+      "slide": "slides/2026-10-13-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-13-1.png",
+      "slack_ts": "1791864608.519059"
     },
     {
       "nr": 2,
-      "kop": "Nieuwe nettarieven voor huishoudens",
-      "samenvatting": "De ACM wil dat huishoudens vanaf 2029 meer gaan betalen naar gebruik van het stroomnet, in plaats van een vast bedrag per aansluiting.\nWie veel stroom gebruikt op drukke momenten, zoals 's avonds de auto laden, betaalt meer. Ongeveer 6 op de 10 huishoudens gaat er juist op vooruit.",
-      "todo": "Check later hoe de nieuwe tarieven voor jouw woning uitpakken en bekijk of je je stroomverbruik kunt spreiden.",
-      "bron": "NU.nl / ACM, 11 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6412432/acm-wil-dat-huishoudens-meer-naar-gebruik-betalen-met-nieuwe-nettarieven.html",
-      "slide": "slides/2026-10-12-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-12-2.png",
-      "slack_ts": "1791788470.765389"
+      "kop": "Einde van belastingvrije personeelskorting",
+      "samenvatting": "Vanaf 2027 schaft het kabinet de aparte belastingvrijstelling voor personeelskorting af. Nu mag je personeel nog tot 500 euro per jaar belastingvrij korting geven op eigen producten.\nDaarna kan dat nog via de vrije ruimte van de werkkostenregeling, maar is die op, dan betaal je 80% belasting over het extra deel.",
+      "todo": "Geef je personeel korting? Check met je boekhouder of de vrije ruimte in 2027 genoeg overblijft.",
+      "bron": "RTL Nieuws, 12 oktober",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5658143/verdwijnt-jouw-personeelskorting-extraatje-van-de-baas-op-losse",
+      "slide": "slides/2026-10-13-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-13-2.png",
+      "slack_ts": "1791864610.834639"
     },
     {
       "nr": 3,
-      "kop": "Twijfel over nieuwe zzp-wet",
-      "samenvatting": "Het kabinet wil met de Zelfstandigenwet vanaf 2028 duidelijker maken wanneer je echt zzp'er bent en wanneer niet.\nExperts twijfelen of dit werkt: het grootste deel van de zzp'ers blijft in een grijs gebied, en zonder handhaving verandert er volgens hen in de praktijk weinig.",
-      "todo": "Werk je met zzp'ers of ben je zelf zzp'er? Check of je voldoet aan de nieuwe zelfstandigheids- en werkrelatietoets.",
-      "bron": "NU.nl, 11 oktober",
-      "artikel_url": "https://www.nu.nl/nujij/6411681/experts-over-nieuwe-zzp-wet-lost-niks-op-zolang-er-niet-wordt-gehandhaafd.html",
-      "slide": "slides/2026-10-12-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-12-3.png",
-      "slack_ts": "1791788473.253869"
+      "kop": "Ondernemers betalen mee aan verkoop",
+      "samenvatting": "Bij een op de drie bedrijfsovernames in het mkb betaalt de verkoper nu zelf mee, via een achtergestelde lening of een uitgestelde betaling die afhangt van latere resultaten.\nKopers stellen steeds vaker voorwaarden, zoals bankfinanciering, blijkt uit onderzoek van overnameplatform Brookz.",
+      "todo": "Wil je je bedrijf verkopen? Bespreek met je adviseur hoeveel risico je zelf wilt blijven dragen na de deal.",
+      "bron": "De Telegraaf, 12 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/een-op-drie-ondernemers-betaalt-zelf-mee-aan-de-verkoop-van-zijn-bedrijf/162957414.html",
+      "slide": "slides/2026-10-13-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-13-3.png",
+      "slack_ts": "1791864613.141879"
     }
   ]
 }
