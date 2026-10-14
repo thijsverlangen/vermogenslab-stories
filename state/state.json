@@ -1,50 +1,48 @@
 {
-  "datum": "2026-10-13",
-  "status": "ingepland",
-  "gekozen": [1],
+  "datum": "2026-10-14",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1791864606.412409",
+  "slack_ts": "1791951328.287759",
   "eigen_ts": [
-    "1791864606.412409",
-    "1791864608.519059",
-    "1791864610.834639",
-    "1791864613.141879",
-    "1791877615.024069"
+    "1791951328.287759",
+    "1791951330.261809",
+    "1791951332.404059",
+    "1791951335.707629"
   ],
-  "akiflow_task_id": "44fe7a08-e26b-4f0d-84b2-0a827affa532",
+  "akiflow_task_id": "d699bcd9-f84e-4be4-af22-08fbe99ee8d5",
   "opties": [
     {
       "nr": 1,
-      "kop": "NHG-grens stijgt naar 500.000",
-      "samenvatting": "De NHG-grens gaat in 2027 omhoog van 470.000 naar 500.000 euro, blijkt uit een Kamerstuk.\nKoop je een huis met energielabel E, F of G? Dan telt vanaf 2027 standaard 20.000 euro extra voor verduurzaming mee in je hypotheek.",
-      "todo": "Koop je een huis met een laag energielabel? Bespreek de nieuwe regels voor verduurzaming met je hypotheekadviseur.",
-      "bron": "AD, 13 oktober",
-      "artikel_url": "https://www.ad.nl/economie/nhg-grens-stijgt-naar-500-000-euro-kopers-van-woningen-met-laag-energielabel-moeten-aan-de-bak~aa221fbc/",
-      "slide": "slides/2026-10-13-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-13-1.png",
-      "slack_ts": "1791864608.519059"
+      "kop": "Inflatie stijgt naar 3,4 procent",
+      "samenvatting": "Het leven werd in september 3,4 procent duurder dan een jaar eerder, meldt het CBS. Vooral tanken werd duurder: een liter diesel kostte gemiddeld 2,50 euro.\nBoodschappen werden juist iets goedkoper.",
+      "todo": "Rij je veel? Reken na wat hogere brandstofprijzen je per maand kosten en kijk waar je kunt besparen.",
+      "bron": "De Telegraaf, 13 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/prijzen-brandstoffen-en-apparatuur-voor-telecom-stuwen-inflatie-naar-34-procent/162979607.html",
+      "slide": "slides/2026-10-14-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-14-1.png",
+      "slack_ts": "1791951330.261809"
     },
     {
       "nr": 2,
-      "kop": "Einde van belastingvrije personeelskorting",
-      "samenvatting": "Vanaf 2027 schaft het kabinet de aparte belastingvrijstelling voor personeelskorting af. Nu mag je personeel nog tot 500 euro per jaar belastingvrij korting geven op eigen producten.\nDaarna kan dat nog via de vrije ruimte van de werkkostenregeling, maar is die op, dan betaal je 80% belasting over het extra deel.",
-      "todo": "Geef je personeel korting? Check met je boekhouder of de vrije ruimte in 2027 genoeg overblijft.",
-      "bron": "RTL Nieuws, 12 oktober",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5658143/verdwijnt-jouw-personeelskorting-extraatje-van-de-baas-op-losse",
-      "slide": "slides/2026-10-13-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-13-2.png",
-      "slack_ts": "1791864610.834639"
+      "kop": "Gasprijs stijgt naar hoogste niveau",
+      "samenvatting": "De Europese gasprijs steeg naar ruim 86 euro per megawattuur, het hoogste niveau sinds 2022. Dat komt vooral door een beperkte gasaanvoer, onder meer uit de Golfregio.\nMet de winter voor de deur kan dit je energierekening raken, vooral bij een variabel contract.",
+      "todo": "Heb je een variabel energiecontract of loopt je vaste contract af? Vergelijk nu alvast de tarieven voor deze winter.",
+      "bron": "NU.nl, 13 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6413026/gasprijs-op-hoogste-niveau-van-het-jaar-door-tekort-uit-golfregio.html",
+      "slide": "slides/2026-10-14-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-14-2.png",
+      "slack_ts": "1791951332.404059"
     },
     {
       "nr": 3,
-      "kop": "Ondernemers betalen mee aan verkoop",
-      "samenvatting": "Bij een op de drie bedrijfsovernames in het mkb betaalt de verkoper nu zelf mee, via een achtergestelde lening of een uitgestelde betaling die afhangt van latere resultaten.\nKopers stellen steeds vaker voorwaarden, zoals bankfinanciering, blijkt uit onderzoek van overnameplatform Brookz.",
-      "todo": "Wil je je bedrijf verkopen? Bespreek met je adviseur hoeveel risico je zelf wilt blijven dragen na de deal.",
-      "bron": "De Telegraaf, 12 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/een-op-drie-ondernemers-betaalt-zelf-mee-aan-de-verkoop-van-zijn-bedrijf/162957414.html",
-      "slide": "slides/2026-10-13-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-13-3.png",
-      "slack_ts": "1791864613.141879"
+      "kop": "Vrijheidsbijdrage kost je straks geld",
+      "samenvatting": "Het kabinet haalt geld op voor hogere defensie-uitgaven door belastingschijven minder te laten meegroeien met de prijzen. Werkenden en gepensioneerden gaan er in 2027 en 2028 gemiddeld 0,7 procent op achteruit.\nEen alleenstaande met 50.000 euro inkomen levert dat ongeveer 120 euro netto per jaar op.",
+      "todo": "Check in januari je loonstrook of pensioenspecificatie en bespreek de gevolgen voor je inkomen met je adviseur.",
+      "bron": "Dagelijkse Standaard, 13 oktober",
+      "artikel_url": "https://www.dagelijksestandaard.nl/economie/vrijheidsbijdrage-2027-120-euro-netto-50000-inkomen",
+      "slide": "slides/2026-10-14-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-14-3.png",
+      "slack_ts": "1791951335.707629"
     }
   ]
 }
