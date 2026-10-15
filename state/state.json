@@ -1,51 +1,48 @@
 {
-  "datum": "2026-10-14",
-  "status": "ingepland",
-  "gekozen": [2],
+  "datum": "2026-10-15",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1791951328.287759",
+  "slack_ts": "1792037465.475819",
   "eigen_ts": [
-    "1791951328.287759",
-    "1791951330.261809",
-    "1791951332.404059",
-    "1791951335.707629",
-    "1791964077.290019",
-    "1791964106.497949"
+    "1792037465.475819",
+    "1792037467.427609",
+    "1792037469.376139",
+    "1792037471.587869"
   ],
-  "akiflow_task_id": "d699bcd9-f84e-4be4-af22-08fbe99ee8d5",
+  "akiflow_task_id": "d4f8614e-5e23-44ba-b674-278707a7af34",
   "opties": [
     {
       "nr": 1,
-      "kop": "Inflatie stijgt naar 3,4 procent",
-      "samenvatting": "Het leven werd in september 3,4 procent duurder dan een jaar eerder, meldt het CBS. Vooral tanken werd duurder: een liter diesel kostte gemiddeld 2,50 euro.\nBoodschappen werden juist iets goedkoper.",
-      "todo": "Rij je veel? Reken na wat hogere brandstofprijzen je per maand kosten en kijk waar je kunt besparen.",
-      "bron": "De Telegraaf, 13 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/prijzen-brandstoffen-en-apparatuur-voor-telecom-stuwen-inflatie-naar-34-procent/162979607.html",
-      "slide": "slides/2026-10-14-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-14-1.png",
-      "slack_ts": "1791951330.261809"
+      "kop": "Grote banken verhogen spaarrente niet",
+      "samenvatting": "De ECB verhoogde vorige maand de rente, en Rabobank gaat mee met een hogere spaarrente. ABN AMRO en ING doen dat niet en blijven op 1,25 procent.\nBij andere, kleinere banken krijg je soms bijna twee keer zoveel rente op je spaargeld.",
+      "todo": "Vergelijk de spaarrente van je bank eens met andere aanbieders en check of overstappen de moeite loont.",
+      "bron": "De Telegraaf, 15 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/meeste-nederlandse-banken-vertikken-het-om-rentes-te-verhogen-spaarders-zien-geld-verdampen/163059195.html",
+      "slide": "slides/2026-10-15-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-15-1.png",
+      "slack_ts": "1792037467.427609"
     },
     {
       "nr": 2,
-      "kop": "Gasprijs stijgt naar hoogste niveau",
-      "samenvatting": "De Europese gasprijs steeg naar ruim 86 euro per megawattuur, het hoogste niveau sinds 2022. Dat komt vooral door een beperkte gasaanvoer, onder meer uit de Golfregio.\nMet de winter voor de deur kan dit je energierekening raken, vooral bij een variabel contract.",
-      "todo": "Heb je een variabel energiecontract of loopt je vaste contract af? Vergelijk nu alvast de tarieven voor deze winter.",
-      "bron": "NU.nl, 13 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6413026/gasprijs-op-hoogste-niveau-van-het-jaar-door-tekort-uit-golfregio.html",
-      "slide": "slides/2026-10-14-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-14-2.png",
-      "slack_ts": "1791951332.404059"
+      "kop": "Budget voor startersleningen raakt op",
+      "samenvatting": "Hypotheekadviseurs zien dat gemeentelijke potjes voor startersleningen op meer plekken leeg raken. Starters hebben door de hoge huizenprijzen grotere leningen nodig dan de budgetten toelaten.\nSommige gemeenten vullen de pot net op tijd weer bij, maar niet overal.",
+      "todo": "Wil je of je kind een eerste huis kopen? Check bij de gemeente of de starterslening nog beschikbaar is.",
+      "bron": "NU.nl, 15 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6413131/potjes-voor-startersleningen-drogen-op-door-gestegen-huizenprijzen.html",
+      "slide": "slides/2026-10-15-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-15-2.png",
+      "slack_ts": "1792037469.376139"
     },
     {
       "nr": 3,
-      "kop": "Vrijheidsbijdrage kost je straks geld",
-      "samenvatting": "Het kabinet haalt geld op voor hogere defensie-uitgaven door belastingschijven minder te laten meegroeien met de prijzen. Werkenden en gepensioneerden gaan er in 2027 en 2028 gemiddeld 0,7 procent op achteruit.\nEen alleenstaande met 50.000 euro inkomen levert dat ongeveer 120 euro netto per jaar op.",
-      "todo": "Check in januari je loonstrook of pensioenspecificatie en bespreek de gevolgen voor je inkomen met je adviseur.",
-      "bron": "Dagelijkse Standaard, 13 oktober",
-      "artikel_url": "https://www.dagelijksestandaard.nl/economie/vrijheidsbijdrage-2027-120-euro-netto-50000-inkomen",
-      "slide": "slides/2026-10-14-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-14-3.png",
-      "slack_ts": "1791951335.707629"
+      "kop": "Dieselprijs blijft hoog tot 2027",
+      "samenvatting": "Het Internationaal Energieagentschap waarschuwt dat de dieselmarkt tot ver in 2027 te krap blijft. Voorraden zijn sterk gedaald en de aanvoer, onder meer uit Rusland, blijft achter.\nDat raakt vooral boeren, transporteurs en automobilisten die niet zomaar kunnen overstappen.",
+      "todo": "Rij je veel voor je werk of bedrijf? Reken de hogere brandstofkosten mee in je begroting.",
+      "bron": "De Telegraaf, 14 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/automobilisten-boeren-en-transporteurs-langer-de-dupe-van-peperdure-diesel-krapte-houdt-aan-tot-ver-in-2027/163041490.html",
+      "slide": "slides/2026-10-15-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-15-3.png",
+      "slack_ts": "1792037471.587869"
     }
   ]
 }
