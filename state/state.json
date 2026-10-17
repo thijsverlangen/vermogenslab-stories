@@ -1,48 +1,48 @@
 {
-  "datum": "2026-10-16",
-  "status": "geen_keuze",
-  "akiflow_task_id": "c0af8858-0f1d-4e8f-9998-00b0f87b1e2c",
+  "datum": "2026-10-17",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "d040884c-f750-4318-9957-4fe30fe5d1bb",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792123890.726269",
+  "slack_ts": "1792210183.982309",
   "eigen_ts": [
-    "1792123890.726269",
-    "1792123892.872349",
-    "1792123894.967809",
-    "1792123897.122689"
+    "1792210183.982309",
+    "1792210185.926699",
+    "1792210188.021099",
+    "1792210190.199339"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Bank moet fraudegeld snel terugbetalen",
-      "samenvatting": "Het Europese Hof bepaalt dat banken phishingslachtoffers binnen één werkdag moeten terugbetalen. Dat geldt zelfs als de klant grof nalatig was, bijvoorbeeld door een code onvoldoende te beschermen.\nAlleen bij een vermoeden van betrokkenheid bij de fraude zelf mag een bank de terugbetaling uitstellen.",
-      "todo": "Check wat je bank doet bij fraude en bewaar bewijs als je slachtoffer wordt van phishing.",
-      "bron": "AD, 15 oktober",
-      "artikel_url": "https://www.ad.nl/economie/banken-moeten-slachtoffers-van-phishing-binnen-een-dag-terugbetalen-ook-als-klant-grove-fout-maakt~acab58ab/",
-      "slide": "slides/2026-10-16-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-16-1.png",
-      "slack_ts": "1792123892.872349"
+      "kop": "Vaste energiecontracten in trek",
+      "samenvatting": "Steeds meer Nederlanders zetten hun energietarief voor drie jaar vast. Het aantal aanvragen voor zo'n contract is explosief gestegen.\nTegelijk voelen 3,7 miljoen huishoudens met een variabel contract de hogere energieprijzen nu al in hun portemonnee.",
+      "todo": "Check je energiecontract en reken na of vastzetten voor jou voordeliger uitpakt.",
+      "bron": "Telegraaf, 16 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/plots-winnen-driejarige-energiecontracten-aan-populariteit-we-zien-vertienvoudiging-in-aanvragen/163049442.html",
+      "slide": "slides/2026-10-17-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-17-1.png",
+      "slack_ts": "1792210185.926699"
     },
     {
       "nr": 2,
-      "kop": "Ondernemers sparen minder voor pensioen",
-      "samenvatting": "Uit onderzoek van ING onder ruim 500 zzp'ers en mkb'ers blijkt dat meer dan de helft hogere kosten niet volledig doorberekent aan klanten. Daardoor schuiven veel ondernemers investeringen en reserveringen voor pensioen, verzekering of verduurzaming voor zich uit.",
-      "todo": "Check als ondernemer of je genoeg opzij zet voor pensioen en verzekeringen, en bespreek dit eventueel met je adviseur.",
-      "bron": "AD, 15 oktober",
-      "artikel_url": "https://www.ad.nl/economie/voor-veel-zzpers-is-er-door-stijgende-kosten-geen-geld-meer-over-voor-pensioen-verzekering-of-verduurzaming~a453b213/",
-      "slide": "slides/2026-10-16-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-16-2.png",
-      "slack_ts": "1792123894.967809"
+      "kop": "Boete bij afhaken huizenkoop",
+      "samenvatting": "Een huizenkoper die de koop niet rondkrijgt, is volgens het modelcontract standaard 10 procent van de koopprijs boete verschuldigd. Het gerechtshof in Leeuwarden vond die boete in een zaak tegen twee studentes te hoog voor de huidige, oververhitte woningmarkt.\nDe uitspraak kan gevolgen hebben voor koopcontracten.",
+      "todo": "Laat de boeteclausule in je koopcontract checken voordat je tekent, zeker bij nieuwbouw.",
+      "bron": "Telegraaf, 16 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/standaardboete-van-10-procent-voor-afhakende-huizenkoper-op-losse-schroeven-na-uitspraak-hof-past-niet-bij-oververhitte-woningmarkt/163088203.html",
+      "slide": "slides/2026-10-17-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-17-2.png",
+      "slack_ts": "1792210188.021099"
     },
     {
       "nr": 3,
-      "kop": "Benzine en diesel blijven duur",
-      "samenvatting": "Benzine en diesel zijn licht goedkoper geworden, maar de prijzen blijven historisch hoog. Onrust in het Midden-Oosten en zorgen over de olieaanvoer houden de prijzen omhoog.\nEen volle tank kost hierdoor nog steeds fors meer dan een jaar geleden.",
-      "todo": "Rij je veel voor je werk? Houd de brandstofkosten in de gaten en neem ze mee in je begroting.",
-      "bron": "NU.nl, 15 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6413241/benzine-en-diesel-iets-goedkoper-geworden-maar-prijzen-blijven-op-hoog-niveau.html",
-      "slide": "slides/2026-10-16-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-16-3.png",
-      "slack_ts": "1792123897.122689"
+      "kop": "Benzineprijs daalt na piekweek",
+      "samenvatting": "De benzineprijs is deze week met bijna 5 cent gedaald, na een record vorige week. Benzine is daarmee weer goedkoper dan diesel.\nDe prijzen blijven wel hoger dan normaal door onrust over olie uit het Midden-Oosten.",
+      "todo": "Rij je veel voor je werk? Houd de brandstofkosten in de gaten in je begroting.",
+      "bron": "NU.nl, 16 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6413353/benzineprijs-daalt-weer-met-5-cent-na-week-met-torenhoge-pompprijzen.html",
+      "slide": "slides/2026-10-17-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-17-3.png",
+      "slack_ts": "1792210190.199339"
     }
   ]
 }
