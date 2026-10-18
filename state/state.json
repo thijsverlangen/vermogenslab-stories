@@ -1,50 +1,48 @@
 {
-  "datum": "2026-10-17",
-  "status": "ingepland",
-  "gekozen": [1],
-  "akiflow_task_id": "d040884c-f750-4318-9957-4fe30fe5d1bb",
+  "datum": "2026-10-18",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "5e3bf80e-16d5-4b86-9d3d-2d3b38828860",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792210183.982309",
+  "slack_ts": "1792296440.799729",
   "eigen_ts": [
-    "1792210183.982309",
-    "1792210185.926699",
-    "1792210188.021099",
-    "1792210190.199339",
-    "1792223189.029919"
+    "1792296440.799729",
+    "1792296442.640959",
+    "1792296444.789599",
+    "1792296447.068219"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Vaste energiecontracten in trek",
-      "samenvatting": "Steeds meer Nederlanders zetten hun energietarief voor drie jaar vast. Het aantal aanvragen voor zo'n contract is explosief gestegen.\nTegelijk voelen 3,7 miljoen huishoudens met een variabel contract de hogere energieprijzen nu al in hun portemonnee.",
-      "todo": "Check je energiecontract en reken na of vastzetten voor jou voordeliger uitpakt.",
-      "bron": "Telegraaf, 16 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/plots-winnen-driejarige-energiecontracten-aan-populariteit-we-zien-vertienvoudiging-in-aanvragen/163049442.html",
-      "slide": "slides/2026-10-17-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-17-1.png",
-      "slack_ts": "1792210185.926699"
+      "kop": "Spaarders laten rente liggen",
+      "samenvatting": "Prijsvechters bieden spaarrentes van boven de 3 procent, maar de meeste Nederlanders sparen nog bij een grootbank met een rente van gemiddeld onder de 1,5 procent.\nBij een flink spaarbedrag loop je zo honderden euro's per jaar mis.",
+      "todo": "Vergelijk de spaarrente van je bank met andere aanbieders en overweeg over te stappen.",
+      "bron": "Telegraaf, 18 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/waarom-miljoenen-spaarders-geld-laten-liggen-ondanks-grote-renteverschillen-er-is-heel-veel-nodig-om-mensen-van-bank-te-laten-wisselen/163213027.html",
+      "slide": "slides/2026-10-18-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-18-1.png",
+      "slack_ts": "1792296442.640959"
     },
     {
       "nr": 2,
-      "kop": "Boete bij afhaken huizenkoop",
-      "samenvatting": "Een huizenkoper die de koop niet rondkrijgt, is volgens het modelcontract standaard 10 procent van de koopprijs boete verschuldigd. Het gerechtshof in Leeuwarden vond die boete in een zaak tegen twee studentes te hoog voor de huidige, oververhitte woningmarkt.\nDe uitspraak kan gevolgen hebben voor koopcontracten.",
-      "todo": "Laat de boeteclausule in je koopcontract checken voordat je tekent, zeker bij nieuwbouw.",
-      "bron": "Telegraaf, 16 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/standaardboete-van-10-procent-voor-afhakende-huizenkoper-op-losse-schroeven-na-uitspraak-hof-past-niet-bij-oververhitte-woningmarkt/163088203.html",
-      "slide": "slides/2026-10-17-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-17-2.png",
-      "slack_ts": "1792210188.021099"
+      "kop": "Overbieden op huis minder normaal",
+      "samenvatting": "Het aanbod van koopwoningen groeit snel en overbieden is niet langer vanzelfsprekend.\nKopers krijgen weer meer ruimte om te onderhandelen over de prijs in plaats van automatisch boven de vraagprijs te bieden.",
+      "todo": "Overweeg je een huis te kopen? Laat je hypotheekadviseur meekijken of overbieden nog nodig is.",
+      "bron": "NU.nl, 17 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6413411/overbieden-op-een-huis-is-niet-langer-vanzelfsprekend.html",
+      "slide": "slides/2026-10-18-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-18-2.png",
+      "slack_ts": "1792296444.789599"
     },
     {
       "nr": 3,
-      "kop": "Benzineprijs daalt na piekweek",
-      "samenvatting": "De benzineprijs is deze week met bijna 5 cent gedaald, na een record vorige week. Benzine is daarmee weer goedkoper dan diesel.\nDe prijzen blijven wel hoger dan normaal door onrust over olie uit het Midden-Oosten.",
-      "todo": "Rij je veel voor je werk? Houd de brandstofkosten in de gaten in je begroting.",
-      "bron": "NU.nl, 16 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6413353/benzineprijs-daalt-weer-met-5-cent-na-week-met-torenhoge-pompprijzen.html",
-      "slide": "slides/2026-10-17-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-17-3.png",
-      "slack_ts": "1792210190.199339"
+      "kop": "Meer funderingsschade door droogte",
+      "samenvatting": "Door de droge zomers melden steeds meer huiseigenaren schade aan hun fundering, bijna een verviervoudiging bij het funderingsloket.\nExperts verwachten de komende maanden een nieuwe piek in meldingen.",
+      "todo": "Woon je op kleigrond? Laat je fundering bij twijfel checken en informeer naar de kosten van herstel.",
+      "bron": "AD, 17 oktober",
+      "artikel_url": "https://www.ad.nl/binnenland/droge-zomers-doen-hun-werk-onder-je-huis-bijna-verviervoudiging-van-meldingen-bij-funderingsloket~abf3206f/",
+      "slide": "slides/2026-10-18-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-18-3.png",
+      "slack_ts": "1792296447.068219"
     }
   ]
 }
