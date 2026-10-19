@@ -1,50 +1,48 @@
 {
-  "datum": "2026-10-18",
-  "status": "ingepland",
-  "gekozen": [1],
-  "akiflow_task_id": "5e3bf80e-16d5-4b86-9d3d-2d3b38828860",
+  "datum": "2026-10-19",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "942b673d-b7f6-44b8-a277-8d0c9bb01a9e",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792296440.799729",
+  "slack_ts": "1792383020.788209",
   "eigen_ts": [
-    "1792296440.799729",
-    "1792296442.640959",
-    "1792296444.789599",
-    "1792296447.068219",
-    "1792316799.258989"
+    "1792383020.788209",
+    "1792383022.761239",
+    "1792383024.549809",
+    "1792383026.639369"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Spaarders laten rente liggen",
-      "samenvatting": "Prijsvechters bieden spaarrentes van boven de 3 procent, maar de meeste Nederlanders sparen nog bij een grootbank met een rente van gemiddeld onder de 1,5 procent.\nBij een flink spaarbedrag loop je zo honderden euro's per jaar mis.",
-      "todo": "Vergelijk de spaarrente van je bank met andere aanbieders en overweeg over te stappen.",
+      "kop": "Bespaar nu op je gasrekening",
+      "samenvatting": "Gas is drie jaar niet zo duur geweest en het stookseizoen is net begonnen.\nMet kleine dingen zoals tochtstrips, een lagere thermostaat en een scherpere ketelinstelling bespaar je al snel een paar honderd euro per jaar.",
+      "todo": "Check je thermostaatinstelling en vergelijk je energiecontract met andere aanbieders.",
       "bron": "Telegraaf, 18 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/waarom-miljoenen-spaarders-geld-laten-liggen-ondanks-grote-renteverschillen-er-is-heel-veel-nodig-om-mensen-van-bank-te-laten-wisselen/163213027.html",
-      "slide": "slides/2026-10-18-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-18-1.png",
-      "slack_ts": "1792296442.640959"
+      "artikel_url": "https://www.telegraaf.nl/financieel/nieuws/de-kachel-moet-aan-maar-gas-is-nu-peperduur-met-deze-tips-voor-je-woning-kan-je-veel-geld-besparen/163209869.html",
+      "slide": "slides/2026-10-19-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-19-1.png",
+      "slack_ts": "1792383022.761239"
     },
     {
       "nr": 2,
-      "kop": "Overbieden op huis minder normaal",
-      "samenvatting": "Het aanbod van koopwoningen groeit snel en overbieden is niet langer vanzelfsprekend.\nKopers krijgen weer meer ruimte om te onderhandelen over de prijs in plaats van automatisch boven de vraagprijs te bieden.",
-      "todo": "Overweeg je een huis te kopen? Laat je hypotheekadviseur meekijken of overbieden nog nodig is.",
-      "bron": "NU.nl, 17 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6413411/overbieden-op-een-huis-is-niet-langer-vanzelfsprekend.html",
-      "slide": "slides/2026-10-18-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-18-2.png",
-      "slack_ts": "1792296444.789599"
+      "kop": "Kinderopvang kost lage inkomens meer",
+      "samenvatting": "Vanaf 2029 komt er één vergoedingspercentage voor kinderopvang in plaats van het huidige systeem naar inkomen.\nGezinnen met een laag inkomen gaan daardoor zo'n 120 euro per jaar meer betalen, omgerekend ongeveer een tientje per maand.",
+      "todo": "Heb je een laag inkomen en kinderen op de opvang? Houd je toeslag en eigen bijdrage de komende jaren in de gaten.",
+      "bron": "NU.nl, 19 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6413381/lage-inkomens-zijn-meer-kwijt-aan-kinderopvang-kan-tientje-per-maand-schelen.html",
+      "slide": "slides/2026-10-19-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-19-2.png",
+      "slack_ts": "1792383024.549809"
     },
     {
       "nr": 3,
-      "kop": "Meer funderingsschade door droogte",
-      "samenvatting": "Door de droge zomers melden steeds meer huiseigenaren schade aan hun fundering, bijna een verviervoudiging bij het funderingsloket.\nExperts verwachten de komende maanden een nieuwe piek in meldingen.",
-      "todo": "Woon je op kleigrond? Laat je fundering bij twijfel checken en informeer naar de kosten van herstel.",
-      "bron": "AD, 17 oktober",
-      "artikel_url": "https://www.ad.nl/binnenland/droge-zomers-doen-hun-werk-onder-je-huis-bijna-verviervoudiging-van-meldingen-bij-funderingsloket~abf3206f/",
-      "slide": "slides/2026-10-18-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-18-3.png",
-      "slack_ts": "1792296447.068219"
+      "kop": "Woningbouw op losse schroeven",
+      "samenvatting": "In Utrecht staan tienduizenden geplande nieuwbouwwoningen op losse schroeven omdat het Rijk geen geld vrijmaakt voor een broodnodige tramlijn.\nHet laat zien hoe afhankelijk woningbouw is van rijksgeld, terwijl het woningtekort groot blijft.",
+      "todo": "Ga je een huis kopen of bouwen? Houd rekening met vertraging bij nieuwbouwprojecten in je planning.",
+      "bron": "AD, 19 oktober",
+      "artikel_url": "https://www.ad.nl/binnenland/22-000-woningen-op-losse-schroeven-door-geldgebrek-kabinet-we-moeten-de-woningnood-ook-oplossen~a00c17d7/",
+      "slide": "slides/2026-10-19-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-19-3.png",
+      "slack_ts": "1792383026.639369"
     }
   ]
 }
