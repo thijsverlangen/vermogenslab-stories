@@ -1,48 +1,48 @@
 {
-  "datum": "2026-10-19",
-  "status": "geen_keuze",
-  "akiflow_task_id": "942b673d-b7f6-44b8-a277-8d0c9bb01a9e",
+  "datum": "2026-10-20",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "8a2d39dd-cc97-475b-a5da-458604e112e1",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792383020.788209",
+  "slack_ts": "1792469355.896289",
   "eigen_ts": [
-    "1792383020.788209",
-    "1792383022.761239",
-    "1792383024.549809",
-    "1792383026.639369"
+    "1792469355.896289",
+    "1792469357.916859",
+    "1792469360.382659",
+    "1792469363.368139"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Bespaar nu op je gasrekening",
-      "samenvatting": "Gas is drie jaar niet zo duur geweest en het stookseizoen is net begonnen.\nMet kleine dingen zoals tochtstrips, een lagere thermostaat en een scherpere ketelinstelling bespaar je al snel een paar honderd euro per jaar.",
-      "todo": "Check je thermostaatinstelling en vergelijk je energiecontract met andere aanbieders.",
-      "bron": "Telegraaf, 18 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/nieuws/de-kachel-moet-aan-maar-gas-is-nu-peperduur-met-deze-tips-voor-je-woning-kan-je-veel-geld-besparen/163209869.html",
-      "slide": "slides/2026-10-19-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-19-1.png",
-      "slack_ts": "1792383022.761239"
+      "kop": "Minder lenen vanaf je 52e",
+      "samenvatting": "Rabobank en Obvion rekenen vanaf 2027 al vanaf je 52e met je pensioeninkomen bij een hypotheekaanvraag, in plaats van vanaf 57.\nDaardoor kun je als vijftigplusser minder lenen voor een nieuwe woning of oversluiting, en experts verwachten dat meer banken volgen.",
+      "todo": "Ben je 50-plus en wil je verhuizen of oversluiten? Vergelijk hypotheekverstrekkers en bespreek je situatie met een adviseur.",
+      "bron": "Banken.nl, 19 oktober",
+      "artikel_url": "https://www.banken.nl/nieuws/amp/27476/gewijzigde-pensioentoets-leidt-mogelijk-tot-minder-doorstroming-op-de-woningmarkt",
+      "slide": "slides/2026-10-20-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-20-1.png",
+      "slack_ts": "1792469357.916859"
     },
     {
       "nr": 2,
-      "kop": "Kinderopvang kost lage inkomens meer",
-      "samenvatting": "Vanaf 2029 komt er één vergoedingspercentage voor kinderopvang in plaats van het huidige systeem naar inkomen.\nGezinnen met een laag inkomen gaan daardoor zo'n 120 euro per jaar meer betalen, omgerekend ongeveer een tientje per maand.",
-      "todo": "Heb je een laag inkomen en kinderen op de opvang? Houd je toeslag en eigen bijdrage de komende jaren in de gaten.",
-      "bron": "NU.nl, 19 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6413381/lage-inkomens-zijn-meer-kwijt-aan-kinderopvang-kan-tientje-per-maand-schelen.html",
-      "slide": "slides/2026-10-19-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-19-2.png",
-      "slack_ts": "1792383024.549809"
+      "kop": "Zwaardere belasting op tweede woning",
+      "samenvatting": "Vanaf 2028 betaal je in box 3 belasting over een vast percentage van de WOZ-waarde als je een tweede woning niet volledig verhuurt, zonder tegenbewijs.\nOok de waarde waarover je bij verkoop winstbelasting betaalt staat vast via de WOZ-waarde van 2028, die je pas in 2029 krijgt.",
+      "todo": "Heb je een tweede woning of vakantiewoning? Laat narekenen wat dit vanaf 2028 voor jouw belasting betekent.",
+      "bron": "Dagelijkse Standaard, 18 oktober",
+      "artikel_url": "https://www.dagelijksestandaard.nl/economie/tweede-woning-vakantiewoning-box-3-2028-335-procent-woz-startwaarde",
+      "slide": "slides/2026-10-20-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-20-2.png",
+      "slack_ts": "1792469360.382659"
     },
     {
       "nr": 3,
-      "kop": "Woningbouw op losse schroeven",
-      "samenvatting": "In Utrecht staan tienduizenden geplande nieuwbouwwoningen op losse schroeven omdat het Rijk geen geld vrijmaakt voor een broodnodige tramlijn.\nHet laat zien hoe afhankelijk woningbouw is van rijksgeld, terwijl het woningtekort groot blijft.",
-      "todo": "Ga je een huis kopen of bouwen? Houd rekening met vertraging bij nieuwbouwprojecten in je planning.",
-      "bron": "AD, 19 oktober",
-      "artikel_url": "https://www.ad.nl/binnenland/22-000-woningen-op-losse-schroeven-door-geldgebrek-kabinet-we-moeten-de-woningnood-ook-oplossen~a00c17d7/",
-      "slide": "slides/2026-10-19-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-19-3.png",
-      "slack_ts": "1792383026.639369"
+      "kop": "Onzekerheid over Belastingplan 2027",
+      "samenvatting": "Het kabinet heeft nog geen meerderheid voor het Belastingplan 2027; de Eerste Kamer stemt op 12 november.\nValt het plan, dan vervalt de verlaging van de ouderenkorting, maar wordt tanken duurder. Je loonstrook of pensioenstrook van januari kan dan tijdelijk niet kloppen.",
+      "todo": "Bewaar in januari je loonstrook of pensioenstrook en vergelijk die met december. Klopt het niet, dan herstelt de Belastingdienst dat later.",
+      "bron": "Welingelichte Kringen, 19 oktober",
+      "artikel_url": "https://www.welingelichtekringen.nl/samenleving/valt-het-belastingplan-dan-stijgt-niet-alleen-je-benzineprijs-dit-gebeurt-er-op-1-januari-met-je-pensioen-en-loonstroo",
+      "slide": "slides/2026-10-20-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-20-3.png",
+      "slack_ts": "1792469363.368139"
     }
   ]
 }
