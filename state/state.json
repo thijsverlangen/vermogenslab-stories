@@ -1,49 +1,48 @@
 {
-  "datum": "2026-10-21",
-  "status": "ingepland",
-  "gekozen": [2],
-  "akiflow_task_id": "73b605f0-0bcd-42f3-8aa1-1b887c23269c",
+  "datum": "2026-10-22",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "6118199d-70c9-42c9-83fd-824bb0f4099f",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792555807.717189",
+  "slack_ts": "1792642114.034249",
   "eigen_ts": [
-    "1792555807.717189",
-    "1792555809.737279",
-    "1792555812.260689",
-    "1792555814.570969"
+    "1792642114.034249",
+    "1792642116.152019",
+    "1792642118.308119",
+    "1792642120.843369"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Rechter zet pensioenafstand opzij",
-      "samenvatting": "Fruitbedrijf Fruitmasters moet een oud-medewerker alsnog pensioen betalen. Hij tekende jarenlang afstandsverklaringen voor pensioenopbouw, maar bedacht zich na zijn pensionering. De rechter zette die verklaringen opzij, waardoor het bedrijf nu toch moet meebetalen.",
-      "todo": "Heb je ooit pensioenopbouw afgewezen of een afstandsverklaring getekend? Check bij je werkgever of pensioenfonds wat dat voor jou betekent.",
-      "bron": "Telegraaf, 21 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/man-hoeft-veertig-jaar-lang-geen-pensioen-van-werkgever-maar-bedenkt-zich-na-pensionering-bedrijf-moet-hem-alsnog-betalen/163339861.html",
-      "slide": "slides/2026-10-21-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-21-1.png",
-      "slack_ts": "1792555809.737279"
+      "kop": "Zorgpremie gaat flink omhoog",
+      "samenvatting": "DSW is de eerste zorgverzekeraar die de premie voor 2027 bekendmaakt: een stijging van bijna 15 euro per maand, de grootste in jaren. Hogere zorgkosten, vergrijzing en een bezuiniging vanuit Den Haag spelen mee. Andere verzekeraars volgen meestal met vergelijkbare bedragen.",
+      "todo": "Check in november de nieuwe premies van alle verzekeraars en kijk of je zorgtoeslag genoeg stijgt om dit op te vangen.",
+      "bron": "NOS, 21 oktober",
+      "artikel_url": "https://nos.nl/artikel/2636058-grootste-stijging-zorgpremie-in-jaren-dsw-maakt-maandbedrag-2027-bekend",
+      "slide": "slides/2026-10-22-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-22-1.png",
+      "slack_ts": "1792642116.152019"
     },
     {
       "nr": 2,
-      "kop": "Hypotheekboete staat onder druk",
-      "samenvatting": "Koop je een huis en krijg je je hypotheek niet op tijd rond, dan betaal je vaak een boete van 10 procent van de koopsom. Een rechter laat nu meewegen of zo'n boete nog wel redelijk is. Dat kan gevolgen hebben voor huizenkopers die hun financiering niet rondkrijgen.",
-      "todo": "Krijg je je hypotheek niet op tijd rond? Bespreek de ontbindende voorwaarden en een mogelijke boete altijd met je adviseur voordat je tekent.",
-      "bron": "RTL Nieuws, 19 oktober",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/video/6cbe35cd-6fe4-4de1-a7f9-24694edae47d/hypotheek-niet-rond-boete-van-10-procent",
-      "slide": "slides/2026-10-21-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-21-2.png",
-      "slack_ts": "1792555812.260689"
+      "kop": "Banken moeten fraude sneller vergoeden",
+      "samenvatting": "Het Europees Hof besliste dat banken slachtoffers van bankfraude voortaan meteen moeten terugbetalen, ook als iemand zelf een fout maakte. Banken mogen het geld achteraf nog wel terugvorderen bij grove nalatigheid. Nederlandse banken bekijken nu zelf wat dit voor hun eigen regels betekent.",
+      "todo": "Let extra op bij mails en sms'jes over je bankrekening en meld verdachte berichten direct bij je bank.",
+      "bron": "Reformatorisch Dagblad, 21 oktober",
+      "artikel_url": "https://www.rd.nl/a/banken-bekijken-gevolgen-uitspraak-bankfraude-ieder-voor-zich",
+      "slide": "slides/2026-10-22-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-22-2.png",
+      "slack_ts": "1792642118.308119"
     },
     {
       "nr": 3,
-      "kop": "Kind onterven kan niet volledig",
-      "samenvatting": "Je kunt een kind niet volledig onterven. Het houdt altijd recht op de legitieme portie, de helft van het normale erfdeel, als geldbedrag.\nEen notaris legt uit hoe dat werkt, ook bij schulden of een nieuwe partner van je ouders.",
-      "todo": "Regel je je erfenis of heb je een nieuwe partner? Bespreek met een notaris wat dat betekent voor de legitieme portie van je kinderen.",
-      "bron": "Telegraaf, 21 oktober",
-      "artikel_url": "https://www.telegraaf.nl/lifestyle/vrije-tijd/je-kind-onterven-kan-niet-zomaar-dit-moet-je-weten-over-erfrecht-schulden-of-de-nieuwe-liefde-van-je-ouders/162941947.html",
-      "slide": "slides/2026-10-21-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-21-3.png",
-      "slack_ts": "1792555814.570969"
+      "kop": "Steeds meer AOW'ers werken door",
+      "samenvatting": "Steeds meer Nederlanders werken door na hun AOW-leeftijd. In 2018 was dat nog 1,2 procent van de werknemers, nu is dat 1,7 procent, ongeveer 152 duizend mensen. Vooral in de vastgoedsector blijven mensen vaak langer aan het werk.",
+      "todo": "Werk je door na je AOW-leeftijd of overweeg je dat? Check wat dit betekent voor je belasting, toeslagen en pensioenopbouw.",
+      "bron": "NOS, 21 oktober",
+      "artikel_url": "https://nos.nl/artikel/2636045-meer-werknemers-werken-door-na-aow-leeftijd-vooral-in-vastgoedsector",
+      "slide": "slides/2026-10-22-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-22-3.png",
+      "slack_ts": "1792642120.843369"
     }
   ]
 }
