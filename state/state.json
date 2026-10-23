@@ -1,50 +1,48 @@
 {
-  "datum": "2026-10-22",
-  "status": "ingepland",
-  "gekozen": [3],
-  "akiflow_task_id": "6118199d-70c9-42c9-83fd-824bb0f4099f",
+  "datum": "2026-10-23",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "7a754f13-a102-4cbe-a287-5c8d35cb11aa",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792642114.034249",
+  "slack_ts": "1792728631.432209",
   "eigen_ts": [
-    "1792642114.034249",
-    "1792642116.152019",
-    "1792642118.308119",
-    "1792642120.843369",
-    "1792655218.542759"
+    "1792728631.432209",
+    "1792728633.552889",
+    "1792728636.060979",
+    "1792728638.535559"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Zorgpremie gaat flink omhoog",
-      "samenvatting": "DSW is de eerste zorgverzekeraar die de premie voor 2027 bekendmaakt: een stijging van bijna 15 euro per maand, de grootste in jaren. Hogere zorgkosten, vergrijzing en een bezuiniging vanuit Den Haag spelen mee. Andere verzekeraars volgen meestal met vergelijkbare bedragen.",
-      "todo": "Check in november de nieuwe premies van alle verzekeraars en kijk of je zorgtoeslag genoeg stijgt om dit op te vangen.",
-      "bron": "NOS, 21 oktober",
-      "artikel_url": "https://nos.nl/artikel/2636058-grootste-stijging-zorgpremie-in-jaren-dsw-maakt-maandbedrag-2027-bekend",
-      "slide": "slides/2026-10-22-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-22-1.png",
-      "slack_ts": "1792642116.152019"
+      "kop": "Huizenprijzen voor tweede maand lager",
+      "samenvatting": "Huizenprijzen daalden in september voor de tweede maand op rij, met 0,4 procent volgens het CBS. Op jaarbasis is een huis nog altijd 2,9 procent duurder.\nABN Amro verwacht dat de hypotheekrente hoog blijft, dus een flinke prijsdaling komt er volgens de bank niet aan.",
+      "todo": "Sta je op het punt te kopen of verkopen? Laat een actuele taxatie maken en bespreek met je adviseur wat de hypotheekrente voor jou betekent.",
+      "bron": "NU.nl, 22 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6413893/huizenprijzen-dalen-weer-een-beetje-maar-kopen-blijft-duur.html",
+      "slide": "slides/2026-10-23-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-23-1.png",
+      "slack_ts": "1792728633.552889"
     },
     {
       "nr": 2,
-      "kop": "Banken moeten fraude sneller vergoeden",
-      "samenvatting": "Het Europees Hof besliste dat banken slachtoffers van bankfraude voortaan meteen moeten terugbetalen, ook als iemand zelf een fout maakte. Banken mogen het geld achteraf nog wel terugvorderen bij grove nalatigheid. Nederlandse banken bekijken nu zelf wat dit voor hun eigen regels betekent.",
-      "todo": "Let extra op bij mails en sms'jes over je bankrekening en meld verdachte berichten direct bij je bank.",
-      "bron": "Reformatorisch Dagblad, 21 oktober",
-      "artikel_url": "https://www.rd.nl/a/banken-bekijken-gevolgen-uitspraak-bankfraude-ieder-voor-zich",
-      "slide": "slides/2026-10-22-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-22-2.png",
-      "slack_ts": "1792642118.308119"
+      "kop": "Belastingen en zorgpremie stijgen 2027",
+      "samenvatting": "Volgend jaar stijgen de belastingtarieven in de eerste schijven iets, vooral om hogere defensie-uitgaven te betalen. Ook de zorgpremie gaat omhoog, naar gemiddeld ongeveer 169 euro per maand.\nDe grens voor fiscaal voordelig pensioensparen blijft voor hogere inkomens zes jaar lang gelijk.",
+      "todo": "Check begin 2027 je loonstrookje en zorgpremie, en bespreek met je adviseur of je nog genoeg pensioen opbouwt boven de grens.",
+      "bron": "Telegraaf, 23 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/geld-vliegt-nog-harder-bij-je-weg-in-2027-deze-uitgaven-nemen-een-forsere-hap-uit-je-portemonnee/163437880.html",
+      "slide": "slides/2026-10-23-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-23-2.png",
+      "slack_ts": "1792728636.060979"
     },
     {
       "nr": 3,
-      "kop": "Steeds meer AOW'ers werken door",
-      "samenvatting": "Steeds meer Nederlanders werken door na hun AOW-leeftijd. In 2018 was dat nog 1,2 procent van de werknemers, nu is dat 1,7 procent, ongeveer 152 duizend mensen. Vooral in de vastgoedsector blijven mensen vaak langer aan het werk.",
-      "todo": "Werk je door na je AOW-leeftijd of overweeg je dat? Check wat dit betekent voor je belasting, toeslagen en pensioenopbouw.",
-      "bron": "NOS, 21 oktober",
-      "artikel_url": "https://nos.nl/artikel/2636045-meer-werknemers-werken-door-na-aow-leeftijd-vooral-in-vastgoedsector",
-      "slide": "slides/2026-10-22-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-22-3.png",
-      "slack_ts": "1792642120.843369"
+      "kop": "EU-wet kan gasprijs opstuwen",
+      "samenvatting": "Het Europees Parlement wil omstreden methaanregels voor olie- en gasbedrijven met drie jaar uitstellen, de Commissie wilde maar één jaar. Zonder akkoord kunnen leveranciers Europa mijden, wat de toch al hoge energieprijzen verder kan opdrijven.\nVolgende week praten EU-landen opnieuw over een akkoord.",
+      "todo": "Houd je energiecontract en -rekening de komende maanden extra in de gaten en vergelijk tijdig als je contract afloopt.",
+      "bron": "Telegraaf, 22 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/europarlement-eist-drie-jaar-uitstel-voor-omstreden-timmermans-wet-om-nieuwe-energiecrisis-te-voorkomen/163450702.html",
+      "slide": "slides/2026-10-23-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-23-3.png",
+      "slack_ts": "1792728638.535559"
     }
   ]
 }
