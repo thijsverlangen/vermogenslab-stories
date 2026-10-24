@@ -1,48 +1,48 @@
 {
-  "datum": "2026-10-23",
-  "status": "geen_keuze",
-  "akiflow_task_id": "7a754f13-a102-4cbe-a287-5c8d35cb11aa",
+  "datum": "2026-10-24",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "15a6d17d-0f27-4811-8536-8361cf1d1cc6",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792728631.432209",
+  "slack_ts": "1792814911.692729",
   "eigen_ts": [
-    "1792728631.432209",
-    "1792728633.552889",
-    "1792728636.060979",
-    "1792728638.535559"
+    "1792814911.692729",
+    "1792814913.745789",
+    "1792814916.049709",
+    "1792814918.158969"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Huizenprijzen voor tweede maand lager",
-      "samenvatting": "Huizenprijzen daalden in september voor de tweede maand op rij, met 0,4 procent volgens het CBS. Op jaarbasis is een huis nog altijd 2,9 procent duurder.\nABN Amro verwacht dat de hypotheekrente hoog blijft, dus een flinke prijsdaling komt er volgens de bank niet aan.",
-      "todo": "Sta je op het punt te kopen of verkopen? Laat een actuele taxatie maken en bespreek met je adviseur wat de hypotheekrente voor jou betekent.",
-      "bron": "NU.nl, 22 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6413893/huizenprijzen-dalen-weer-een-beetje-maar-kopen-blijft-duur.html",
-      "slide": "slides/2026-10-23-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-23-1.png",
-      "slack_ts": "1792728633.552889"
+      "kop": "Hypotheekrente raakt nieuwbouwkopers",
+      "samenvatting": "De hypotheekrente ligt bijna een procentpunt hoger dan vorig jaar. Starters kunnen daardoor zo'n 6 procent minder lenen en hun maandlasten stijgen flink.\nVolgens ING raakt dit vooral nieuwbouwkopers, omdat projectontwikkelaars de prijzen zelden verlagen.",
+      "todo": "Ga na hoeveel je nu kunt lenen tegen de actuele rente en bespreek je financiering op tijd met je hypotheekadviseur.",
+      "bron": "Telegraaf, 23 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/ing-minder-nieuwbouw-door-sterk-gestegen-hypotheekrente/163476916.html",
+      "slide": "slides/2026-10-24-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-24-1.png",
+      "slack_ts": "1792814913.745789"
     },
     {
       "nr": 2,
-      "kop": "Belastingen en zorgpremie stijgen 2027",
-      "samenvatting": "Volgend jaar stijgen de belastingtarieven in de eerste schijven iets, vooral om hogere defensie-uitgaven te betalen. Ook de zorgpremie gaat omhoog, naar gemiddeld ongeveer 169 euro per maand.\nDe grens voor fiscaal voordelig pensioensparen blijft voor hogere inkomens zes jaar lang gelijk.",
-      "todo": "Check begin 2027 je loonstrookje en zorgpremie, en bespreek met je adviseur of je nog genoeg pensioen opbouwt boven de grens.",
+      "kop": "Erfenis bespreken blijft lastig",
+      "samenvatting": "Bijna driekwart van vermogende Nederlanders praat weleens over een erfenis of schenking, maar slechts een kwart maakt concrete afspraken. Het gesprek komt vaak pas op gang na een overlijden of ziekte.\nWie er wel samen over praat, vindt dat achteraf juist prettig en verhelderend.",
+      "todo": "Bespreek je wensen rond erven of schenken op tijd met je naasten en leg ze samen met je adviseur vast.",
       "bron": "Telegraaf, 23 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/geld-vliegt-nog-harder-bij-je-weg-in-2027-deze-uitgaven-nemen-een-forsere-hap-uit-je-portemonnee/163437880.html",
-      "slide": "slides/2026-10-23-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-23-2.png",
-      "slack_ts": "1792728636.060979"
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/veel-mensen-zwijgen-over-wensen-rond-erfenis-wacht-niet-tot-ziekte-of-overlijden/163476865.html",
+      "slide": "slides/2026-10-24-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-24-2.png",
+      "slack_ts": "1792814916.049709"
     },
     {
       "nr": 3,
-      "kop": "EU-wet kan gasprijs opstuwen",
-      "samenvatting": "Het Europees Parlement wil omstreden methaanregels voor olie- en gasbedrijven met drie jaar uitstellen, de Commissie wilde maar één jaar. Zonder akkoord kunnen leveranciers Europa mijden, wat de toch al hoge energieprijzen verder kan opdrijven.\nVolgende week praten EU-landen opnieuw over een akkoord.",
-      "todo": "Houd je energiecontract en -rekening de komende maanden extra in de gaten en vergelijk tijdig als je contract afloopt.",
-      "bron": "Telegraaf, 22 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/europarlement-eist-drie-jaar-uitstel-voor-omstreden-timmermans-wet-om-nieuwe-energiecrisis-te-voorkomen/163450702.html",
-      "slide": "slides/2026-10-23-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-23-3.png",
-      "slack_ts": "1792728638.535559"
+      "kop": "Kachel uit is te drastisch",
+      "samenvatting": "Steeds meer Nederlanders durven de hoge energierekening niet meer te betalen en zetten de verwarming deze winter daarom helemaal uit.\nExperts waarschuwen dat dit een veel te drastische bezuiniging is: je loopt kans op ernstige gezondheidsschade.",
+      "todo": "Bespaar slimmer op energie, bijvoorbeeld met een lagere thermostaat overdag, en bespreek hoge rekeningen met je adviseur.",
+      "bron": "Telegraaf, 24 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/angst-voor-torenhoge-energierekening-maar-kachel-uitzetten-in-winter-een-veel-te-drastische-maatregel/163520837.html",
+      "slide": "slides/2026-10-24-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-24-3.png",
+      "slack_ts": "1792814918.158969"
     }
   ]
 }
