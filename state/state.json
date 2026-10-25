@@ -1,50 +1,48 @@
 {
-  "datum": "2026-10-24",
-  "status": "ingepland",
-  "gekozen": [2],
-  "akiflow_task_id": "15a6d17d-0f27-4811-8536-8361cf1d1cc6",
+  "datum": "2026-10-25",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "13affc21-eaef-460e-9279-2c46c9d7e6b0",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792814911.692729",
+  "slack_ts": "1792904908.645539",
   "eigen_ts": [
-    "1792814911.692729",
-    "1792814913.745789",
-    "1792814916.049709",
-    "1792814918.158969",
-    "1792828046.990809"
+    "1792904908.645539",
+    "1792904910.921359",
+    "1792904914.134999",
+    "1792904916.042569"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Hypotheekrente raakt nieuwbouwkopers",
-      "samenvatting": "De hypotheekrente ligt bijna een procentpunt hoger dan vorig jaar. Starters kunnen daardoor zo'n 6 procent minder lenen en hun maandlasten stijgen flink.\nVolgens ING raakt dit vooral nieuwbouwkopers, omdat projectontwikkelaars de prijzen zelden verlagen.",
-      "todo": "Ga na hoeveel je nu kunt lenen tegen de actuele rente en bespreek je financiering op tijd met je hypotheekadviseur.",
-      "bron": "Telegraaf, 23 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/ing-minder-nieuwbouw-door-sterk-gestegen-hypotheekrente/163476916.html",
-      "slide": "slides/2026-10-24-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-24-1.png",
-      "slack_ts": "1792814913.745789"
+      "kop": "Hoge gasprijs, kachel blijft uit",
+      "samenvatting": "De gasprijs staat op het hoogste niveau in twee jaar, zo'n 94 euro per megawattuur tegen 34 euro twee jaar terug. Essent ziet dat een kwart van de huishoudens de verwarming daarom niet aanzet.\nHet Noodfonds Energie opent pas in januari en helpt alleen wie de kachel wel aan heeft.",
+      "todo": "Check je energiecontract en voorschotbedrag op tijd, en vraag bij geldzorgen hulp bij je gemeente of energieleverancier.",
+      "bron": "RTL Nieuws, 24 oktober",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5660806/gasprijs-op-hoogste-punt-2-jaar-essent-waarschuwt-voor-consumenten",
+      "slide": "slides/2026-10-25-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-25-1.png",
+      "slack_ts": "1792904910.921359"
     },
     {
       "nr": 2,
-      "kop": "Erfenis bespreken blijft lastig",
-      "samenvatting": "Bijna driekwart van vermogende Nederlanders praat weleens over een erfenis of schenking, maar slechts een kwart maakt concrete afspraken. Het gesprek komt vaak pas op gang na een overlijden of ziekte.\nWie er wel samen over praat, vindt dat achteraf juist prettig en verhelderend.",
-      "todo": "Bespreek je wensen rond erven of schenken op tijd met je naasten en leg ze samen met je adviseur vast.",
-      "bron": "Telegraaf, 23 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/veel-mensen-zwijgen-over-wensen-rond-erfenis-wacht-niet-tot-ziekte-of-overlijden/163476865.html",
-      "slide": "slides/2026-10-24-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-24-2.png",
-      "slack_ts": "1792814916.049709"
+      "kop": "Stormschade aan huis of auto",
+      "samenvatting": "Storm Austen richtte dit weekend schade aan bij huizen en auto's. Met alleen een WA-verzekering krijg je stormschade aan je auto niet vergoed, daarvoor heb je een WA-plus of allriskverzekering nodig.\nBij een woonverzekering geldt bij storm vaak een hoger eigen risico, meestal tussen de 100 en 500 euro.",
+      "todo": "Controleer welke dekking je auto- en woonverzekering bieden bij stormschade, en meld schade snel bij je verzekeraar.",
+      "bron": "Telegraaf, 24 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/stormschade-aan-je-huis-of-auto-dat-kan-flink-in-de-papieren-lopen-zo-zit-het-met-de-verzekering/163553409.html",
+      "slide": "slides/2026-10-25-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-25-2.png",
+      "slack_ts": "1792904914.134999"
     },
     {
       "nr": 3,
-      "kop": "Kachel uit is te drastisch",
-      "samenvatting": "Steeds meer Nederlanders durven de hoge energierekening niet meer te betalen en zetten de verwarming deze winter daarom helemaal uit.\nExperts waarschuwen dat dit een veel te drastische bezuiniging is: je loopt kans op ernstige gezondheidsschade.",
-      "todo": "Bespaar slimmer op energie, bijvoorbeeld met een lagere thermostaat overdag, en bespreek hoge rekeningen met je adviseur.",
+      "kop": "Eigen risico zorg gaat omhoog",
+      "samenvatting": "Het verplichte eigen risico in de zorgverzekering stijgt per 1 januari 2027 van 385 naar 400 euro. Een eerder geplande extra verhoging naar 460 euro is uitgesteld tot 2028.\nOok de nominale zorgpremie gaat volgend jaar verder omhoog.",
+      "todo": "Houd je zorgkosten voor volgend jaar in de gaten en vergelijk in november rustig je zorgverzekering.",
       "bron": "Telegraaf, 24 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/angst-voor-torenhoge-energierekening-maar-kachel-uitzetten-in-winter-een-veel-te-drastische-maatregel/163520837.html",
-      "slide": "slides/2026-10-24-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-24-3.png",
-      "slack_ts": "1792814918.158969"
+      "artikel_url": "https://www.telegraaf.nl/financieel/martin-visser-eigen-risico-omhoog-snijden-in-ouderenzorg-hoe-krijgen-we-zorgkosten-in-bedwang/163518743.html",
+      "slide": "slides/2026-10-25-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-25-3.png",
+      "slack_ts": "1792904916.042569"
     }
   ]
 }
