@@ -1,48 +1,48 @@
 {
-  "datum": "2026-10-25",
-  "status": "geen_keuze",
-  "akiflow_task_id": "13affc21-eaef-460e-9279-2c46c9d7e6b0",
+  "datum": "2026-10-26",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "23931c46-047a-4464-9ef8-1c74094b6e01",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792904908.645539",
+  "slack_ts": "1792991338.065939",
   "eigen_ts": [
-    "1792904908.645539",
-    "1792904910.921359",
-    "1792904914.134999",
-    "1792904916.042569"
+    "1792991338.065939",
+    "1792991339.918339",
+    "1792991342.096869",
+    "1792991344.042169"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Hoge gasprijs, kachel blijft uit",
-      "samenvatting": "De gasprijs staat op het hoogste niveau in twee jaar, zo'n 94 euro per megawattuur tegen 34 euro twee jaar terug. Essent ziet dat een kwart van de huishoudens de verwarming daarom niet aanzet.\nHet Noodfonds Energie opent pas in januari en helpt alleen wie de kachel wel aan heeft.",
-      "todo": "Check je energiecontract en voorschotbedrag op tijd, en vraag bij geldzorgen hulp bij je gemeente of energieleverancier.",
-      "bron": "RTL Nieuws, 24 oktober",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5660806/gasprijs-op-hoogste-punt-2-jaar-essent-waarschuwt-voor-consumenten",
-      "slide": "slides/2026-10-25-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-25-1.png",
-      "slack_ts": "1792904910.921359"
+      "kop": "Netbeheerkosten gaan flink omhoog",
+      "samenvatting": "De kosten voor netbeheer op je energierekening stijgen in 2027 met zo'n 141 euro per jaar. Dat komt doordat netbeheerders de komende jaren veel moeten investeren in het stroomnet.\nDeze kosten liggen vast, ook als je overstapt van energieleverancier.",
+      "todo": "Vergelijk je energieleverancier om te besparen op de leverkosten, en houd rekening met hogere vaste lasten in je begroting voor 2027.",
+      "bron": "Telegraaf, 24 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/energierekening-stijgt-verder-deze-zeven-plagen-van-het-stroomnet-zetten-nederland-onder-hoogspanning/163471551.html",
+      "slide": "slides/2026-10-26-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-26-1.png",
+      "slack_ts": "1792991339.918339"
     },
     {
       "nr": 2,
-      "kop": "Stormschade aan huis of auto",
-      "samenvatting": "Storm Austen richtte dit weekend schade aan bij huizen en auto's. Met alleen een WA-verzekering krijg je stormschade aan je auto niet vergoed, daarvoor heb je een WA-plus of allriskverzekering nodig.\nBij een woonverzekering geldt bij storm vaak een hoger eigen risico, meestal tussen de 100 en 500 euro.",
-      "todo": "Controleer welke dekking je auto- en woonverzekering bieden bij stormschade, en meld schade snel bij je verzekeraar.",
-      "bron": "Telegraaf, 24 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/stormschade-aan-je-huis-of-auto-dat-kan-flink-in-de-papieren-lopen-zo-zit-het-met-de-verzekering/163553409.html",
-      "slide": "slides/2026-10-25-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-25-2.png",
-      "slack_ts": "1792904914.134999"
-    },
-    {
-      "nr": 3,
       "kop": "Eigen risico zorg gaat omhoog",
-      "samenvatting": "Het verplichte eigen risico in de zorgverzekering stijgt per 1 januari 2027 van 385 naar 400 euro. Een eerder geplande extra verhoging naar 460 euro is uitgesteld tot 2028.\nOok de nominale zorgpremie gaat volgend jaar verder omhoog.",
+      "samenvatting": "Het verplichte eigen risico in de zorgverzekering stijgt per 1 januari 2027 van 385 naar 400 euro. Een eerder geplande extra verhoging naar 460 euro is uitgesteld tot 2028.\nOok de nominale zorgpremie gaat volgend jaar flink verder omhoog.",
       "todo": "Houd je zorgkosten voor volgend jaar in de gaten en vergelijk in november rustig je zorgverzekering.",
       "bron": "Telegraaf, 24 oktober",
       "artikel_url": "https://www.telegraaf.nl/financieel/martin-visser-eigen-risico-omhoog-snijden-in-ouderenzorg-hoe-krijgen-we-zorgkosten-in-bedwang/163518743.html",
-      "slide": "slides/2026-10-25-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-25-3.png",
-      "slack_ts": "1792904916.042569"
+      "slide": "slides/2026-10-26-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-26-2.png",
+      "slack_ts": "1792991342.096869"
+    },
+    {
+      "nr": 3,
+      "kop": "Pas op met earn-outafspraken",
+      "samenvatting": "Ondernemers die hun bedrijf verkopen blijven vaak nog jaren aan boord via een earn-out: een deel van de verkoopprijs krijg je pas als het bedrijf bepaalde doelen haalt.\nDat kan een hogere prijs opleveren, maar ook tot ruzie leiden over doelen en de koers van het bedrijf.",
+      "todo": "Leg earn-outafspraken altijd concreet en meetbaar vast, en bespreek de risico's vooraf met je adviseur of jurist.",
+      "bron": "Telegraaf, 25 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/ondernemers-blijven-na-verkoop-aan-boord-voor-hogere-prijs-zolang-het-laatste-deel-niet-is-betaald-blijf-ik-de-baas/163437113.html",
+      "slide": "slides/2026-10-26-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-26-3.png",
+      "slack_ts": "1792991344.042169"
     }
   ]
 }
