@@ -1,48 +1,48 @@
 {
-  "datum": "2026-10-26",
-  "status": "geen_keuze",
-  "akiflow_task_id": "23931c46-047a-4464-9ef8-1c74094b6e01",
+  "datum": "2026-10-27",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "d615bd47-2d8f-4ea8-aed3-16a82667f297",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1792991338.065939",
+  "slack_ts": "1793077718.166719",
   "eigen_ts": [
-    "1792991338.065939",
-    "1792991339.918339",
-    "1792991342.096869",
-    "1792991344.042169"
+    "1793077718.166719",
+    "1793077720.081539",
+    "1793077722.441379",
+    "1793077724.772059"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Netbeheerkosten gaan flink omhoog",
-      "samenvatting": "De kosten voor netbeheer op je energierekening stijgen in 2027 met zo'n 141 euro per jaar. Dat komt doordat netbeheerders de komende jaren veel moeten investeren in het stroomnet.\nDeze kosten liggen vast, ook als je overstapt van energieleverancier.",
-      "todo": "Vergelijk je energieleverancier om te besparen op de leverkosten, en houd rekening met hogere vaste lasten in je begroting voor 2027.",
-      "bron": "Telegraaf, 24 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/energierekening-stijgt-verder-deze-zeven-plagen-van-het-stroomnet-zetten-nederland-onder-hoogspanning/163471551.html",
-      "slide": "slides/2026-10-26-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-26-1.png",
-      "slack_ts": "1792991339.918339"
+      "kop": "Btw op bloemen gaat omhoog",
+      "samenvatting": "Het kabinet wil de btw op bloemen, planten en bomen verhogen van 9 naar 21 procent. Dat gaat in per 2028 en raakt kwekers, bloemisten, tuincentra en hoveniers.\nHet plan moet nog langs de Tweede en Eerste Kamer.",
+      "todo": "Heb je een bedrijf in bloemen, planten of tuin? Houd dit wetsvoorstel in de gaten en reken na wat het voor je prijzen betekent.",
+      "bron": "Telegraaf, 26 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/groene-ondernemers-vrezen-forse-prijsstijging-door-hogere-btw-op-bloemen-en-planten-bij-kleine-hoveniers-gaan-klappen-vallen/163440907.html",
+      "slide": "slides/2026-10-27-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-27-1.png",
+      "slack_ts": "1793077720.081539"
     },
     {
       "nr": 2,
-      "kop": "Eigen risico zorg gaat omhoog",
-      "samenvatting": "Het verplichte eigen risico in de zorgverzekering stijgt per 1 januari 2027 van 385 naar 400 euro. Een eerder geplande extra verhoging naar 460 euro is uitgesteld tot 2028.\nOok de nominale zorgpremie gaat volgend jaar flink verder omhoog.",
-      "todo": "Houd je zorgkosten voor volgend jaar in de gaten en vergelijk in november rustig je zorgverzekering.",
-      "bron": "Telegraaf, 24 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/martin-visser-eigen-risico-omhoog-snijden-in-ouderenzorg-hoe-krijgen-we-zorgkosten-in-bedwang/163518743.html",
-      "slide": "slides/2026-10-26-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-26-2.png",
-      "slack_ts": "1792991342.096869"
+      "kop": "Hypotheekrente daalt weer licht",
+      "samenvatting": "De gemiddelde hypotheekrente met NHG daalde vorige week van 4,47 naar 4,43 procent voor tien jaar vast. Dat komt door lagere rentes op de financiele markten.\nOf de daling doorzet is onzeker; internationale ontwikkelingen blijven van invloed.",
+      "todo": "Sta je op het punt een hypotheek af te sluiten of over te sluiten? Volg de renteontwikkeling en vergelijk aanbieders voor je tekent.",
+      "bron": "Wonen360, 26 oktober",
+      "artikel_url": "https://www.wonen360.nl/article/9886198/hypotheekrente-daalt-licht-na-eerdere-stijging/",
+      "slide": "slides/2026-10-27-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-27-2.png",
+      "slack_ts": "1793077722.441379"
     },
     {
       "nr": 3,
-      "kop": "Pas op met earn-outafspraken",
-      "samenvatting": "Ondernemers die hun bedrijf verkopen blijven vaak nog jaren aan boord via een earn-out: een deel van de verkoopprijs krijg je pas als het bedrijf bepaalde doelen haalt.\nDat kan een hogere prijs opleveren, maar ook tot ruzie leiden over doelen en de koers van het bedrijf.",
-      "todo": "Leg earn-outafspraken altijd concreet en meetbaar vast, en bespreek de risico's vooraf met je adviseur of jurist.",
-      "bron": "Telegraaf, 25 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/ondernemers-blijven-na-verkoop-aan-boord-voor-hogere-prijs-zolang-het-laatste-deel-niet-is-betaald-blijf-ik-de-baas/163437113.html",
-      "slide": "slides/2026-10-26-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-26-3.png",
-      "slack_ts": "1792991344.042169"
+      "kop": "Stormen leveren golf schadeclaims",
+      "samenvatting": "Na de stormen van afgelopen weekend stromen de schadeclaims binnen bij verzekeraars. Het gaat vooral om schade aan daken, water in huis en omgewaaide bomen op auto's.\nVerzekeraars verwachten de komende dagen nog meer meldingen.",
+      "todo": "Check na storm je woning en auto op schade en meld dit snel bij je verzekeraar, ook als de schade pas later opvalt.",
+      "bron": "Telegraaf, 26 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/stormen-zorgen-voor-golf-aan-schadeclaims-bij-verzekeraars-huizen-en-autos-getroffen/163612838.html",
+      "slide": "slides/2026-10-27-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-27-3.png",
+      "slack_ts": "1793077724.772059"
     }
   ]
 }
