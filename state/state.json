@@ -1,50 +1,48 @@
 {
-  "datum": "2026-10-27",
-  "status": "ingepland",
-  "gekozen": [2],
-  "akiflow_task_id": "d615bd47-2d8f-4ea8-aed3-16a82667f297",
+  "datum": "2026-10-28",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "006df927-f190-44cb-955c-91239e5cf3fb",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793077718.166719",
+  "slack_ts": "1793164266.631779",
   "eigen_ts": [
-    "1793077718.166719",
-    "1793077720.081539",
-    "1793077722.441379",
-    "1793077724.772059",
-    "1793087239.470909"
+    "1793164266.631779",
+    "1793164268.653469",
+    "1793164270.845279",
+    "1793164273.182459"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Btw op bloemen gaat omhoog",
-      "samenvatting": "Het kabinet wil de btw op bloemen, planten en bomen verhogen van 9 naar 21 procent. Dat gaat in per 2028 en raakt kwekers, bloemisten, tuincentra en hoveniers.\nHet plan moet nog langs de Tweede en Eerste Kamer.",
-      "todo": "Heb je een bedrijf in bloemen, planten of tuin? Houd dit wetsvoorstel in de gaten en reken na wat het voor je prijzen betekent.",
-      "bron": "Telegraaf, 26 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/groene-ondernemers-vrezen-forse-prijsstijging-door-hogere-btw-op-bloemen-en-planten-bij-kleine-hoveniers-gaan-klappen-vallen/163440907.html",
-      "slide": "slides/2026-10-27-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-27-1.png",
-      "slack_ts": "1793077720.081539"
+      "kop": "Minder hypotheek bij funderingsrisico",
+      "samenvatting": "Heb je een huis met funderingsrisico op het oog? Vanaf 2027 telt dat risico mee bij een NHG-hypotheek. Is het risico hoog, dan rekent je verstrekker de herstelkosten mee en kun je minder lenen.\nDe AFM telt bijna 220.000 huizen met een hoog risico.",
+      "todo": "Koop je een huis met funderingsrisico? Laat dit vooraf checken en bespreek de gevolgen voor je hypotheek met je adviseur.",
+      "bron": "NU.nl, 27 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6414514/kopers-van-huis-met-slechte-fundering-krijgen-minder-hypotheek-met-nhg.html",
+      "slide": "slides/2026-10-28-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-28-1.png",
+      "slack_ts": "1793164268.653469"
     },
     {
       "nr": 2,
-      "kop": "Hypotheekrente daalt weer licht",
-      "samenvatting": "De gemiddelde hypotheekrente met NHG daalde vorige week van 4,47 naar 4,43 procent voor tien jaar vast. Dat komt door lagere rentes op de financiele markten.\nOf de daling doorzet is onzeker; internationale ontwikkelingen blijven van invloed.",
-      "todo": "Sta je op het punt een hypotheek af te sluiten of over te sluiten? Volg de renteontwikkeling en vergelijk aanbieders voor je tekent.",
-      "bron": "Wonen360, 26 oktober",
-      "artikel_url": "https://www.wonen360.nl/article/9886198/hypotheekrente-daalt-licht-na-eerdere-stijging/",
-      "slide": "slides/2026-10-27-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-27-2.png",
-      "slack_ts": "1793077722.441379"
+      "kop": "EU wil klimaatschade beter verzekeren",
+      "samenvatting": "Eurocommissaris Hoekstra presenteert een EU-plan om schade door extreme weersrampen verzekerbaar te houden. Landen moeten vooraf vastleggen wie verantwoordelijk is als het misgaat.\nOok moet nieuwbouw rekening houden met klimaatrisico's.",
+      "todo": "Heb je vastgoed of een bedrijf in een risicogebied? Check je verzekeringsdekking tegen extreem weer en blijf nieuwe regels volgen.",
+      "bron": "AD, 27 oktober",
+      "artikel_url": "https://www.ad.nl/buitenland/wopke-hoekstra-waarschuwt-nederland-en-europa-zonder-actie-wordt-klimaatschade-straks-onverzekerbaar~a5784eb1/",
+      "slide": "slides/2026-10-28-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-28-2.png",
+      "slack_ts": "1793164270.845279"
     },
     {
       "nr": 3,
-      "kop": "Stormen leveren golf schadeclaims",
-      "samenvatting": "Na de stormen van afgelopen weekend stromen de schadeclaims binnen bij verzekeraars. Het gaat vooral om schade aan daken, water in huis en omgewaaide bomen op auto's.\nVerzekeraars verwachten de komende dagen nog meer meldingen.",
-      "todo": "Check na storm je woning en auto op schade en meld dit snel bij je verzekeraar, ook als de schade pas later opvalt.",
-      "bron": "Telegraaf, 26 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/stormen-zorgen-voor-golf-aan-schadeclaims-bij-verzekeraars-huizen-en-autos-getroffen/163612838.html",
-      "slide": "slides/2026-10-27-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-27-3.png",
-      "slack_ts": "1793077724.772059"
+      "kop": "Belastingplan dreigt te sneuvelen",
+      "samenvatting": "Het kabinet loopt het risico op een miljardengat in de begroting als het Belastingplan het niet haalt in de Eerste Kamer. Die stemt naar verwachting pas half december, en de kans dat de eerste stemronde mislukt wordt reeel genoemd.\nOok dreigt een Europese tekortprocedure als het gat niet gedicht wordt.",
+      "todo": "Houd de onderhandelingen over het Belastingplan en box 3 in de gaten en bespreek met je adviseur wat dit voor jouw situatie kan betekenen.",
+      "bron": "Telegraaf, 28 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/kabinet-riskeert-gat-van-miljarden-bij-afschieten-belastingplan-europees-strafbankje-dreigt/163667348.html",
+      "slide": "slides/2026-10-28-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-28-3.png",
+      "slack_ts": "1793164273.182459"
     }
   ]
 }
