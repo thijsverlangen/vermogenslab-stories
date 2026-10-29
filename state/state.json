@@ -1,48 +1,48 @@
 {
-  "datum": "2026-10-28",
-  "status": "geen_keuze",
-  "akiflow_task_id": "006df927-f190-44cb-955c-91239e5cf3fb",
+  "datum": "2026-10-29",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "4bfcb39a-964f-4f95-a3b2-a87136deec67",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793164266.631779",
+  "slack_ts": "1793250546.464369",
   "eigen_ts": [
-    "1793164266.631779",
-    "1793164268.653469",
-    "1793164270.845279",
-    "1793164273.182459"
+    "1793250546.464369",
+    "1793250548.497969",
+    "1793250550.800189",
+    "1793250553.152049"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Minder hypotheek bij funderingsrisico",
-      "samenvatting": "Heb je een huis met funderingsrisico op het oog? Vanaf 2027 telt dat risico mee bij een NHG-hypotheek. Is het risico hoog, dan rekent je verstrekker de herstelkosten mee en kun je minder lenen.\nDe AFM telt bijna 220.000 huizen met een hoog risico.",
-      "todo": "Koop je een huis met funderingsrisico? Laat dit vooraf checken en bespreek de gevolgen voor je hypotheek met je adviseur.",
-      "bron": "NU.nl, 27 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6414514/kopers-van-huis-met-slechte-fundering-krijgen-minder-hypotheek-met-nhg.html",
-      "slide": "slides/2026-10-28-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-28-1.png",
-      "slack_ts": "1793164268.653469"
+      "kop": "Hoelang moet je belastingpapieren bewaren",
+      "samenvatting": "De fiscale bewaarplicht is zeven jaar, maar niet iedereen weet vanaf wanneer die termijn start. Voor onroerend goed en hypotheekstukken geldt zelfs tien jaar.\nGooi je iets te vroeg weg, dan sta je bij een controle met lege handen.",
+      "todo": "Check welke bewaartermijn voor jouw papieren geldt en bewaar stukken over je huis en hypotheek sowieso tien jaar.",
+      "bron": "Telegraaf, 28 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/belastingvraag-wat-moet-ik-hoelang-bewaren/163610094.html",
+      "slide": "slides/2026-10-29-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-29-1.png",
+      "slack_ts": "1793250548.497969"
     },
     {
       "nr": 2,
-      "kop": "EU wil klimaatschade beter verzekeren",
-      "samenvatting": "Eurocommissaris Hoekstra presenteert een EU-plan om schade door extreme weersrampen verzekerbaar te houden. Landen moeten vooraf vastleggen wie verantwoordelijk is als het misgaat.\nOok moet nieuwbouw rekening houden met klimaatrisico's.",
-      "todo": "Heb je vastgoed of een bedrijf in een risicogebied? Check je verzekeringsdekking tegen extreem weer en blijf nieuwe regels volgen.",
-      "bron": "AD, 27 oktober",
-      "artikel_url": "https://www.ad.nl/buitenland/wopke-hoekstra-waarschuwt-nederland-en-europa-zonder-actie-wordt-klimaatschade-straks-onverzekerbaar~a5784eb1/",
-      "slide": "slides/2026-10-28-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-28-2.png",
-      "slack_ts": "1793164270.845279"
+      "kop": "Pensioenfondsen profiteren van hogere rente",
+      "samenvatting": "Pensioenfondsen zien hun dekkingsgraad stijgen dankzij de hogere rente, vlak voor de overstap naar het nieuwe pensioenstelsel. Bij DNB steeg de gemiddelde dekkingsgraad in het derde kwartaal naar ruim 136 procent.\nEen snel oplopende rente kan de overstap juist ook verstoren.",
+      "todo": "Check bij je pensioenfonds hoe de overstap naar het nieuwe stelsel voor jou uitpakt en wat dit voor je pensioen betekent.",
+      "bron": "NU.nl, 28 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6414722/pensioenfondsen-verdienen-aan-hogere-rentes-in-aanloop-naar-nieuw-stelsel.html",
+      "slide": "slides/2026-10-29-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-29-2.png",
+      "slack_ts": "1793250550.800189"
     },
     {
       "nr": 3,
-      "kop": "Belastingplan dreigt te sneuvelen",
-      "samenvatting": "Het kabinet loopt het risico op een miljardengat in de begroting als het Belastingplan het niet haalt in de Eerste Kamer. Die stemt naar verwachting pas half december, en de kans dat de eerste stemronde mislukt wordt reeel genoemd.\nOok dreigt een Europese tekortprocedure als het gat niet gedicht wordt.",
-      "todo": "Houd de onderhandelingen over het Belastingplan en box 3 in de gaten en bespreek met je adviseur wat dit voor jouw situatie kan betekenen.",
-      "bron": "Telegraaf, 28 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/kabinet-riskeert-gat-van-miljarden-bij-afschieten-belastingplan-europees-strafbankje-dreigt/163667348.html",
-      "slide": "slides/2026-10-28-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-28-3.png",
-      "slack_ts": "1793164273.182459"
+      "kop": "Gasprijs breekt grens honderd euro",
+      "samenvatting": "De Europese gasprijs kwam deze week voor het eerst sinds 2022 boven de 100 euro per megawattuur uit. De prijs is dit jaar verdrievoudigd, onder meer omdat de Europese gasvoorraden historisch laag staan.\nDat werkt rechtstreeks door in je energierekening deze winter.",
+      "todo": "Check je energiecontract en vergelijk of een vast contract voordeliger is dan variabel nu de gasprijs verder stijgt.",
+      "bron": "NU.nl, 28 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6414692/gasrekening-wordt-alsmaar-hoger-europese-gasprijs-bereikt-grens-van-100-euro.html",
+      "slide": "slides/2026-10-29-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-29-3.png",
+      "slack_ts": "1793250553.152049"
     }
   ]
 }
