@@ -1,48 +1,48 @@
 {
-  "datum": "2026-10-29",
-  "status": "geen_keuze",
-  "akiflow_task_id": "4bfcb39a-964f-4f95-a3b2-a87136deec67",
+  "datum": "2026-10-30",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "aaddcdbd-4560-49bb-94d0-3a3e8457a2e2",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793250546.464369",
+  "slack_ts": "1793336840.291719",
   "eigen_ts": [
-    "1793250546.464369",
-    "1793250548.497969",
-    "1793250550.800189",
-    "1793250553.152049"
+    "1793336840.291719",
+    "1793336842.281909",
+    "1793336844.631339",
+    "1793336846.863369"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Hoelang moet je belastingpapieren bewaren",
-      "samenvatting": "De fiscale bewaarplicht is zeven jaar, maar niet iedereen weet vanaf wanneer die termijn start. Voor onroerend goed en hypotheekstukken geldt zelfs tien jaar.\nGooi je iets te vroeg weg, dan sta je bij een controle met lege handen.",
-      "todo": "Check welke bewaartermijn voor jouw papieren geldt en bewaar stukken over je huis en hypotheek sowieso tien jaar.",
-      "bron": "Telegraaf, 28 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/belastingvraag-wat-moet-ik-hoelang-bewaren/163610094.html",
-      "slide": "slides/2026-10-29-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-29-1.png",
-      "slack_ts": "1793250548.497969"
+      "kop": "Fikse pensioenverhoging in het vooruitzicht",
+      "samenvatting": "Pensioenfondsen ABP en PME zagen hun dekkingsgraad dit kwartaal stijgen naar boven de 130 procent dankzij de hogere rente. Dat geeft extra ruimte bij de overstap naar het nieuwe pensioenstelsel op 1 januari.\nPME houdt al rekening met een verhoging van ruim 12 procent in 2027.",
+      "todo": "Check bij je pensioenfonds hoe de overstap naar het nieuwe stelsel voor jouw pensioen uitpakt.",
+      "bron": "NOS, 29 oktober",
+      "artikel_url": "https://nos.nl/l/2637103",
+      "slide": "slides/2026-10-30-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-30-1.png",
+      "slack_ts": "1793336842.281909"
     },
     {
       "nr": 2,
-      "kop": "Pensioenfondsen profiteren van hogere rente",
-      "samenvatting": "Pensioenfondsen zien hun dekkingsgraad stijgen dankzij de hogere rente, vlak voor de overstap naar het nieuwe pensioenstelsel. Bij DNB steeg de gemiddelde dekkingsgraad in het derde kwartaal naar ruim 136 procent.\nEen snel oplopende rente kan de overstap juist ook verstoren.",
-      "todo": "Check bij je pensioenfonds hoe de overstap naar het nieuwe stelsel voor jou uitpakt en wat dit voor je pensioen betekent.",
-      "bron": "NU.nl, 28 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6414722/pensioenfondsen-verdienen-aan-hogere-rentes-in-aanloop-naar-nieuw-stelsel.html",
-      "slide": "slides/2026-10-29-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-29-2.png",
-      "slack_ts": "1793250550.800189"
+      "kop": "Gasprijs stijgt naar nieuw record",
+      "samenvatting": "De Europese gasprijs ging deze week voor het eerst sinds de gascrisis van 2022 boven de 100 euro per megawattuur. Klanten met een dynamisch contract betalen nu zo'n 1,95 euro per kuub, tegen 1,13 euro een jaar geleden.\nDat kan een gemiddeld huishouden al snel 600 euro per jaar extra kosten.",
+      "todo": "Check je energiecontract en vergelijk of vastzetten nu voordeliger is dan een variabel of dynamisch contract.",
+      "bron": "NOS, 28 oktober",
+      "artikel_url": "https://nos.nl/l/2637039",
+      "slide": "slides/2026-10-30-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-30-2.png",
+      "slack_ts": "1793336844.631339"
     },
     {
       "nr": 3,
-      "kop": "Gasprijs breekt grens honderd euro",
-      "samenvatting": "De Europese gasprijs kwam deze week voor het eerst sinds 2022 boven de 100 euro per megawattuur uit. De prijs is dit jaar verdrievoudigd, onder meer omdat de Europese gasvoorraden historisch laag staan.\nDat werkt rechtstreeks door in je energierekening deze winter.",
-      "todo": "Check je energiecontract en vergelijk of een vast contract voordeliger is dan variabel nu de gasprijs verder stijgt.",
-      "bron": "NU.nl, 28 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6414692/gasrekening-wordt-alsmaar-hoger-europese-gasprijs-bereikt-grens-van-100-euro.html",
-      "slide": "slides/2026-10-29-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-29-3.png",
-      "slack_ts": "1793250553.152049"
+      "kop": "ECB pauzeert, hogere rente dreigt",
+      "samenvatting": "De ECB liet de rente deze week ongewijzigd, maar analisten verwachten door de hoge energieprijzen toch verdere renteverhogingen in december en mogelijk maart. Dat raakt straks zowel hypotheken met variabele rente als de rente op spaargeld.\nLagarde vertrekt overigens eerder dan gepland, per 7 februari.",
+      "todo": "Houd de renteontwikkeling in de gaten bij een variabele hypotheek en vergelijk periodiek de spaarrentes.",
+      "bron": "NU.nl, 29 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6414813/ecb-handhaaft-belangrijkste-rentetarief-op-25-procent.html",
+      "slide": "slides/2026-10-30-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-30-3.png",
+      "slack_ts": "1793336846.863369"
     }
   ]
 }
