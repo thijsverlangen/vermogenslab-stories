@@ -1,50 +1,48 @@
 {
-  "datum": "2026-10-30",
-  "status": "ingepland",
-  "gekozen": [1],
-  "akiflow_task_id": "aaddcdbd-4560-49bb-94d0-3a3e8457a2e2",
+  "datum": "2026-10-31",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "03f13049-90f6-4307-944e-f5df86321415",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793336840.291719",
+  "slack_ts": "1793423316.409879",
   "eigen_ts": [
-    "1793336840.291719",
-    "1793336842.281909",
-    "1793336844.631339",
-    "1793336846.863369",
-    "1793350018.790179"
+    "1793423316.409879",
+    "1793423318.337869",
+    "1793423320.503869",
+    "1793423322.606659"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Fikse pensioenverhoging in het vooruitzicht",
-      "samenvatting": "Pensioenfondsen ABP en PME zagen hun dekkingsgraad dit kwartaal stijgen naar boven de 130 procent dankzij de hogere rente. Dat geeft extra ruimte bij de overstap naar het nieuwe pensioenstelsel op 1 januari.\nPME houdt al rekening met een verhoging van ruim 12 procent in 2027.",
-      "todo": "Check bij je pensioenfonds hoe de overstap naar het nieuwe stelsel voor jouw pensioen uitpakt.",
-      "bron": "NOS, 29 oktober",
-      "artikel_url": "https://nos.nl/l/2637103",
-      "slide": "slides/2026-10-30-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-30-1.png",
-      "slack_ts": "1793336842.281909"
+      "kop": "Zzp'ers gedwongen terug in loondienst",
+      "samenvatting": "Sinds de Belastingdienst strenger optreedt tegen schijnzelfstandigheid, zijn er 138.000 minder zzp'ers.\nZe stappen niet over naar een vaste baan, maar naar korte contracten of oproepwerk. Vanaf 1 januari 2027 wordt er nog strenger gecontroleerd.",
+      "todo": "Werk je als zzp'er? Check of je opdracht nog aan de regels voldoet en bespreek het risico met je opdrachtgever of adviseur.",
+      "bron": "Telegraaf, 30 oktober",
+      "artikel_url": "https://www.telegraaf.nl/financieel/steeds-meer-zzpers-gedwongen-in-loondienst-door-nieuwe-wet-werk-bleef-hetzelfde-maar-bureau-pakte-ineens-20-procent-marge/163637851.html",
+      "slide": "slides/2026-10-31-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-31-1.png",
+      "slack_ts": "1793423318.337869"
     },
     {
       "nr": 2,
-      "kop": "Gasprijs stijgt naar nieuw record",
-      "samenvatting": "De Europese gasprijs ging deze week voor het eerst sinds de gascrisis van 2022 boven de 100 euro per megawattuur. Klanten met een dynamisch contract betalen nu zo'n 1,95 euro per kuub, tegen 1,13 euro een jaar geleden.\nDat kan een gemiddeld huishouden al snel 600 euro per jaar extra kosten.",
-      "todo": "Check je energiecontract en vergelijk of vastzetten nu voordeliger is dan een variabel of dynamisch contract.",
-      "bron": "NOS, 28 oktober",
-      "artikel_url": "https://nos.nl/l/2637039",
-      "slide": "slides/2026-10-30-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-30-2.png",
-      "slack_ts": "1793336844.631339"
+      "kop": "Minimumloon stijgt in 2027",
+      "samenvatting": "Het minimumloon gaat op 1 januari 2027 omhoog van 14,99 naar 15,29 euro bruto per uur, zo'n 30 cent meer.\nBij een volledige werkweek levert dat ongeveer 52 euro bruto per maand extra op. Ook het minimumjeugdloon stijgt extra.",
+      "todo": "Heb je personeel op minimumloon? Reken de hogere loonkosten vanaf januari al na in je begroting voor 2027.",
+      "bron": "Hart van Nederland, 29 oktober",
+      "artikel_url": "https://www.hartvannederland.nl/economie/geld/artikelen/minimumloon-2027-stijgt-15-29-euro-per-uur-januari",
+      "slide": "slides/2026-10-31-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-31-2.png",
+      "slack_ts": "1793423320.503869"
     },
     {
       "nr": 3,
-      "kop": "ECB pauzeert, hogere rente dreigt",
-      "samenvatting": "De ECB liet de rente deze week ongewijzigd, maar analisten verwachten door de hoge energieprijzen toch verdere renteverhogingen in december en mogelijk maart. Dat raakt straks zowel hypotheken met variabele rente als de rente op spaargeld.\nLagarde vertrekt overigens eerder dan gepland, per 7 februari.",
-      "todo": "Houd de renteontwikkeling in de gaten bij een variabele hypotheek en vergelijk periodiek de spaarrentes.",
-      "bron": "NU.nl, 29 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6414813/ecb-handhaaft-belangrijkste-rentetarief-op-25-procent.html",
-      "slide": "slides/2026-10-30-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-30-3.png",
-      "slack_ts": "1793336846.863369"
+      "kop": "Heffing op pakketjes uit China",
+      "samenvatting": "Het kabinet wil af van de vrijstelling voor pakketjes onder de 150 euro uit China.\nDat kan de staat bijna 6 miljard euro opleveren, want vorig jaar kwamen er al 5,8 miljard van dat soort pakketjes het land in. De extra kosten komen uiteindelijk bij de besteller terecht.",
+      "todo": "Bestel je vaak pakketjes uit het buitenland? Houd rekening met hogere kosten per bestelling zodra de heffing ingaat.",
+      "bron": "NU.nl, 30 oktober",
+      "artikel_url": "https://www.nu.nl/economie/6414945/nieuwe-heffing-op-goedkope-pakketjes-uit-china-kan-miljarden-opleveren.html",
+      "slide": "slides/2026-10-31-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-10-31-3.png",
+      "slack_ts": "1793423322.606659"
     }
   ]
 }
