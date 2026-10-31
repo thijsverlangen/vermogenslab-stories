@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-31",
-  "status": "wacht_op_keuze",
+  "status": "geen_keuze",
   "akiflow_task_id": "03f13049-90f6-4307-944e-f5df86321415",
   "slack_kanaal": "C0C1MU54N81",
   "slack_ts": "1793423316.409879",
