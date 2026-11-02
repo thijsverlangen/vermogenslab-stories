@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-01",
-  "status": "geen_keuze",
-  "akiflow_task_id": "eb052ae2-a31d-432e-9eff-5eebf3532ea2",
+  "datum": "2026-11-02",
+  "status": "wacht_op_keuze",
+  "akiflow_task_id": "95e559ee-bafd-458a-bfda-d9799c768bce",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793509714.744749",
+  "slack_ts": "1793596100.552579",
   "eigen_ts": [
-    "1793509714.744749",
-    "1793509717.721779",
-    "1793509719.958129",
-    "1793509721.933639"
+    "1793596100.552579",
+    "1793596102.539189",
+    "1793596104.389179",
+    "1793596106.419079"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Huis van ouders kopen duurder",
-      "samenvatting": "Je ouders mogen hun huis nu nog aan jou verkopen tegen de WOZ-waarde, vaak flink lager dan de marktwaarde.\nVanaf 2027 telt de fiscus dat verschil als schenking. Dit jaar is dus het laatste jaar om voordelig binnen de familie te kopen.",
-      "todo": "Overweeg je een huis binnen de familie te kopen of verkopen? Reken dit jaar nog uit wat voordeliger is en bespreek het met je adviseur.",
+      "kop": "Pakketjes uit China duurder",
+      "samenvatting": "Vanaf 1 november betaal je een extra handling fee van 2 euro op pakketjes van buiten de EU, zoals vanuit China.\nVolgens EU-cijfers loopt dat de komende jaren op tot ruim 6 miljard euro per jaar aan extra belasting voor consumenten.",
+      "todo": "Bestel je vaak bij Chinese webshops? Reken de extra kosten mee bij je bestelling en check of het nog voordeliger is dan een Nederlandse winkel.",
       "bron": "Telegraaf, 1 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/woning-kopen-voor-je-studerende-kind-het-is-ingewikkelder-en-veel-minder-gunstig-geworden/163850243.html",
-      "slide": "slides/2026-11-01-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-01-1.png",
-      "slack_ts": "1793509717.721779"
+      "artikel_url": "https://www.telegraaf.nl/financieel/pakketjes-uit-china-leveren-europa-miljarden-op-consument-betaalt-de-rekening/163912947.html",
+      "slide": "slides/2026-11-02-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-02-1.png",
+      "slack_ts": "1793596102.539189"
     },
     {
       "nr": 2,
-      "kop": "Pensioenkeuze is aan jou",
-      "samenvatting": "Pensioenfondsen moeten je begeleiden bij keuzes zoals eerder stoppen of een bedrag ineens opnemen.\nMaar ze kijken niet naar jouw belastingen of toeslagen, de gevolgen daarvan zijn voor jouw eigen rekening.",
-      "todo": "Krijg je een pensioenkeuze voorgelegd? Reken de gevolgen voor je belasting en toeslagen zelf na of bespreek dit met je adviseur.",
+      "kop": "Pensioenfondsen boeken verlies op beurs",
+      "samenvatting": "Dekkingsgraden van pensioenfondsen stegen dit kwartaal naar ruim 136 procent, goed nieuws op papier.\nMaar dat komt door de hogere rente, niet doordat je pensioenvermogen beter presteert: dat verliest juist waarde op de beurs.",
+      "todo": "Check de dekkingsgraad en het beleggingsresultaat van je eigen pensioenfonds en bespreek de gevolgen met je adviseur.",
       "bron": "Telegraaf, 31 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/theo-gommer-keuzebegeleiding-pensioen-faalt/163881325.html",
-      "slide": "slides/2026-11-01-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-01-2.png",
-      "slack_ts": "1793509719.958129"
+      "artikel_url": "https://www.telegraaf.nl/financieel/martin-visser-pas-op-vlag-gaat-uit-bij-pensioenfondsen-maar-ze-boeken-verliezen-op-de-beurs/163838045.html",
+      "slide": "slides/2026-11-02-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-02-2.png",
+      "slack_ts": "1793596104.389179"
     },
     {
       "nr": 3,
-      "kop": "Benzine blijft duur ondanks winst",
-      "samenvatting": "Shell, BP en TotalEnergies maakten deze week miljardenwinsten dankzij de hoge olie- en gasprijzen door de oorlog in het Midden-Oosten.\nDie winst merk je niet terug aan de pomp of in je energierekening, die blijven juist hoog.",
-      "todo": "Houd je autokosten en energierekening in de gaten en kijk of overstappen of besparen nu extra loont.",
-      "bron": "NU.nl, 31 oktober",
-      "artikel_url": "https://www.nu.nl/economie/6414840/winstmakende-oliebedrijven-verlagen-prijs-benzine-niet-waarom-zouden-ze.html",
-      "slide": "slides/2026-11-01-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-01-3.png",
-      "slack_ts": "1793509721.933639"
+      "kop": "Huis kopen voor kind onrendabel",
+      "samenvatting": "Een huis kopen voor je studerende kind was lang een slimme investering, met goede huurinkomsten erbij.\nDoor hogere belastingen, hogere rente en strengere huurregels is dat nu veel minder gunstig.",
+      "todo": "Overweeg je een woning voor je studerende kind? Reken dit jaar de kosten en opbrengsten goed door met je adviseur.",
+      "bron": "Telegraaf, 1 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/kinderen-blijven-langer-thuiswonen-door-nieuwe-regels-studentenwoningen-onrendabel-voor-ouders/163850243.html",
+      "slide": "slides/2026-11-02-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-02-3.png",
+      "slack_ts": "1793596106.419079"
     }
   ]
 }
