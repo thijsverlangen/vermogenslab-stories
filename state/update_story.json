@@ -1,11 +1,27 @@
 {
- "laatste_datum": "2026-10-18",
+ "laatste_datum": "2026-10-31",
  "laatste_fout_melding": "2026-11-01",
  "geschiedenis": [
   {
    "datum": "2026-09-28",
    "geplaatst": "2026-09-30T18:49:00Z",
    "opmerking": "handmatig gemaakt in de Mac-chat, ingepland via Buffer (IG en FB story)"
+  },
+  {
+   "datum": "2026-10-31",
+   "titel": "Naam van een profiel wijzigen, meetpunten vergelijken, toekomstige erfenis (plus update 2026-10-26)",
+   "geplaatst": "2026-11-02T16:27:00Z",
+   "asset": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/update-2026-10-31.png",
+   "instagram": "6ae8b7a32426d4fa35098d7f",
+   "facebook": "6ae8b7a5f1669be3eac1652b",
+   "blokken": [
+    "Nieuw in de planner op vermogenslab.nl.",
+    "Vergelijk twee meetpunten en zie per post wat er veranderd is, met het effect op je netto vermogen.",
+    "Zet een toekomstige erfenis in je plan, als inkomst in het jaar dat je kiest.",
+    "Splits je uitgaven per categorie uit in losse posten, zoals elk abonnement apart.",
+    "Een BV-lening die bij een pand hoort, staat nu als hypotheek bij dat pand in de vermogensboom.",
+    "Geef een opgeslagen profiel een andere naam, zonder het opnieuw op te slaan."
+   ]
   }
  ]
 }
