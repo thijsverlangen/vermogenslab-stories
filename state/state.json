@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-02",
+  "datum": "2026-11-03",
   "status": "wacht_op_keuze",
-  "akiflow_task_id": "95e559ee-bafd-458a-bfda-d9799c768bce",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793596100.552579",
+  "slack_ts": "1793682268.371439",
   "eigen_ts": [
-    "1793596100.552579",
-    "1793596102.539189",
-    "1793596104.389179",
-    "1793596106.419079"
+    "1793682268.371439",
+    "1793682271.320709",
+    "1793682274.195169",
+    "1793682277.462579"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Pakketjes uit China duurder",
-      "samenvatting": "Vanaf 1 november betaal je een extra handling fee van 2 euro op pakketjes van buiten de EU, zoals vanuit China.\nVolgens EU-cijfers loopt dat de komende jaren op tot ruim 6 miljard euro per jaar aan extra belasting voor consumenten.",
-      "todo": "Bestel je vaak bij Chinese webshops? Reken de extra kosten mee bij je bestelling en check of het nog voordeliger is dan een Nederlandse winkel.",
-      "bron": "Telegraaf, 1 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/pakketjes-uit-china-leveren-europa-miljarden-op-consument-betaalt-de-rekening/163912947.html",
-      "slide": "slides/2026-11-02-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-02-1.png",
-      "slack_ts": "1793596102.539189"
+      "kop": "Box 3-plan krijgt onvoldoende",
+      "samenvatting": "De Raad van State geeft het nieuwe box 3-plan een onvoldoende en adviseert uitstel. Invoering in 2028 vindt de raad niet verantwoord, 2030 lijkt beter.\nHet kabinet hoeft dat advies niet te volgen en wil het plan snel naar de Kamer sturen.",
+      "todo": "Hou de box 3-plannen in de gaten en reken met je adviseur na wat het voor jouw vermogen betekent.",
+      "bron": "NU.nl, 2 november",
+      "artikel_url": "https://www.nu.nl/politiek/6414845/raad-van-state-fileert-kabinetsplan-voor-box-3-en-adviseert-uitstel.html",
+      "slide": "slides/2026-11-03-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-03-1.png",
+      "slack_ts": "1793682271.320709"
     },
     {
       "nr": 2,
-      "kop": "Pensioenfondsen boeken verlies op beurs",
-      "samenvatting": "Dekkingsgraden van pensioenfondsen stegen dit kwartaal naar ruim 136 procent, goed nieuws op papier.\nMaar dat komt door de hogere rente, niet doordat je pensioenvermogen beter presteert: dat verliest juist waarde op de beurs.",
-      "todo": "Check de dekkingsgraad en het beleggingsresultaat van je eigen pensioenfonds en bespreek de gevolgen met je adviseur.",
-      "bron": "Telegraaf, 31 oktober",
-      "artikel_url": "https://www.telegraaf.nl/financieel/martin-visser-pas-op-vlag-gaat-uit-bij-pensioenfondsen-maar-ze-boeken-verliezen-op-de-beurs/163838045.html",
-      "slide": "slides/2026-11-02-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-02-2.png",
-      "slack_ts": "1793596104.389179"
+      "kop": "Nabestaandenpensioen regelt zich niet",
+      "samenvatting": "De AFM vindt dat pensioenuitvoerders mensen te slecht informeren over het nabestaandenpensioen. Daardoor zijn sommige partners zonder het te weten niet gedekt.\nOp bepaalde momenten moet je zelf iets doen, bijvoorbeeld als je uit dienst gaat.",
+      "todo": "Check of je partner is aangemeld bij je pensioenfonds en of het bedrag genoeg is voor je nabestaanden.",
+      "bron": "NU.nl, 2 november",
+      "artikel_url": "https://www.nu.nl/economie/6415195/afm-wil-van-pijnlijke-situaties-rond-nabestaandenpensioen-af-en-vraagt-om-actie.html",
+      "slide": "slides/2026-11-03-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-03-2.png",
+      "slack_ts": "1793682274.195169"
     },
     {
       "nr": 3,
-      "kop": "Huis kopen voor kind onrendabel",
-      "samenvatting": "Een huis kopen voor je studerende kind was lang een slimme investering, met goede huurinkomsten erbij.\nDoor hogere belastingen, hogere rente en strengere huurregels is dat nu veel minder gunstig.",
-      "todo": "Overweeg je een woning voor je studerende kind? Reken dit jaar de kosten en opbrengsten goed door met je adviseur.",
-      "bron": "Telegraaf, 1 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/kinderen-blijven-langer-thuiswonen-door-nieuwe-regels-studentenwoningen-onrendabel-voor-ouders/163850243.html",
-      "slide": "slides/2026-11-02-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-02-3.png",
-      "slack_ts": "1793596106.419079"
+      "kop": "Volgend jaar meer hypotheek",
+      "samenvatting": "Vanaf 1 januari kunnen bijna alle huishoudens wat meer lenen voor een huis. Bij €50.000 bruto en een gelijk inkomen is dat ruim €4.000 extra, met loonstijging bijna €12.000.\nStijgt de hypotheekrente verder, dan blijft er minder over.",
+      "todo": "Ga je kopen of oversluiten? Reken je leenruimte opnieuw na en bespreek het met je adviseur.",
+      "bron": "Nibud, 2 november",
+      "artikel_url": "https://www.nibud.nl/nieuws/hogere-hypotheek-in-2027-maar-daarmee-koopwoning-nog-niet-dichterbij/",
+      "slide": "slides/2026-11-03-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-03-3.png",
+      "slack_ts": "1793682277.462579"
     }
-  ]
+  ],
+  "akiflow_task_id": "fb9eacc6-a5bb-4f82-adcb-530b074ae959"
 }
