@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-03",
+  "datum": "2026-11-04",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793682268.371439",
+  "slack_ts": "1793768952.156059",
   "eigen_ts": [
-    "1793682268.371439",
-    "1793682271.320709",
-    "1793682274.195169",
-    "1793682277.462579"
+    "1793768952.156059",
+    "1793768955.130209",
+    "1793768958.151769",
+    "1793768961.123179"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Box 3-plan krijgt onvoldoende",
-      "samenvatting": "De Raad van State geeft het nieuwe box 3-plan een onvoldoende en adviseert uitstel. Invoering in 2028 vindt de raad niet verantwoord, 2030 lijkt beter.\nHet kabinet hoeft dat advies niet te volgen en wil het plan snel naar de Kamer sturen.",
-      "todo": "Hou de box 3-plannen in de gaten en reken met je adviseur na wat het voor jouw vermogen betekent.",
-      "bron": "NU.nl, 2 november",
-      "artikel_url": "https://www.nu.nl/politiek/6414845/raad-van-state-fileert-kabinetsplan-voor-box-3-en-adviseert-uitstel.html",
-      "slide": "slides/2026-11-03-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-03-1.png",
-      "slack_ts": "1793682271.320709"
+      "kop": "Box 3-verbouwing schuift op",
+      "samenvatting": "Het kabinet stelt de nieuwe box 3 vrijwel zeker uit tot 2029, al wordt 2028 nog geprobeerd. Banken kunnen de gegevens niet op tijd aanleveren.\nWerkenden krijgen 350 miljoen extra lastenverlaging en de zorgkostenaftrek blijft toch bestaan.",
+      "todo": "Hou de box 3-plannen in de gaten en reken met je adviseur na wat uitstel voor jouw vermogen betekent.",
+      "bron": "NU.nl, 3 november",
+      "artikel_url": "https://www.nu.nl/politiek/6415267/extra-lastenverlaging-voor-werkenden-box-3-verbouwing-vrijwel-zeker-uitgesteld.html",
+      "slide": "slides/2026-11-04-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-04-1.png",
+      "slack_ts": "1793768955.130209"
     },
     {
       "nr": 2,
-      "kop": "Nabestaandenpensioen regelt zich niet",
-      "samenvatting": "De AFM vindt dat pensioenuitvoerders mensen te slecht informeren over het nabestaandenpensioen. Daardoor zijn sommige partners zonder het te weten niet gedekt.\nOp bepaalde momenten moet je zelf iets doen, bijvoorbeeld als je uit dienst gaat.",
-      "todo": "Check of je partner is aangemeld bij je pensioenfonds en of het bedrag genoeg is voor je nabestaanden.",
-      "bron": "NU.nl, 2 november",
-      "artikel_url": "https://www.nu.nl/economie/6415195/afm-wil-van-pijnlijke-situaties-rond-nabestaandenpensioen-af-en-vraagt-om-actie.html",
-      "slide": "slides/2026-11-03-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-03-2.png",
-      "slack_ts": "1793682274.195169"
+      "kop": "Particuliere verhuurders verkopen massaal",
+      "samenvatting": "In 2025 verdwenen 22.000 private huurwoningen. Particuliere verhuurders deden er 37.000 van de hand, 7 procent van hun voorraad.\nVooral in Utrecht en Noord-Holland gaan huurhuizen naar de koopmarkt.",
+      "todo": "Verhuur je zelf? Reken je rendement onder de huidige regels opnieuw na en bespreek je plannen met je adviseur.",
+      "bron": "NU.nl, 3 november",
+      "artikel_url": "https://www.nu.nl/economie/6415270/in-jaar-tijd-22000-huurwoningen-verdwenen-naar-koopmarkt.html",
+      "slide": "slides/2026-11-04-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-04-2.png",
+      "slack_ts": "1793768958.151769"
     },
     {
       "nr": 3,
-      "kop": "Volgend jaar meer hypotheek",
-      "samenvatting": "Vanaf 1 januari kunnen bijna alle huishoudens wat meer lenen voor een huis. Bij €50.000 bruto en een gelijk inkomen is dat ruim €4.000 extra, met loonstijging bijna €12.000.\nStijgt de hypotheekrente verder, dan blijft er minder over.",
-      "todo": "Ga je kopen of oversluiten? Reken je leenruimte opnieuw na en bespreek het met je adviseur.",
-      "bron": "Nibud, 2 november",
-      "artikel_url": "https://www.nibud.nl/nieuws/hogere-hypotheek-in-2027-maar-daarmee-koopwoning-nog-niet-dichterbij/",
-      "slide": "slides/2026-11-03-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-03-3.png",
-      "slack_ts": "1793682277.462579"
+      "kop": "Samenwonen kost AOW'ers geld",
+      "samenvatting": "Het aantal alleenstaande AOW'ers groeit hard, naar ruim 1,4 miljoen. Veel ouderen willen best samenwonen, maar zien ervan af uit angst voor een lagere AOW.\nDe SVB pleit voor eenvoudigere regels.",
+      "todo": "Ga jij of je ouder na de AOW-leeftijd samenwonen? Check vooraf wat het met de AOW doet en meld het op tijd bij de SVB.",
+      "bron": "De Telegraaf, 3 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/steeds-meer-alleenstaande-aowers-samenwonen-soms-geen-optie-door-vrees-voor-verlaging-uitkering/163981983.html",
+      "slide": "slides/2026-11-04-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-04-3.png",
+      "slack_ts": "1793768961.123179"
     }
   ],
-  "akiflow_task_id": "fb9eacc6-a5bb-4f82-adcb-530b074ae959"
+  "akiflow_task_id": "f78f2ef3-baff-423a-8839-fcffc9000d0a"
 }
