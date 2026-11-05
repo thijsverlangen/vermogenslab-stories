@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-04",
+  "datum": "2026-11-05",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793768952.156059",
+  "slack_ts": "1793855238.312939",
   "eigen_ts": [
-    "1793768952.156059",
-    "1793768955.130209",
-    "1793768958.151769",
-    "1793768961.123179"
+    "1793855238.312939",
+    "1793855241.463539",
+    "1793855245.998769",
+    "1793855271.157139"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Box 3-verbouwing schuift op",
-      "samenvatting": "Het kabinet stelt de nieuwe box 3 vrijwel zeker uit tot 2029, al wordt 2028 nog geprobeerd. Banken kunnen de gegevens niet op tijd aanleveren.\nWerkenden krijgen 350 miljoen extra lastenverlaging en de zorgkostenaftrek blijft toch bestaan.",
-      "todo": "Hou de box 3-plannen in de gaten en reken met je adviseur na wat uitstel voor jouw vermogen betekent.",
-      "bron": "NU.nl, 3 november",
-      "artikel_url": "https://www.nu.nl/politiek/6415267/extra-lastenverlaging-voor-werkenden-box-3-verbouwing-vrijwel-zeker-uitgesteld.html",
-      "slide": "slides/2026-11-04-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-04-1.png",
-      "slack_ts": "1793768955.130209"
+      "kop": "Energie maakt leven duurder",
+      "samenvatting": "De inflatie steeg in oktober naar 3,7 procent, het hoogste niveau sinds april 2025. Energie en brandstof werden 14,4 procent duurder dan een jaar eerder.\nBoodschappen werden juist iets goedkoper.",
+      "todo": "Check je energiecontract en vaste lasten, en reken na of je spaargeld de inflatie nog bijhoudt.",
+      "bron": "RTL Nieuws, 4 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5662845/inflatie-stijgt-tot-37-procent-vooral-energie-duurder",
+      "slide": "slides/2026-11-05-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-05-1.png",
+      "slack_ts": "1793855241.463539"
     },
     {
       "nr": 2,
-      "kop": "Particuliere verhuurders verkopen massaal",
-      "samenvatting": "In 2025 verdwenen 22.000 private huurwoningen. Particuliere verhuurders deden er 37.000 van de hand, 7 procent van hun voorraad.\nVooral in Utrecht en Noord-Holland gaan huurhuizen naar de koopmarkt.",
-      "todo": "Verhuur je zelf? Reken je rendement onder de huidige regels opnieuw na en bespreek je plannen met je adviseur.",
-      "bron": "NU.nl, 3 november",
-      "artikel_url": "https://www.nu.nl/economie/6415270/in-jaar-tijd-22000-huurwoningen-verdwenen-naar-koopmarkt.html",
-      "slide": "slides/2026-11-04-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-04-2.png",
-      "slack_ts": "1793768958.151769"
+      "kop": "Compensatie woekerpolis De Goudse",
+      "samenvatting": "Klanten van De Goudse met een woekerpolis krijgen definitief compensatie. De verzekeraar betaalt in totaal zo'n 12,5 miljoen euro.\nUitbetalen kan drie tot zes maanden duren. Bij een paar kleinere verzekeraars loopt nog actie.",
+      "todo": "Had je ooit een beleggingsverzekering? Zoek je oude polis op en check of je recht hebt op compensatie.",
+      "bron": "NOS, 4 november",
+      "artikel_url": "https://nos.nl/l/2638001",
+      "slide": "slides/2026-11-05-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-05-2.png",
+      "slack_ts": "1793855245.998769"
     },
     {
       "nr": 3,
-      "kop": "Samenwonen kost AOW'ers geld",
-      "samenvatting": "Het aantal alleenstaande AOW'ers groeit hard, naar ruim 1,4 miljoen. Veel ouderen willen best samenwonen, maar zien ervan af uit angst voor een lagere AOW.\nDe SVB pleit voor eenvoudigere regels.",
-      "todo": "Ga jij of je ouder na de AOW-leeftijd samenwonen? Check vooraf wat het met de AOW doet en meld het op tijd bij de SVB.",
-      "bron": "De Telegraaf, 3 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/steeds-meer-alleenstaande-aowers-samenwonen-soms-geen-optie-door-vrees-voor-verlaging-uitkering/163981983.html",
-      "slide": "slides/2026-11-04-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-04-3.png",
-      "slack_ts": "1793768961.123179"
+      "kop": "Studieschuld blijft hypotheek drukken",
+      "samenvatting": "Het Nibud adviseert de regels voor studieschuld bij een hypotheek niet te veranderen. Bij 20.000 euro schuld en 70 euro aflossing per maand leen je nu zo'n 17.700 euro minder.\nHet kabinet wil niet versoepelen.",
+      "todo": "Wil je een huis kopen? Zet je DUO-maandbedrag op een rij en reken met je adviseur na wat je echt kunt lenen.",
+      "bron": "Univers, 2 november",
+      "artikel_url": "https://universonline.nl/nieuws/2026/11/02/studieschuld-blijft-op-hypotheek-drukken-als-het-aan-nibud-ligt/",
+      "slide": "slides/2026-11-05-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-05-3.png",
+      "slack_ts": "1793855271.157139"
     }
   ],
-  "akiflow_task_id": "f78f2ef3-baff-423a-8839-fcffc9000d0a"
+  "akiflow_task_id": "c7b2c0bf-54bf-497c-91ff-96d4b8a70bb4"
 }
