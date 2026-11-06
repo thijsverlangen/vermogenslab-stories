@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-05",
+  "datum": "2026-11-06",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793855238.312939",
+  "slack_ts": "1793941668.538899",
   "eigen_ts": [
-    "1793855238.312939",
-    "1793855241.463539",
-    "1793855245.998769",
-    "1793855271.157139"
+    "1793941668.538899",
+    "1793941671.406139",
+    "1793941674.623299",
+    "1793941679.206579"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Energie maakt leven duurder",
-      "samenvatting": "De inflatie steeg in oktober naar 3,7 procent, het hoogste niveau sinds april 2025. Energie en brandstof werden 14,4 procent duurder dan een jaar eerder.\nBoodschappen werden juist iets goedkoper.",
-      "todo": "Check je energiecontract en vaste lasten, en reken na of je spaargeld de inflatie nog bijhoudt.",
-      "bron": "RTL Nieuws, 4 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5662845/inflatie-stijgt-tot-37-procent-vooral-energie-duurder",
-      "slide": "slides/2026-11-05-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-05-1.png",
-      "slack_ts": "1793855241.463539"
+      "kop": "Gasprijs keldert, rekening later",
+      "samenvatting": "De gasprijs op de beurs is sinds vrijdag na de Amerikaanse verkiezingen zo'n 18 procent gezakt. Wie een vast contract heeft merkt niets. Bij een variabel contract duurt het even, een dynamisch contract voelt het direct.",
+      "todo": "Check wanneer je energiecontract afloopt en wat je nu per kuub betaalt.",
+      "bron": "AD, 5 november",
+      "artikel_url": "https://www.ad.nl/economie/gasprijs-keldert-na-amerikaanse-verkiezingen-is-dit-het-moment-voor-een-nieuw-contract~a60d6dc3/",
+      "slide": "slides/2026-11-06-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-06-1.png",
+      "slack_ts": "1793941671.406139"
     },
     {
       "nr": 2,
-      "kop": "Compensatie woekerpolis De Goudse",
-      "samenvatting": "Klanten van De Goudse met een woekerpolis krijgen definitief compensatie. De verzekeraar betaalt in totaal zo'n 12,5 miljoen euro.\nUitbetalen kan drie tot zes maanden duren. Bij een paar kleinere verzekeraars loopt nog actie.",
-      "todo": "Had je ooit een beleggingsverzekering? Zoek je oude polis op en check of je recht hebt op compensatie.",
-      "bron": "NOS, 4 november",
-      "artikel_url": "https://nos.nl/l/2638001",
-      "slide": "slides/2026-11-05-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-05-2.png",
-      "slack_ts": "1793855245.998769"
+      "kop": "PRO wil vermogen zwaarder belasten",
+      "samenvatting": "PRO en Volt willen het belastingplan aanpassen. Wie meer dan 80.000 euro rendement op vermogen maakt, betaalt dan 45 procent. Ook het belastingvrij lenen van een dga uit de eigen bv moet verdwijnen. Werkenden betalen in totaal 1,5 miljard minder.",
+      "todo": "Hou de stemming over het belastingplan in de gaten en bespreek met je adviseur wat het voor jou betekent.",
+      "bron": "RTL Nieuws, 4 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/politiek/artikel/5662971/pro-en-volt-komen-met-voorstel-om-grote-vermogens-te-belasten",
+      "slide": "slides/2026-11-06-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-06-2.png",
+      "slack_ts": "1793941674.623299"
     },
     {
       "nr": 3,
-      "kop": "Studieschuld blijft hypotheek drukken",
-      "samenvatting": "Het Nibud adviseert de regels voor studieschuld bij een hypotheek niet te veranderen. Bij 20.000 euro schuld en 70 euro aflossing per maand leen je nu zo'n 17.700 euro minder.\nHet kabinet wil niet versoepelen.",
-      "todo": "Wil je een huis kopen? Zet je DUO-maandbedrag op een rij en reken met je adviseur na wat je echt kunt lenen.",
-      "bron": "Univers, 2 november",
-      "artikel_url": "https://universonline.nl/nieuws/2026/11/02/studieschuld-blijft-op-hypotheek-drukken-als-het-aan-nibud-ligt/",
-      "slide": "slides/2026-11-05-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-05-3.png",
-      "slack_ts": "1793855271.157139"
+      "kop": "Goedkoop tanken moet simpeler",
+      "samenvatting": "Toezichthouder ACM wil dat tankstations hun actuele prijzen verplicht gratis delen met apps en vergelijkers. Dat kan automobilisten samen 59 miljoen euro per jaar schelen, zo'n 1 cent per liter. Het ministerie neemt het advies niet over.",
+      "todo": "Vergelijk de brandstofprijzen bij jou in de buurt voordat je tankt.",
+      "bron": "RTL Nieuws, 5 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5663154/maak-goedkoopste-tankstation-makkelijker-vindbaar-pleit-acm",
+      "slide": "slides/2026-11-06-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-06-3.png",
+      "slack_ts": "1793941679.206579"
     }
   ],
-  "akiflow_task_id": "c7b2c0bf-54bf-497c-91ff-96d4b8a70bb4"
+  "akiflow_task_id": "449d874e-b38d-40c7-a47a-f79b08fc203f"
 }
