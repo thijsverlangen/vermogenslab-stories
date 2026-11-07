@@ -1,48 +1,47 @@
 {
-  "datum": "2026-11-06",
+  "datum": "2026-11-07",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1793941668.538899",
+  "slack_ts": "1794027745.356509",
   "eigen_ts": [
-    "1793941668.538899",
-    "1793941671.406139",
-    "1793941674.623299",
-    "1793941679.206579"
+    "1794027745.356509",
+    "1794027748.230859",
+    "1794027751.368929",
+    "1794027754.232609"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Gasprijs keldert, rekening later",
-      "samenvatting": "De gasprijs op de beurs is sinds vrijdag na de Amerikaanse verkiezingen zo'n 18 procent gezakt. Wie een vast contract heeft merkt niets. Bij een variabel contract duurt het even, een dynamisch contract voelt het direct.",
-      "todo": "Check wanneer je energiecontract afloopt en wat je nu per kuub betaalt.",
-      "bron": "AD, 5 november",
-      "artikel_url": "https://www.ad.nl/economie/gasprijs-keldert-na-amerikaanse-verkiezingen-is-dit-het-moment-voor-een-nieuw-contract~a60d6dc3/",
-      "slide": "slides/2026-11-06-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-06-1.png",
-      "slack_ts": "1793941671.406139"
+      "kop": "Nabetaling kost je later geld",
+      "samenvatting": "Rechtbank Groningen ziet dat het vaker misgaat. Bij een nabetaling van je uitkering houdt de instantie te weinig loonheffing in. Jij krijgt daarna de naheffing van de Belastingdienst, terwijl die ook bij het UWV had gekund.",
+      "todo": "Check bij een nabetaling of er genoeg loonheffing is ingehouden. Bespreek een naheffing met je adviseur of de Belastingdienst.",
+      "bron": "NU.nl, 6 november",
+      "artikel_url": "https://www.nu.nl/economie/6415779/rechtbank-signaleert-misstanden-rond-nabetalingen-van-uitkeringen.html",
+      "slide": "slides/2026-11-07-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-07-1.png",
+      "slack_ts": "1794027748.230859"
     },
     {
       "nr": 2,
-      "kop": "PRO wil vermogen zwaarder belasten",
-      "samenvatting": "PRO en Volt willen het belastingplan aanpassen. Wie meer dan 80.000 euro rendement op vermogen maakt, betaalt dan 45 procent. Ook het belastingvrij lenen van een dga uit de eigen bv moet verdwijnen. Werkenden betalen in totaal 1,5 miljard minder.",
-      "todo": "Hou de stemming over het belastingplan in de gaten en bespreek met je adviseur wat het voor jou betekent.",
-      "bron": "RTL Nieuws, 4 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/politiek/artikel/5662971/pro-en-volt-komen-met-voorstel-om-grote-vermogens-te-belasten",
-      "slide": "slides/2026-11-06-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-06-2.png",
-      "slack_ts": "1793941674.623299"
+      "kop": "Gestolen telefoon, zelf de schade",
+      "samenvatting": "Kifid oordeelt dat een bank ruim 3500 euro via Apple Pay na diefstal van een telefoon niet hoeft terug te betalen. De betalingen golden als niet toegestaan, maar de klant was grof nalatig omdat zij niet kon uitleggen hoe de dief aan Face ID of haar code kwam.",
+      "todo": "Check of Face ID en je toegangscode echt veilig zijn. Blokkeer je bankapp meteen bij diefstal van je telefoon.",
+      "bron": "Kifid, 5 november",
+      "artikel_url": "https://www.kifid.nl/nieuws/kifid-nieuwe-duidelijke-maatstaf-voor-grof-nalatig-bij-niet-toegestane-betalingen/",
+      "slide": "slides/2026-11-07-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-07-2.png",
+      "slack_ts": "1794027751.368929"
     },
     {
       "nr": 3,
-      "kop": "Goedkoop tanken moet simpeler",
-      "samenvatting": "Toezichthouder ACM wil dat tankstations hun actuele prijzen verplicht gratis delen met apps en vergelijkers. Dat kan automobilisten samen 59 miljoen euro per jaar schelen, zo'n 1 cent per liter. Het ministerie neemt het advies niet over.",
-      "todo": "Vergelijk de brandstofprijzen bij jou in de buurt voordat je tankt.",
-      "bron": "RTL Nieuws, 5 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5663154/maak-goedkoopste-tankstation-makkelijker-vindbaar-pleit-acm",
-      "slide": "slides/2026-11-06-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-06-3.png",
-      "slack_ts": "1793941679.206579"
+      "kop": "AFM beboet finfluencer zwaar",
+      "samenvatting": "Een finfluencer moet 142.500 euro boete betalen voor het aanbevelen van een illegale vermogensbeheerder. Beleggers stapten in via haar posts en verloren hun geld. De AFM waarschuwt: check altijd of een partij een vergunning heeft.",
+      "todo": "Check in het AFM-register of een vermogensbeheerder of adviseur een vergunning heeft voordat je instapt.",
+      "bron": "AFM, 5 november",
+      "artikel_url": "https://www.afm.nl/nl-nl/consumenten/actueel/2026/nov/mr-van-den-brink",
+      "slide": "slides/2026-11-07-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-07-3.png",
+      "slack_ts": "1794027754.232609"
     }
-  ],
-  "akiflow_task_id": "449d874e-b38d-40c7-a47a-f79b08fc203f"
+  ]
 }
