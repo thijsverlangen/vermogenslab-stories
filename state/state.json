@@ -1,48 +1,47 @@
 {
-  "datum": "2026-11-07",
+  "datum": "2026-11-08",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794027745.356509",
+  "slack_ts": "1794114374.944509",
   "eigen_ts": [
-    "1794027745.356509",
-    "1794027748.230859",
-    "1794027751.368929",
-    "1794027754.232609"
+    "1794114374.944509",
+    "1794114378.007649",
+    "1794114399.895399",
+    "1794114404.395119"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Nabetaling kost je later geld",
-      "samenvatting": "Rechtbank Groningen ziet dat het vaker misgaat. Bij een nabetaling van je uitkering houdt de instantie te weinig loonheffing in. Jij krijgt daarna de naheffing van de Belastingdienst, terwijl die ook bij het UWV had gekund.",
-      "todo": "Check bij een nabetaling of er genoeg loonheffing is ingehouden. Bespreek een naheffing met je adviseur of de Belastingdienst.",
-      "bron": "NU.nl, 6 november",
-      "artikel_url": "https://www.nu.nl/economie/6415779/rechtbank-signaleert-misstanden-rond-nabetalingen-van-uitkeringen.html",
-      "slide": "slides/2026-11-07-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-07-1.png",
-      "slack_ts": "1794027748.230859"
+      "kop": "Check je nabestaandenpensioen",
+      "samenvatting": "Het nabestaandenpensioen wordt in veel gevallen gunstiger. Het is straks een verzekering gekoppeld aan je baan en salaris. Ga je uit dienst, dan loopt de dekking minstens drie maanden door. Samenwoners moeten hun partner zelf aanmelden, anders krijgt die later niets.",
+      "todo": "Check bij je pensioenfonds of je partner is aangemeld en hoe hoog de dekking is. Bij een baanwissel: kijk of je de verzekering wilt voortzetten.",
+      "bron": "NU.nl, 7 november",
+      "artikel_url": "https://www.nu.nl/economie/6415720/het-nabestaandenpensioen-wordt-gunstiger-maar-je-moet-wel-actie-ondernemen.html",
+      "slide": "slides/2026-11-08-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-08-1.png",
+      "slack_ts": "1794114378.007649"
     },
     {
       "nr": 2,
-      "kop": "Gestolen telefoon, zelf de schade",
-      "samenvatting": "Kifid oordeelt dat een bank ruim 3500 euro via Apple Pay na diefstal van een telefoon niet hoeft terug te betalen. De betalingen golden als niet toegestaan, maar de klant was grof nalatig omdat zij niet kon uitleggen hoe de dief aan Face ID of haar code kwam.",
-      "todo": "Check of Face ID en je toegangscode echt veilig zijn. Blokkeer je bankapp meteen bij diefstal van je telefoon.",
-      "bron": "Kifid, 5 november",
-      "artikel_url": "https://www.kifid.nl/nieuws/kifid-nieuwe-duidelijke-maatstaf-voor-grof-nalatig-bij-niet-toegestane-betalingen/",
-      "slide": "slides/2026-11-07-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-07-2.png",
-      "slack_ts": "1794027751.368929"
+      "kop": "Huurders kunnen geld terugkrijgen",
+      "samenvatting": "Het Europese Hof bekijkt of extra opslagen bovenop de inflatie in de vrije sector oneerlijk zijn. De Hoge Raad vond een opslag tot 3 procent eerder meestal eerlijk, maar sommige contracten gaan tot 7 procent. Vindt het Hof de clausule oneerlijk, dan kunnen huurders geld terugkrijgen. Een oordeel kan nog een jaar duren.",
+      "todo": "Check in je huurcontract hoe de jaarlijkse verhoging is geformuleerd. Houd de uitspraak van het Europese Hof in de gaten.",
+      "bron": "Kassa, 7 november",
+      "artikel_url": "https://www.bnnvara.nl/kassa/artikelen/europese-hof-kan-ramp-veroorzaken-op-nederlandse-woningmarkt",
+      "slide": "slides/2026-11-08-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-08-2.png",
+      "slack_ts": "1794114399.895399"
     },
     {
       "nr": 3,
-      "kop": "AFM beboet finfluencer zwaar",
-      "samenvatting": "Een finfluencer moet 142.500 euro boete betalen voor het aanbevelen van een illegale vermogensbeheerder. Beleggers stapten in via haar posts en verloren hun geld. De AFM waarschuwt: check altijd of een partij een vergunning heeft.",
-      "todo": "Check in het AFM-register of een vermogensbeheerder of adviseur een vergunning heeft voordat je instapt.",
-      "bron": "AFM, 5 november",
-      "artikel_url": "https://www.afm.nl/nl-nl/consumenten/actueel/2026/nov/mr-van-den-brink",
-      "slide": "slides/2026-11-07-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-07-3.png",
-      "slack_ts": "1794027754.232609"
+      "kop": "Benzineprijs daalt verder",
+      "samenvatting": "De adviesprijs voor een liter Euro95 is 2,457 euro, het laagste punt sinds begin juli. Op 10 oktober stond die prijs nog op een record van 2,732 euro. Diesel kost gemiddeld 2,60 euro. Voor de oorlog in Iran was benzine nog 2,285 euro.",
+      "todo": "Kijk wat je nu aan de pomp betaalt en wat dat doet met je maandlasten. Houd de brandstofprijzen de komende weken in de gaten.",
+      "bron": "NU.nl, 7 november",
+      "artikel_url": "https://www.nu.nl/economie/6415800/benzineprijs-aan-de-pomp-daalt-in-rap-tempo-verder.html",
+      "slide": "slides/2026-11-08-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-08-3.png",
+      "slack_ts": "1794114404.395119"
     }
-  ],
-  "akiflow_task_id": "905994b3-3e40-4f1b-89e5-cdf17c19f961"
+  ]
 }
