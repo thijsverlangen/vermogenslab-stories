@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-09",
-  "status": "wacht_op_keuze",
+  "status": "ingepland",
   "slack_kanaal": "C0C1MU54N81",
   "slack_ts": "1794200886.060009",
   "eigen_ts": [
@@ -44,5 +44,11 @@
       "slack_ts": "1794200892.816549"
     }
   ],
-  "akiflow_task_id": "0ed2fb2e-bdd7-4af2-be28-fae742d4a5f9"
+  "akiflow_task_id": "0ed2fb2e-bdd7-4af2-be28-fae742d4a5f9",
+  "gekozen": [
+    3
+  ],
+  "instagram": "6af17a7de44ddbb57c3ef076",
+  "facebook": "6af17a7ee44ddbb57c3ef1ba",
+  "ingepland_op": "2026-11-10T12:00:00+01:00"
 }
