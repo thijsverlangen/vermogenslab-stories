@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-08",
+  "datum": "2026-11-09",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794114374.944509",
+  "slack_ts": "1794200886.060009",
   "eigen_ts": [
-    "1794114374.944509",
-    "1794114378.007649",
-    "1794114399.895399",
-    "1794114404.395119"
+    "1794200886.060009",
+    "1794200887.621289",
+    "1794200890.313029",
+    "1794200892.816549"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Check je nabestaandenpensioen",
-      "samenvatting": "Het nabestaandenpensioen wordt in veel gevallen gunstiger. Het is straks een verzekering gekoppeld aan je baan en salaris. Ga je uit dienst, dan loopt de dekking minstens drie maanden door. Samenwoners moeten hun partner zelf aanmelden, anders krijgt die later niets.",
-      "todo": "Check bij je pensioenfonds of je partner is aangemeld en hoe hoog de dekking is. Bij een baanwissel: kijk of je de verzekering wilt voortzetten.",
-      "bron": "NU.nl, 7 november",
-      "artikel_url": "https://www.nu.nl/economie/6415720/het-nabestaandenpensioen-wordt-gunstiger-maar-je-moet-wel-actie-ondernemen.html",
-      "slide": "slides/2026-11-08-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-08-1.png",
-      "slack_ts": "1794114378.007649"
+      "kop": "Zorgpremie stijgt fors",
+      "samenvatting": "De zorgpremie gaat volgend jaar flink omhoog. DSW rekent €173,25 per maand, bijna €15 meer dan nu. Het kabinet gaat uit van gemiddeld €169 per maand.\nUiterlijk 12 november zijn alle premies bekend.",
+      "todo": "Vergelijk na 12 november je polis en check of je aanvullende dekking nog nodig hebt. Overstappen kan tot en met 31 december.",
+      "bron": "De Telegraaf, 7 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/zorgpremie-stijgt-fors-en-personeelstekort-groeit-experts-waarschuwen-zorg-gaat-ten-onder-aan-eigen-succes/164153865.html",
+      "slide": "slides/2026-11-09-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-09-1.png",
+      "slack_ts": "1794200887.621289"
     },
     {
       "nr": 2,
-      "kop": "Huurders kunnen geld terugkrijgen",
-      "samenvatting": "Het Europese Hof bekijkt of extra opslagen bovenop de inflatie in de vrije sector oneerlijk zijn. De Hoge Raad vond een opslag tot 3 procent eerder meestal eerlijk, maar sommige contracten gaan tot 7 procent. Vindt het Hof de clausule oneerlijk, dan kunnen huurders geld terugkrijgen. Een oordeel kan nog een jaar duren.",
-      "todo": "Check in je huurcontract hoe de jaarlijkse verhoging is geformuleerd. Houd de uitspraak van het Europese Hof in de gaten.",
-      "bron": "Kassa, 7 november",
-      "artikel_url": "https://www.bnnvara.nl/kassa/artikelen/europese-hof-kan-ramp-veroorzaken-op-nederlandse-woningmarkt",
-      "slide": "slides/2026-11-08-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-08-2.png",
-      "slack_ts": "1794114399.895399"
+      "kop": "Personeel aannemen voelt riskant",
+      "samenvatting": "Veel mkb'ers zijn terughoudend met personeel aannemen. Wordt een werknemer langdurig ziek, dan betaal je tot twee jaar minimaal 70 procent van het loon door.\nHet kabinet wil die regels voor kleine werkgevers werkbaarder maken.",
+      "todo": "Reken na wat langdurig verzuim jou zou kosten en bespreek met je adviseur hoe je dat risico opvangt.",
+      "bron": "De Telegraaf, 9 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/ondernemen/mkbers-terughoudend-met-personeel-aannemen-door-ziekteregels-zonder-verzekering-had-ik-het-niet-gered/164208981.html",
+      "slide": "slides/2026-11-09-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-09-2.png",
+      "slack_ts": "1794200890.313029"
     },
     {
       "nr": 3,
-      "kop": "Benzineprijs daalt verder",
-      "samenvatting": "De adviesprijs voor een liter Euro95 is 2,457 euro, het laagste punt sinds begin juli. Op 10 oktober stond die prijs nog op een record van 2,732 euro. Diesel kost gemiddeld 2,60 euro. Voor de oorlog in Iran was benzine nog 2,285 euro.",
-      "todo": "Kijk wat je nu aan de pomp betaalt en wat dat doet met je maandlasten. Houd de brandstofprijzen de komende weken in de gaten.",
-      "bron": "NU.nl, 7 november",
-      "artikel_url": "https://www.nu.nl/economie/6415800/benzineprijs-aan-de-pomp-daalt-in-rap-tempo-verder.html",
-      "slide": "slides/2026-11-08-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-08-3.png",
-      "slack_ts": "1794114404.395119"
+      "kop": "Minder lenen uit je bv",
+      "samenvatting": "Het kabinet stelt de nieuwe box 3 uit naar 2029. Om dat te betalen mag je als DGA minder lenen uit je eigen bv. De grens van €500.000 gaat de komende jaren naar €100.000, met een uitzondering voor je eigen huis.",
+      "todo": "Check hoeveel je nu van je bv leent en bespreek met je adviseur wat de nieuwe grens voor jou betekent.",
+      "bron": "NU.nl, 3 november",
+      "artikel_url": "https://www.nu.nl/politiek/6415356/box-3-chaos-blijft-voortbestaan-dit-is-nu-het-plan-van-het-kabinet.html",
+      "slide": "slides/2026-11-09-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-09-3.png",
+      "slack_ts": "1794200892.816549"
     }
   ],
-  "akiflow_task_id": "e2cee65b-054e-49be-9550-76c0cd6e2958"
+  "akiflow_task_id": "0ed2fb2e-bdd7-4af2-be28-fae742d4a5f9"
 }
