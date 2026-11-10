@@ -1,54 +1,48 @@
 {
-  "datum": "2026-11-09",
-  "status": "ingepland",
+  "datum": "2026-11-10",
+  "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794200886.060009",
+  "slack_ts": "1794286965.419479",
   "eigen_ts": [
-    "1794200886.060009",
-    "1794200887.621289",
-    "1794200890.313029",
-    "1794200892.816549"
+    "1794286965.419479",
+    "1794286967.036819",
+    "1794286969.484749",
+    "1794286972.168359"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Zorgpremie stijgt fors",
-      "samenvatting": "De zorgpremie gaat volgend jaar flink omhoog. DSW rekent €173,25 per maand, bijna €15 meer dan nu. Het kabinet gaat uit van gemiddeld €169 per maand.\nUiterlijk 12 november zijn alle premies bekend.",
-      "todo": "Vergelijk na 12 november je polis en check of je aanvullende dekking nog nodig hebt. Overstappen kan tot en met 31 december.",
-      "bron": "De Telegraaf, 7 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/zorgpremie-stijgt-fors-en-personeelstekort-groeit-experts-waarschuwen-zorg-gaat-ten-onder-aan-eigen-succes/164153865.html",
-      "slide": "slides/2026-11-09-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-09-1.png",
-      "slack_ts": "1794200887.621289"
+      "kop": "Waterschapsbelasting stijgt weer",
+      "samenvatting": "De waterschapsbelasting gaat in 2027 met zo'n 7 procent omhoog. Een gezin met een koophuis betaalt gemiddeld ongeveer €535, zo'n €35 meer. Een alleenstaande huurder gaat naar €228.\nDe aanslag komt rond 1 maart.",
+      "todo": "Check rond 1 maart je aanslag en neem de hogere woonlasten mee in je begroting voor volgend jaar.",
+      "bron": "AD, 9 november",
+      "artikel_url": "https://www.ad.nl/economie/waterschapsbelasting-flink-omhoog-in-2027-gezinnen-betalen-tientallen-euros-meer~a87e52e1/",
+      "slide": "slides/2026-11-10-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-10-1.png",
+      "slack_ts": "1794286967.036819"
     },
     {
       "nr": 2,
-      "kop": "Personeel aannemen voelt riskant",
-      "samenvatting": "Veel mkb'ers zijn terughoudend met personeel aannemen. Wordt een werknemer langdurig ziek, dan betaal je tot twee jaar minimaal 70 procent van het loon door.\nHet kabinet wil die regels voor kleine werkgevers werkbaarder maken.",
-      "todo": "Reken na wat langdurig verzuim jou zou kosten en bespreek met je adviseur hoe je dat risico opvangt.",
-      "bron": "De Telegraaf, 9 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/ondernemen/mkbers-terughoudend-met-personeel-aannemen-door-ziekteregels-zonder-verzekering-had-ik-het-niet-gered/164208981.html",
-      "slide": "slides/2026-11-09-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-09-2.png",
-      "slack_ts": "1794200890.313029"
+      "kop": "Geld verdienen met thuisbatterij",
+      "samenvatting": "Energieleveranciers willen thuisbatterijen op afstand aansturen om het stroomnet te ontlasten. Doe je mee, dan krijg je een vergoeding, bij Eneco €60 tot €225 per jaar.\nMet een batterij gebruik je 60 tot 70 procent van je zonnestroom zelf, zonder vaak maar 30 procent.",
+      "todo": "Heb je zonnepanelen? Reken na wat een thuisbatterij jou oplevert en hoe lang je erover doet om hem terug te verdienen.",
+      "bron": "NU.nl, 10 november",
+      "artikel_url": "https://www.nu.nl/economie/6415997/thuisbatterij-moet-stroomnet-ontlasten-eneco-beloont-klanten-die-meedoen.html",
+      "slide": "slides/2026-11-10-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-10-2.png",
+      "slack_ts": "1794286969.484749"
     },
     {
       "nr": 3,
-      "kop": "Minder lenen uit je bv",
-      "samenvatting": "Het kabinet stelt de nieuwe box 3 uit naar 2029. Om dat te betalen mag je als DGA minder lenen uit je eigen bv. De grens van €500.000 gaat de komende jaren naar €100.000, met een uitzondering voor je eigen huis.",
-      "todo": "Check hoeveel je nu van je bv leent en bespreek met je adviseur wat de nieuwe grens voor jou betekent.",
-      "bron": "NU.nl, 3 november",
-      "artikel_url": "https://www.nu.nl/politiek/6415356/box-3-chaos-blijft-voortbestaan-dit-is-nu-het-plan-van-het-kabinet.html",
-      "slide": "slides/2026-11-09-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-09-3.png",
-      "slack_ts": "1794200892.816549"
+      "kop": "Kinderopvang straks zonder toeslag",
+      "samenvatting": "Vanaf 2029 betalen alle ouders hetzelfde tarief voor kinderopvang, zonder toeslag en los van hun inkomen. Achteraf terugbetalen is dan verleden tijd.\nDe Raad van State is kritisch: ouders met de laagste inkomens gaan er iets op achteruit.",
+      "todo": "Gebruik je kinderopvang? Houd de plannen in de gaten en reken uit wat het nieuwe tarief voor jouw gezin betekent.",
+      "bron": "NU.nl, 9 november",
+      "artikel_url": "https://www.nu.nl/economie/6415992/rvs-kritisch-op-nieuwe-wet-voor-kinderopvang-ouders-gaan-niet-meer-werken.html",
+      "slide": "slides/2026-11-10-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-10-3.png",
+      "slack_ts": "1794286972.168359"
     }
   ],
-  "akiflow_task_id": "0ed2fb2e-bdd7-4af2-be28-fae742d4a5f9",
-  "gekozen": [
-    3
-  ],
-  "instagram": "6af17a7de44ddbb57c3ef076",
-  "facebook": "6af17a7ee44ddbb57c3ef1ba",
-  "ingepland_op": "2026-11-10T12:00:00+01:00"
+  "akiflow_task_id": "4b8029b4-d398-4fa6-9263-c88277ccb082"
 }
