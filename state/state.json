@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-11",
+  "datum": "2026-11-12",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794372927.215419",
+  "slack_ts": "1794459610.469779",
   "eigen_ts": [
-    "1794372927.215419",
-    "1794372928.788899",
-    "1794372931.498289",
-    "1794372934.402509"
+    "1794459610.469779",
+    "1794459612.275079",
+    "1794459615.237679",
+    "1794459618.127119"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Gasprijs daalt weer flink",
-      "samenvatting": "Gas is bij sommige leveranciers zo'n 7 procent goedkoper dan eind oktober. Elke leverancier heeft nu weer een jaarcontract onder de 2 euro per kuub.\nHeb je de afgelopen twee weken online vast afgesloten? Dan kun je binnen 14 dagen kosteloos annuleren.",
-      "todo": "Check of je nog binnen je bedenktermijn zit en reken je energiecontract na.",
-      "bron": "AD, 10 november",
-      "artikel_url": "https://www.ad.nl/economie/gasprijs-voor-consumenten-daalt-nu-ook-dit-betekent-het-voor-je-energierekening~a2bec08c/",
-      "slide": "slides/2026-11-11-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-11-1.png",
-      "slack_ts": "1794372928.788899"
+      "kop": "Stadsverwarming fors duurder",
+      "samenvatting": "Heb je stadsverwarming? Dan kan je rekening volgend jaar 450 tot 550 euro hoger uitvallen. Het tarief hangt nog aan de hoge gasprijs, ook als je warmte groen is.\nDe nieuwe warmtewet verandert dat waarschijnlijk pas rond 2030.",
+      "todo": "Check je voorschot bij je warmteleverancier en reken je woonlasten voor volgend jaar na.",
+      "bron": "AD, 11 november",
+      "artikel_url": "https://www.ad.nl/economie/600-000-huishoudens-met-stadsverwarming-gaan-zich-blauw-betalen-door-koppeling-van-de-prijs-aan-hoge-gastarieven~a9f09744/",
+      "slide": "slides/2026-11-12-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-12-1.png",
+      "slack_ts": "1794459612.275079"
     },
     {
       "nr": 2,
-      "kop": "Erfgenamen vaak doelwit fraudeurs",
-      "samenvatting": "Er komt de komende jaren veel geld vrij via erfenissen. 75-plussers hebben samen 524 miljard euro aan vermogen. De AFM waarschuwt dat erfgenamen vaker slachtoffer worden van fraude en risicovolle beleggingen.\nNa een overlijden neem je niet altijd rustig grote beslissingen.",
-      "todo": "Neem de tijd na een erfenis en bespreek grote keuzes eerst met je adviseur.",
-      "bron": "NU.nl, 10 november",
-      "artikel_url": "https://www.nu.nl/economie/6416082/golf-aan-erfenissen-brengt-risicos-met-zich-mee-op-fraude-en-ongelijkheid.html",
-      "slide": "slides/2026-11-11-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-11-2.png",
-      "slack_ts": "1794372931.498289"
+      "kop": "Huizenkopers lenen tienduizenden minder",
+      "samenvatting": "De hypotheekrente steeg in anderhalf jaar met 0,6 tot 0,8 procentpunt. Lonen stijgen minder hard en banken zijn strenger, dus kopers kunnen tienduizenden euro's minder lenen.\nHet vertrouwen in de huizenmarkt daalt verder.",
+      "todo": "Ga je kopen? Reken opnieuw uit wat je kunt lenen en bespreek het met je adviseur voordat je biedt.",
+      "bron": "NU.nl, 11 november",
+      "artikel_url": "https://www.nu.nl/economie/6416218/steeds-minder-vertrouwen-in-huizenmarkt-door-strenge-regels-en-hoge-rente.html",
+      "slide": "slides/2026-11-12-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-12-2.png",
+      "slack_ts": "1794459615.237679"
     },
     {
       "nr": 3,
-      "kop": "Weet jij je pensioeninleg?",
-      "samenvatting": "Zeven op de tien werknemers weten niet hoeveel hun werkgever inlegt voor hun pensioen. De ene werkgever betaalt twee derde van de premie, de andere maar 10 procent.\nBij hetzelfde salaris kan dat meer dan een ton schelen.",
-      "todo": "Vraag je werkgever wat hij inlegt en neem pensioen mee als je van baan wisselt.",
-      "bron": "RTL Z, 10 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5664110/meeste-nederlanders-onwetend-over-pensioeninleg-werkgever",
-      "slide": "slides/2026-11-11-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-11-3.png",
-      "slack_ts": "1794372934.402509"
+      "kop": "Belastingdienst slordig met gegevens",
+      "samenvatting": "De Autoriteit Persoonsgegevens is teleurgesteld in de Belastingdienst. Gegevens worden te lang bewaard en te veel medewerkers kunnen erbij.\nDe dienst zegt zelf dat het nog jaren duurt voordat alles op orde is.",
+      "todo": "Je mag opvragen welke gegevens de Belastingdienst van je heeft. Check ook geregeld je gegevens in Mijn Belastingdienst.",
+      "bron": "RTL Z, 11 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5664491/belastingdienst-voldoet-niet-aan-privacy-regels-autoriteit",
+      "slide": "slides/2026-11-12-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-12-3.png",
+      "slack_ts": "1794459618.127119"
     }
   ],
-  "akiflow_task_id": "7a342fa4-7c02-4f5e-80aa-6f236e64ce0b"
+  "akiflow_task_id": "fb6a8c81-2371-42a6-bdb0-8f6965828cae"
 }
