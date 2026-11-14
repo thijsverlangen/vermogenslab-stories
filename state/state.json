@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-13",
+  "datum": "2026-11-14",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794545443.842689",
+  "slack_ts": "1794631861.253949",
   "eigen_ts": [
-    "1794545443.842689",
-    "1794545445.418609",
-    "1794545448.048009",
-    "1794545450.850599"
+    "1794631861.253949",
+    "1794631862.810989",
+    "1794631866.022149",
+    "1794631867.752369"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Zorgpremie stijgt fors in 2027",
-      "samenvatting": "De zorgverzekeraars hebben hun premies voor 2027 bekend. De basisverzekering wordt bij de grote verzekeraars 5 tot 17 euro per maand duurder.\nHet eigen risico gaat omhoog naar 400 euro. De verschillen tussen verzekeraars zijn groot.",
-      "todo": "Check voor het eind van het jaar wat jouw premie wordt en kijk of je pakket nog bij je past.",
-      "bron": "NOS, 13 november",
-      "artikel_url": "https://nos.nl/l/2639241",
-      "slide": "slides/2026-11-13-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-13-1.png",
-      "slack_ts": "1794545445.418609"
+      "kop": "AOW-leeftijd blijft langer gelijk",
+      "samenvatting": "Ook in 2032 krijg je AOW vanaf 67 jaar en drie maanden. We leven minder snel langer dan eerder gedacht.\nDit geldt voor iedereen die tussen 1 oktober 1964 en 30 september 1965 is geboren.",
+      "todo": "Check je eigen AOW-datum en reken na of je pensioenplan daarop aansluit.",
+      "bron": "NU.nl, 13 november",
+      "artikel_url": "https://www.nu.nl/economie/6416448/aow-leeftijd-blijft-67-jaar-en-drie-maanden-in-2032.html",
+      "slide": "slides/2026-11-14-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-14-1.png",
+      "slack_ts": "1794631862.810989"
     },
     {
       "nr": 2,
-      "kop": "Box 3 gaat op de schop",
-      "samenvatting": "De Tweede Kamer stemde in met een nieuwe box 3 vanaf 2029. Op aandelen en vastgoed betaal je dan pas belasting bij verkoop.\nOver spaargeld, crypto en verzekeringen betaal je elk jaar belasting over de waardestijging. De Eerste Kamer moet nog stemmen.",
-      "todo": "Houd de Eerste Kamer in de gaten en bespreek met je adviseur wat dit voor jouw vermogen betekent.",
-      "bron": "NU.nl, 12 november",
-      "artikel_url": "https://www.nu.nl/politiek/6416232/kamer-stemt-na-maanden-gesteggel-in-met-vermogenswinstbelasting-in-box-3.html",
-      "slide": "slides/2026-11-13-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-13-2.png",
-      "slack_ts": "1794545448.048009"
+      "kop": "Hypotheekrente daalt flink",
+      "samenvatting": "Banken verlagen hun hypotheekrente in hoog tempo, de meeste verlagingen in drie jaar. Toch geven ze de lagere marktrente nog maar deels door.\nExperts verwachten dat er nog zo'n 0,2 procentpunt af kan.",
+      "todo": "Ga je kopen of loopt je rentevast af? Houd de rente in de gaten en bespreek het met je adviseur.",
+      "bron": "De Telegraaf, 13 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/hypotheekrente-maakt-enorme-draai-meeste-verlagingen-in-drie-jaar/164502298.html",
+      "slide": "slides/2026-11-14-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-14-2.png",
+      "slack_ts": "1794631866.022149"
     },
     {
       "nr": 3,
-      "kop": "Duurdere hypotheek voor 950.000 huishoudens",
-      "samenvatting": "Bijna een miljoen huiseigenaren gaan de komende jaren meer betalen, berekent DNB. Het gaat om een variabele rente of een rentevaste periode die voor eind 2028 afloopt.\nGemiddeld is dat 150 euro bruto extra per maand.",
-      "todo": "Check wanneer jouw rentevaste periode afloopt en reken na wat een hogere rente met je maandlasten doet.",
-      "bron": "NOS, 12 november",
-      "artikel_url": "https://nos.nl/l/2639124",
-      "slide": "slides/2026-11-13-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-13-3.png",
-      "slack_ts": "1794545450.850599"
+      "kop": "Belastingplan 2027 erdoor",
+      "samenvatting": "De Tweede Kamer heeft het Belastingplan 2027 aangenomen. Vanaf 2029 komt er een toptarief van 38,5% in box 3.\nDe schijven in box 2 en de erf- en schenkbelasting stijgen tot en met 2031 niet mee met de inflatie. De Eerste Kamer moet nog stemmen.",
+      "todo": "Ben je van plan te schenken of heb je een bv? Reken de gevolgen na met je adviseur.",
+      "bron": "Taxlive, 12 november",
+      "artikel_url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/tweede-kamer-toch-akkoord-met-pakket-belastingplan-2027-en-novelle-box-3/",
+      "slide": "slides/2026-11-14-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-14-3.png",
+      "slack_ts": "1794631867.752369"
     }
   ],
-  "akiflow_task_id": "b02247ca-e0f8-474f-bfd1-78c4289356d3"
+  "akiflow_task_id": "d709b541-fc16-4ab2-a3ed-d7efd0b92942"
 }
