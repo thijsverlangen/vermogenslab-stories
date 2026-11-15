@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-14",
+  "datum": "2026-11-15",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794631861.253949",
+  "slack_ts": "1794718407.889429",
   "eigen_ts": [
-    "1794631861.253949",
-    "1794631862.810989",
-    "1794631866.022149",
-    "1794631867.752369"
+    "1794718407.889429",
+    "1794718409.610449",
+    "1794718412.058469",
+    "1794718414.677399"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "AOW-leeftijd blijft langer gelijk",
-      "samenvatting": "Ook in 2032 krijg je AOW vanaf 67 jaar en drie maanden. We leven minder snel langer dan eerder gedacht.\nDit geldt voor iedereen die tussen 1 oktober 1964 en 30 september 1965 is geboren.",
-      "todo": "Check je eigen AOW-datum en reken na of je pensioenplan daarop aansluit.",
-      "bron": "NU.nl, 13 november",
-      "artikel_url": "https://www.nu.nl/economie/6416448/aow-leeftijd-blijft-67-jaar-en-drie-maanden-in-2032.html",
-      "slide": "slides/2026-11-14-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-14-1.png",
-      "slack_ts": "1794631862.810989"
+      "kop": "Zorgpolis vergelijken scheelt honderden euro's",
+      "samenvatting": "De basispremie stijgt volgend jaar naar gemiddeld 174 euro per maand. Tussen de goedkoopste en duurste polis zit bijna 650 euro per jaar.\nDe zorg in het basispakket is overal hetzelfde. Het verschil zit vooral in de vergoeding van niet-gecontracteerde zorg.",
+      "todo": "Check of jouw zorgverleners een contract hebben met je verzekeraar en vergelijk je polis vóór 31 december.",
+      "bron": "AD, 14 november",
+      "artikel_url": "https://www.ad.nl/gezond/grote-premieverschillen-basiszorgverzekering-dit-zijn-de-duurste-en-goedkoopste~ae3cb2346/",
+      "slide": "slides/2026-11-15-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-15-1.png",
+      "slack_ts": "1794718409.610449"
     },
     {
       "nr": 2,
-      "kop": "Hypotheekrente daalt flink",
-      "samenvatting": "Banken verlagen hun hypotheekrente in hoog tempo, de meeste verlagingen in drie jaar. Toch geven ze de lagere marktrente nog maar deels door.\nExperts verwachten dat er nog zo'n 0,2 procentpunt af kan.",
-      "todo": "Ga je kopen of loopt je rentevast af? Houd de rente in de gaten en bespreek het met je adviseur.",
-      "bron": "De Telegraaf, 13 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/hypotheekrente-maakt-enorme-draai-meeste-verlagingen-in-drie-jaar/164502298.html",
-      "slide": "slides/2026-11-14-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-14-2.png",
-      "slack_ts": "1794631866.022149"
+      "kop": "Schenken op papier verandert",
+      "samenvatting": "Het kabinet past de papieren schenking aan, waardoor een groot deel van het voordeel verdwijnt. Laat je vóór 31 december een akte opmaken, dan gelden nog de oude regels.\nVanaf 2028 gaat de verplichte rente van 6 naar 3 procent.",
+      "todo": "Gebruik je schenken op papier of denk je erover na? Reken het opnieuw door en bespreek het vóór de jaarwisseling met je notaris of adviseur.",
+      "bron": "De Telegraaf, 15 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/chaos-rond-fiscale-constructie-om-erfbelasting-te-besparen-ouders-kunnen-dit-jaar-nog-gebruikmaken-van-gunstige-voorwaarden/164558293.html",
+      "slide": "slides/2026-11-15-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-15-2.png",
+      "slack_ts": "1794718412.058469"
     },
     {
       "nr": 3,
-      "kop": "Belastingplan 2027 erdoor",
-      "samenvatting": "De Tweede Kamer heeft het Belastingplan 2027 aangenomen. Vanaf 2029 komt er een toptarief van 38,5% in box 3.\nDe schijven in box 2 en de erf- en schenkbelasting stijgen tot en met 2031 niet mee met de inflatie. De Eerste Kamer moet nog stemmen.",
-      "todo": "Ben je van plan te schenken of heb je een bv? Reken de gevolgen na met je adviseur.",
-      "bron": "Taxlive, 12 november",
-      "artikel_url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/tweede-kamer-toch-akkoord-met-pakket-belastingplan-2027-en-novelle-box-3/",
-      "slide": "slides/2026-11-14-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-14-3.png",
-      "slack_ts": "1794631867.752369"
+      "kop": "Ouderen krijgen minder invaarbonus",
+      "samenvatting": "Bij de overstap naar het nieuwe pensioenstelsel krijgen gepensioneerden vaak een extra verhoging, de invaarbonus. Oudere gepensioneerden krijgen soms minder.\nFondsen rekenen alsof het extra over meer jaren wordt verdeeld, terwijl je het in één keer krijgt.",
+      "todo": "Lees de brieven van je pensioenfonds over invaren goed en vraag om uitleg als iets niet klopt.",
+      "bron": "De Telegraaf, 15 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/experts-beantwoorden-vragen-over-nieuwe-pensioenstelsel-waarom-krijg-ik-als-oudere-gepensioneerde-een-lagere-invaarbonus/164496298.html",
+      "slide": "slides/2026-11-15-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-15-3.png",
+      "slack_ts": "1794718414.677399"
     }
   ],
-  "akiflow_task_id": "d709b541-fc16-4ab2-a3ed-d7efd0b92942"
+  "akiflow_task_id": "59c90c65-37eb-408c-ac50-4f3e917715bb"
 }
