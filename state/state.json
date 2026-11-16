@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-15",
+  "datum": "2026-11-16",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794718407.889429",
+  "slack_ts": "1794813113.439699",
   "eigen_ts": [
-    "1794718407.889429",
-    "1794718409.610449",
-    "1794718412.058469",
-    "1794718414.677399"
+    "1794813113.439699",
+    "1794813115.047459",
+    "1794813117.651019",
+    "1794813120.104669"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Zorgpolis vergelijken scheelt honderden euro's",
-      "samenvatting": "De basispremie stijgt volgend jaar naar gemiddeld 174 euro per maand. Tussen de goedkoopste en duurste polis zit bijna 650 euro per jaar.\nDe zorg in het basispakket is overal hetzelfde. Het verschil zit vooral in de vergoeding van niet-gecontracteerde zorg.",
-      "todo": "Check of jouw zorgverleners een contract hebben met je verzekeraar en vergelijk je polis vóór 31 december.",
-      "bron": "AD, 14 november",
-      "artikel_url": "https://www.ad.nl/gezond/grote-premieverschillen-basiszorgverzekering-dit-zijn-de-duurste-en-goedkoopste~ae3cb2346/",
-      "slide": "slides/2026-11-15-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-15-1.png",
-      "slack_ts": "1794718409.610449"
+      "kop": "Warmtenet blijft voorlopig duur",
+      "samenvatting": "De overheid wil de warmtebedrijven van grote energiebedrijven overnemen. Maar een andere eigenaar maakt je warmte niet automatisch goedkoper.\nAlleen de vaste kosten van een aansluiting lopen dit jaar al op tot bijna 830 euro.",
+      "todo": "Zit je op een warmtenet? Check je jaarrekening en zet de vaste kosten naast je verbruik.",
+      "bron": "NU.nl, 16 november",
+      "artikel_url": "https://www.nu.nl/economie/6416458/overheid-wil-warmtebedrijven-overnemen-maar-hoge-kosten-blijven-probleem.html",
+      "slide": "slides/2026-11-16-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-16-1.png",
+      "slack_ts": "1794813115.047459"
     },
     {
       "nr": 2,
-      "kop": "Schenken op papier verandert",
-      "samenvatting": "Het kabinet past de papieren schenking aan, waardoor een groot deel van het voordeel verdwijnt. Laat je vóór 31 december een akte opmaken, dan gelden nog de oude regels.\nVanaf 2028 gaat de verplichte rente van 6 naar 3 procent.",
-      "todo": "Gebruik je schenken op papier of denk je erover na? Reken het opnieuw door en bespreek het vóór de jaarwisseling met je notaris of adviseur.",
-      "bron": "De Telegraaf, 15 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/chaos-rond-fiscale-constructie-om-erfbelasting-te-besparen-ouders-kunnen-dit-jaar-nog-gebruikmaken-van-gunstige-voorwaarden/164558293.html",
-      "slide": "slides/2026-11-15-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-15-2.png",
-      "slack_ts": "1794718412.058469"
+      "kop": "Achteraf betalen wordt strenger",
+      "samenvatting": "Vanaf 20 november moeten aanbieders van achteraf betalen je leeftijd controleren. Boven de 100 euro volgt een check bij het BKR. Minderjarigen mogen het niet meer gebruiken.",
+      "todo": "Achteraf betalen is gewoon lenen. Check wat er bij jou openstaat en bespreek het met je kinderen.",
+      "bron": "NU.nl, 15 november",
+      "artikel_url": "https://www.nu.nl/economie/6414575/dure-bestelling-met-klarna-winkel-moet-checken-of-je-die-wel-kunt-betalen.html",
+      "slide": "slides/2026-11-16-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-16-2.png",
+      "slack_ts": "1794813117.651019"
     },
     {
       "nr": 3,
-      "kop": "Ouderen krijgen minder invaarbonus",
-      "samenvatting": "Bij de overstap naar het nieuwe pensioenstelsel krijgen gepensioneerden vaak een extra verhoging, de invaarbonus. Oudere gepensioneerden krijgen soms minder.\nFondsen rekenen alsof het extra over meer jaren wordt verdeeld, terwijl je het in één keer krijgt.",
-      "todo": "Lees de brieven van je pensioenfonds over invaren goed en vraag om uitleg als iets niet klopt.",
-      "bron": "De Telegraaf, 15 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/geld/experts-beantwoorden-vragen-over-nieuwe-pensioenstelsel-waarom-krijg-ik-als-oudere-gepensioneerde-een-lagere-invaarbonus/164496298.html",
-      "slide": "slides/2026-11-15-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-15-3.png",
-      "slack_ts": "1794718414.677399"
+      "kop": "Subsidie vooral naar hogere inkomens",
+      "samenvatting": "Ruim 773.000 koopwoningen zijn in vijf jaar verduurzaamd met subsidie of een lening van de overheid. Dat geld komt vooral terecht bij huishoudens boven de 60.000 euro.\nDaaronder kun je rentevrij lenen.",
+      "todo": "Plan je isolatie of een warmtepomp? Check eerst welke subsidies en leningen er voor jou zijn.",
+      "bron": "RTL Nieuws, 15 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5664790/duurzame-subsidies-gebruikt-door-hogere-inkomens",
+      "slide": "slides/2026-11-16-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-16-3.png",
+      "slack_ts": "1794813120.104669"
     }
   ],
-  "akiflow_task_id": "59c90c65-37eb-408c-ac50-4f3e917715bb"
+  "akiflow_task_id": "5b823b04-7f1b-4bb3-8202-633a5b65d200"
 }
