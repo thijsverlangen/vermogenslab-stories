@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-16",
+  "datum": "2026-11-17",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794813113.439699",
+  "slack_ts": "1794899995.410209",
   "eigen_ts": [
-    "1794813113.439699",
-    "1794813115.047459",
-    "1794813117.651019",
-    "1794813120.104669"
+    "1794899995.410209",
+    "1794899997.043169",
+    "1794899999.543329",
+    "1794900002.221669"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Warmtenet blijft voorlopig duur",
-      "samenvatting": "De overheid wil de warmtebedrijven van grote energiebedrijven overnemen. Maar een andere eigenaar maakt je warmte niet automatisch goedkoper.\nAlleen de vaste kosten van een aansluiting lopen dit jaar al op tot bijna 830 euro.",
-      "todo": "Zit je op een warmtenet? Check je jaarrekening en zet de vaste kosten naast je verbruik.",
-      "bron": "NU.nl, 16 november",
-      "artikel_url": "https://www.nu.nl/economie/6416458/overheid-wil-warmtebedrijven-overnemen-maar-hoge-kosten-blijven-probleem.html",
-      "slide": "slides/2026-11-16-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-16-1.png",
-      "slack_ts": "1794813115.047459"
+      "kop": "Box 3 krijgt twee tarieven",
+      "samenvatting": "Vanaf 2029 betaal je in box 3 35,5 procent over de eerste 60.000 euro vermogenswinst. Daarboven wordt het 38,5 procent.\nHeb je vooral spaargeld, dan betaal je vaak juist iets minder. De Eerste Kamer moet nog stemmen.",
+      "todo": "Reken na wat je vermogen ongeveer oplevert en houd de stemming in de Eerste Kamer in de gaten.",
+      "bron": "NOS, 16 november",
+      "artikel_url": "https://nos.nl/l/2639750",
+      "slide": "slides/2026-11-17-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-17-1.png",
+      "slack_ts": "1794899997.043169"
     },
     {
       "nr": 2,
-      "kop": "Achteraf betalen wordt strenger",
-      "samenvatting": "Vanaf 20 november moeten aanbieders van achteraf betalen je leeftijd controleren. Boven de 100 euro volgt een check bij het BKR. Minderjarigen mogen het niet meer gebruiken.",
-      "todo": "Achteraf betalen is gewoon lenen. Check wat er bij jou openstaat en bespreek het met je kinderen.",
-      "bron": "NU.nl, 15 november",
-      "artikel_url": "https://www.nu.nl/economie/6414575/dure-bestelling-met-klarna-winkel-moet-checken-of-je-die-wel-kunt-betalen.html",
-      "slide": "slides/2026-11-16-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-16-2.png",
-      "slack_ts": "1794813117.651019"
+      "kop": "Wegenbelasting stijgt in 2027",
+      "samenvatting": "Volgend jaar betaal je overal meer wegenbelasting. Het basistarief gaat naar verwachting 2,6 procent omhoog en acht provincies verhogen hun opcenten.\nZuid-Holland blijft het duurst, Noord-Holland het goedkoopst.",
+      "todo": "Check wat jouw auto volgend jaar kost en neem dat mee in je vaste lasten.",
+      "bron": "RTL Z, 16 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5665404/wegenbelasting-omhoog-2027",
+      "slide": "slides/2026-11-17-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-17-2.png",
+      "slack_ts": "1794899999.543329"
     },
     {
       "nr": 3,
-      "kop": "Subsidie vooral naar hogere inkomens",
-      "samenvatting": "Ruim 773.000 koopwoningen zijn in vijf jaar verduurzaamd met subsidie of een lening van de overheid. Dat geld komt vooral terecht bij huishoudens boven de 60.000 euro.\nDaaronder kun je rentevrij lenen.",
-      "todo": "Plan je isolatie of een warmtepomp? Check eerst welke subsidies en leningen er voor jou zijn.",
-      "bron": "RTL Nieuws, 15 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5664790/duurzame-subsidies-gebruikt-door-hogere-inkomens",
-      "slide": "slides/2026-11-16-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-16-3.png",
-      "slack_ts": "1794813120.104669"
+      "kop": "Kinderopvang wordt weer duurder",
+      "samenvatting": "Ouders betalen straks meer voor de opvang. De uurprijs waarover je toeslag krijgt gaat in 2027 omhoog, voor dagopvang naar 11,60 euro.\nVraagt je opvang meer, dan betaal je het verschil helemaal zelf.",
+      "todo": "Vergelijk het nieuwe uurtarief van je opvang met die grens en reken je toeslag opnieuw na.",
+      "bron": "De Telegraaf, 17 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/ouders-draaien-op-voor-stijgende-kosten-peperdure-kinderopvang-serieuze-hap-uit-de-portemonnee/164638666.html",
+      "slide": "slides/2026-11-17-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-17-3.png",
+      "slack_ts": "1794900002.221669"
     }
   ],
-  "akiflow_task_id": "5b823b04-7f1b-4bb3-8202-633a5b65d200"
+  "akiflow_task_id": "57e279c2-9833-4f86-a91d-773eae3230d1"
 }
