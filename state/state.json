@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-17",
+  "datum": "2026-11-18",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794899995.410209",
+  "slack_ts": "1794986447.821819",
   "eigen_ts": [
-    "1794899995.410209",
-    "1794899997.043169",
-    "1794899999.543329",
-    "1794900002.221669"
+    "1794986447.821819",
+    "1794986449.376409",
+    "1794986451.975069",
+    "1794986454.372299"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Box 3 krijgt twee tarieven",
-      "samenvatting": "Vanaf 2029 betaal je in box 3 35,5 procent over de eerste 60.000 euro vermogenswinst. Daarboven wordt het 38,5 procent.\nHeb je vooral spaargeld, dan betaal je vaak juist iets minder. De Eerste Kamer moet nog stemmen.",
-      "todo": "Reken na wat je vermogen ongeveer oplevert en houd de stemming in de Eerste Kamer in de gaten.",
-      "bron": "NOS, 16 november",
-      "artikel_url": "https://nos.nl/l/2639750",
-      "slide": "slides/2026-11-17-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-17-1.png",
-      "slack_ts": "1794899997.043169"
+      "kop": "Run op de thuisbatterij",
+      "samenvatting": "Bijna 430.000 huishoudens hebben nu een thuisbatterij, ruim twee keer zoveel als vorig jaar. De reden: salderen stopt op 1 januari.\nDe Consumentenbond rekent voor een gemiddeld huishouden op zo'n vijftien jaar terugverdientijd. Dat is ongeveer de levensduur.",
+      "todo": "Reken je eigen situatie door voor je koopt: panelen, verbruik en terugverdientijd. Laat je niet overhalen aan de deur.",
+      "bron": "NOS, 18 november",
+      "artikel_url": "https://nos.nl/l/2639959",
+      "slide": "slides/2026-11-18-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-18-1.png",
+      "slack_ts": "1794986449.376409"
     },
     {
       "nr": 2,
-      "kop": "Wegenbelasting stijgt in 2027",
-      "samenvatting": "Volgend jaar betaal je overal meer wegenbelasting. Het basistarief gaat naar verwachting 2,6 procent omhoog en acht provincies verhogen hun opcenten.\nZuid-Holland blijft het duurst, Noord-Holland het goedkoopst.",
-      "todo": "Check wat jouw auto volgend jaar kost en neem dat mee in je vaste lasten.",
-      "bron": "RTL Z, 16 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5665404/wegenbelasting-omhoog-2027",
-      "slide": "slides/2026-11-17-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-17-2.png",
-      "slack_ts": "1794899999.543329"
+      "kop": "Personeelskorting verdwijnt in 2027",
+      "samenvatting": "Werkgevers mogen nu tot 500 euro per jaar belastingvrij korting geven op eigen producten. Die aparte vrijstelling stopt per 1 januari 2027.\nKorting kan nog wel via de vrije ruimte van de werkkostenregeling. De Eerste Kamer moet nog stemmen.",
+      "todo": "Heb je personeel? Check of je vrije ruimte straks nog genoeg is en bespreek het met je adviseur.",
+      "bron": "Salaris Vanmorgen, 17 november",
+      "artikel_url": "https://www.salarisvanmorgen.nl/2026/11/17/personeelskorting-afgeschaft-per-1-januari-2027-onderbrengen-in-vrije-ruimte/",
+      "slide": "slides/2026-11-18-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-18-2.png",
+      "slack_ts": "1794986451.975069"
     },
     {
       "nr": 3,
-      "kop": "Kinderopvang wordt weer duurder",
-      "samenvatting": "Ouders betalen straks meer voor de opvang. De uurprijs waarover je toeslag krijgt gaat in 2027 omhoog, voor dagopvang naar 11,60 euro.\nVraagt je opvang meer, dan betaal je het verschil helemaal zelf.",
-      "todo": "Vergelijk het nieuwe uurtarief van je opvang met die grens en reken je toeslag opnieuw na.",
-      "bron": "De Telegraaf, 17 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/ouders-draaien-op-voor-stijgende-kosten-peperdure-kinderopvang-serieuze-hap-uit-de-portemonnee/164638666.html",
-      "slide": "slides/2026-11-17-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-17-3.png",
-      "slack_ts": "1794900002.221669"
+      "kop": "Mkb-winstvrijstelling moet omhoog",
+      "samenvatting": "Het kabinet wil de mkb-winstvrijstelling verruimen, zodat ondernemers minder belasting betalen. Ook gaan aftrekregelingen voor energie- en milieu-investeringen samen en omhoog.\nHoeveel het oplevert is nog onduidelijk. Dat volgt pas bij de Voorjaarsnota.",
+      "todo": "Houd de Voorjaarsnota in de gaten en bespreek met je adviseur wat het voor jouw onderneming betekent.",
+      "bron": "RTL Z, 17 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5665594/kabinet-nog-weinig-concreet-ondernemers-willen-meer-duidelijkheid",
+      "slide": "slides/2026-11-18-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-18-3.png",
+      "slack_ts": "1794986454.372299"
     }
   ],
-  "akiflow_task_id": "57e279c2-9833-4f86-a91d-773eae3230d1"
+  "akiflow_task_id": "b271eda6-cffc-4094-a430-b32ebb06cda4"
 }
