@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-18",
+  "datum": "2026-11-19",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1794986447.821819",
+  "slack_ts": "1795072462.006849",
   "eigen_ts": [
-    "1794986447.821819",
-    "1794986449.376409",
-    "1794986451.975069",
-    "1794986454.372299"
+    "1795072462.006849",
+    "1795072463.551609",
+    "1795072466.308249",
+    "1795072468.825099"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Run op de thuisbatterij",
-      "samenvatting": "Bijna 430.000 huishoudens hebben nu een thuisbatterij, ruim twee keer zoveel als vorig jaar. De reden: salderen stopt op 1 januari.\nDe Consumentenbond rekent voor een gemiddeld huishouden op zo'n vijftien jaar terugverdientijd. Dat is ongeveer de levensduur.",
-      "todo": "Reken je eigen situatie door voor je koopt: panelen, verbruik en terugverdientijd. Laat je niet overhalen aan de deur.",
-      "bron": "NOS, 18 november",
-      "artikel_url": "https://nos.nl/l/2639959",
-      "slide": "slides/2026-11-18-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-18-1.png",
-      "slack_ts": "1794986449.376409"
+      "kop": "Taxatie volgt vaak je bod",
+      "samenvatting": "Bij ruim een op de vijf huizen is de taxatie precies gelijk aan de koopprijs. Dat blijkt uit onderzoek van UvA-economen naar 694 verkopen.\nTaxateurs laten zich sterk sturen door het bod. Het kabinet kijkt nu of de regels strenger moeten.",
+      "todo": "Check zelf wat vergelijkbare huizen in de buurt opbrachten voordat je biedt. Bespreek je financiering met je adviseur.",
+      "bron": "NU.nl, 18 november",
+      "artikel_url": "https://www.nu.nl/economie/6416891/waarom-taxateurs-je-koopprijs-zelden-durven-tegen-te-spreken.html",
+      "slide": "slides/2026-11-19-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-19-1.png",
+      "slack_ts": "1795072463.551609"
     },
     {
       "nr": 2,
-      "kop": "Personeelskorting verdwijnt in 2027",
-      "samenvatting": "Werkgevers mogen nu tot 500 euro per jaar belastingvrij korting geven op eigen producten. Die aparte vrijstelling stopt per 1 januari 2027.\nKorting kan nog wel via de vrije ruimte van de werkkostenregeling. De Eerste Kamer moet nog stemmen.",
-      "todo": "Heb je personeel? Check of je vrije ruimte straks nog genoeg is en bespreek het met je adviseur.",
-      "bron": "Salaris Vanmorgen, 17 november",
-      "artikel_url": "https://www.salarisvanmorgen.nl/2026/11/17/personeelskorting-afgeschaft-per-1-januari-2027-onderbrengen-in-vrije-ruimte/",
-      "slide": "slides/2026-11-18-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-18-2.png",
-      "slack_ts": "1794986451.975069"
+      "kop": "Patiëntenstop bij ziekenhuizen",
+      "samenvatting": "Meerdere ziekenhuizen nemen tot het einde van het jaar geen nieuwe planbare patiënten van Zilveren Kruis meer aan. Volgens de ziekenhuizen is het budget van de verzekeraar op.\nAcute zorg gaat gewoon door.",
+      "todo": "Check bij welke ziekenhuizen jouw polis afspraken heeft. Vergelijk je zorgverzekering voor het einde van het jaar.",
+      "bron": "RTL Nieuws, 18 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
+      "slide": "slides/2026-11-19-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-19-2.png",
+      "slack_ts": "1795072466.308249"
     },
     {
       "nr": 3,
-      "kop": "Mkb-winstvrijstelling moet omhoog",
-      "samenvatting": "Het kabinet wil de mkb-winstvrijstelling verruimen, zodat ondernemers minder belasting betalen. Ook gaan aftrekregelingen voor energie- en milieu-investeringen samen en omhoog.\nHoeveel het oplevert is nog onduidelijk. Dat volgt pas bij de Voorjaarsnota.",
-      "todo": "Houd de Voorjaarsnota in de gaten en bespreek met je adviseur wat het voor jouw onderneming betekent.",
-      "bron": "RTL Z, 17 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5665594/kabinet-nog-weinig-concreet-ondernemers-willen-meer-duidelijkheid",
-      "slide": "slides/2026-11-18-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-18-3.png",
-      "slack_ts": "1794986454.372299"
+      "kop": "Wet loontransparantie loopt vertraging",
+      "samenvatting": "De wet die loonverschillen tussen mannen en vrouwen zichtbaar moet maken, haalt 1 januari waarschijnlijk niet. De Kamer debatteert pas op 14 december.\nStraks mag je niet meer naar een vorig salaris vragen en kunnen werknemers misgelopen loon tot vijf jaar terugvorderen.",
+      "todo": "Heb je personeel? Check of je salarissen per functie helder en uitlegbaar zijn.",
+      "bron": "NU.nl, 18 november",
+      "artikel_url": "https://www.nu.nl/economie/6416982/vrouwen-die-onterecht-minder-verdienen-dan-mannen-moeten-weer-wachten.html",
+      "slide": "slides/2026-11-19-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-19-3.png",
+      "slack_ts": "1795072468.825099"
     }
   ],
-  "akiflow_task_id": "b271eda6-cffc-4094-a430-b32ebb06cda4"
+  "akiflow_task_id": "5332fa35-9a4b-4e02-b06d-bf21d1f1b208"
 }
