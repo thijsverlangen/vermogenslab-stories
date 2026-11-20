@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-19",
+  "datum": "2026-11-20",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1795072462.006849",
+  "slack_ts": "1795158722.164639",
   "eigen_ts": [
-    "1795072462.006849",
-    "1795072463.551609",
-    "1795072466.308249",
-    "1795072468.825099"
+    "1795158722.164639",
+    "1795158723.646609",
+    "1795158726.307799",
+    "1795158728.782139"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Taxatie volgt vaak je bod",
-      "samenvatting": "Bij ruim een op de vijf huizen is de taxatie precies gelijk aan de koopprijs. Dat blijkt uit onderzoek van UvA-economen naar 694 verkopen.\nTaxateurs laten zich sterk sturen door het bod. Het kabinet kijkt nu of de regels strenger moeten.",
-      "todo": "Check zelf wat vergelijkbare huizen in de buurt opbrachten voordat je biedt. Bespreek je financiering met je adviseur.",
-      "bron": "NU.nl, 18 november",
-      "artikel_url": "https://www.nu.nl/economie/6416891/waarom-taxateurs-je-koopprijs-zelden-durven-tegen-te-spreken.html",
-      "slide": "slides/2026-11-19-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-19-1.png",
-      "slack_ts": "1795072463.551609"
+      "kop": "Netto iets meer in januari",
+      "samenvatting": "Werkenden houden vanaf januari netto iets meer salaris over door het nieuwe belastingplan. Bij modaal is dat ruim 12 euro per maand, bij twee keer modaal ruim 26 euro.\nHet plan moet nog wel door de Eerste Kamer.",
+      "todo": "Check je eerste loonstrook van 2027 en reken na of het klopt.",
+      "bron": "De Telegraaf, 19 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/dit-verandert-er-in-januari-op-je-loonstrookje-door-het-belastingplan-werkenden-houden-meer-salaris-over/164806085.html",
+      "slide": "slides/2026-11-20-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-20-1.png",
+      "slack_ts": "1795158723.646609"
     },
     {
       "nr": 2,
-      "kop": "Patiëntenstop bij ziekenhuizen",
-      "samenvatting": "Meerdere ziekenhuizen nemen tot het einde van het jaar geen nieuwe planbare patiënten van Zilveren Kruis meer aan. Volgens de ziekenhuizen is het budget van de verzekeraar op.\nAcute zorg gaat gewoon door.",
-      "todo": "Check bij welke ziekenhuizen jouw polis afspraken heeft. Vergelijk je zorgverzekering voor het einde van het jaar.",
-      "bron": "RTL Nieuws, 18 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5665879/klanten-zilveren-kruis-niet-welkom-bij-aantal-ziekenhuizen-door",
-      "slide": "slides/2026-11-19-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-19-2.png",
-      "slack_ts": "1795072466.308249"
+      "kop": "AOW blijft stevig fundament",
+      "samenvatting": "Onderzoekers van de overheid vinden dat de AOW ouderen goed beschermt tegen armoede. Een grote hervorming is niet nodig.\nWel lopen de kosten door de vergrijzing flink op. En wie in het buitenland woonde, heeft vaak geen volledige AOW.",
+      "todo": "Check bij de SVB hoeveel AOW je opbouwt en of er gaten in zitten.",
+      "bron": "NU.nl, 19 november",
+      "artikel_url": "https://www.nu.nl/economie/6417150/aow-beschermt-ouderen-goed-tegen-armoede-grote-hervorming-niet-nodig.html",
+      "slide": "slides/2026-11-20-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-20-2.png",
+      "slack_ts": "1795158726.307799"
     },
     {
       "nr": 3,
-      "kop": "Wet loontransparantie loopt vertraging",
-      "samenvatting": "De wet die loonverschillen tussen mannen en vrouwen zichtbaar moet maken, haalt 1 januari waarschijnlijk niet. De Kamer debatteert pas op 14 december.\nStraks mag je niet meer naar een vorig salaris vragen en kunnen werknemers misgelopen loon tot vijf jaar terugvorderen.",
-      "todo": "Heb je personeel? Check of je salarissen per functie helder en uitlegbaar zijn.",
-      "bron": "NU.nl, 18 november",
-      "artikel_url": "https://www.nu.nl/economie/6416982/vrouwen-die-onterecht-minder-verdienen-dan-mannen-moeten-weer-wachten.html",
-      "slide": "slides/2026-11-19-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-19-3.png",
-      "slack_ts": "1795072468.825099"
+      "kop": "Stormloop op papieren schenkingen",
+      "samenvatting": "Notarissen hebben het druk met schenkingen op papier. Vanaf 2027 verdwijnt waarschijnlijk het grootste deel van het voordeel voor de erfbelasting.\nWie het nog onder de oude regels wil regelen, moet de akte vóór 1 januari tekenen.",
+      "todo": "Speelt dit bij jou? Bespreek het op tijd met je notaris of adviseur.",
+      "bron": "De Telegraaf, 20 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/stormloop-op-papieren-schenkingen-nu-gunstige-regels-dreigen-te-verdwijnen-komende-maanden-zitten-notarissen-tjokvol/164790601.html",
+      "slide": "slides/2026-11-20-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-20-3.png",
+      "slack_ts": "1795158728.782139"
     }
   ],
-  "akiflow_task_id": "5332fa35-9a4b-4e02-b06d-bf21d1f1b208"
+  "akiflow_task_id": "a78200fb-ae76-4e27-8410-cc5380398c11"
 }
