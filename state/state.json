@@ -1,48 +1,47 @@
 {
-  "datum": "2026-11-21",
+  "datum": "2026-11-22",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1795245638.560789",
+  "slack_ts": "1795331901.909029",
   "eigen_ts": [
-    "1795245638.560789",
-    "1795245640.148169",
-    "1795245642.645379",
-    "1795245645.462689"
+    "1795331901.909029",
+    "1795331903.542549",
+    "1795331906.209189",
+    "1795331908.699019"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Ouderenkorting kan op de schop",
-      "samenvatting": "Topambtenaren adviseren het kabinet om de AOW zelf met rust te laten. Wel zien ze ruimte om te snijden in fiscale voordelen voor ouderen.\nDenk aan de ouderenkorting en de vrijstelling van AOW-premie. Het is nog een advies, geen besluit.",
-      "todo": "Reken na wat dit voor je netto pensioen kan betekenen en houd de kabinetsplannen in de gaten.",
-      "bron": "De Telegraaf, 20 november",
-      "artikel_url": "https://www.telegraaf.nl/financieel/topambtenaren-adviseren-kabinet-houd-aow-in-stand-maar-snijd-wel-in-fiscale-voordelen-voor-ouderen/164853120.html",
-      "slide": "slides/2026-11-21-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-21-1.png",
-      "slack_ts": "1795245640.148169"
+      "kop": "Belastingvoordeel pakken vóór 1 januari",
+      "samenvatting": "Wat je op 1 januari bezit en schuldig bent, bepaalt je box 3-belasting voor dat hele jaar. Een schenking of aflossing die je toch al van plan was, kan dus beter nog in december.\nGeld even wegzetten en daarna terugzetten werkt niet, dat draait de Belastingdienst terug.",
+      "todo": "Check je box 3-vermogen en je schenkruimte voor dit jaar. Twijfel je, bespreek het dan met je adviseur.",
+      "bron": "De Telegraaf, 22 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/van-schenken-tot-schulden-aflossen-zo-pak-je-nog-belastingvoordeel-voor-het-einde-van-het-jaar/164817642.html",
+      "slide": "slides/2026-11-22-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-22-1.png",
+      "slack_ts": "1795331903.542549"
     },
     {
       "nr": 2,
-      "kop": "Bankieren zonder app onder druk",
-      "samenvatting": "Steeds meer banken verplichten je hun app te gebruiken, bijvoorbeeld voor Wero-betalingen. De Consumentenbond wil dat bankieren zonder smartphone mogelijk blijft.\nPas vanaf 2028 of 2029 komen er Europese regels die die appdwang verbieden.",
-      "todo": "Check hoe je bij je bank kunt inloggen en betalen als je telefoon kwijt of stuk is.",
-      "bron": "NU.nl, 20 november",
-      "artikel_url": "https://www.nu.nl/economie/6417187/consumentenbond-wil-af-van-appdwang-bankieren-moet-smartphonevrij-kunnen.html",
-      "slide": "slides/2026-11-21-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-21-2.png",
-      "slack_ts": "1795245642.645379"
+      "kop": "Stroomnet minder vol dan gedacht",
+      "samenvatting": "Netbeheerders rekenen vaak met een snelle groei van het stroomverbruik. Maar in zo'n 80 procent van de gemeenten bleef het verbruik de afgelopen tien jaar gelijk of daalde het.\nMet actuelere cijfers is er in 40 tot 60 procent van de onderzochte overvolle gebieden weer ruimte.",
+      "todo": "Sta je met je bedrijf op een wachtlijst voor stroom? Houd in de gaten of je netbeheerder de berekeningen herziet.",
+      "bron": "De Telegraaf, 21 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/stroomnet-blijkt-helemaal-niet-zo-vol-als-gedacht-vraag-daalt-in-sommige-regios-zelfs/164896444.html",
+      "slide": "slides/2026-11-22-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-22-2.png",
+      "slack_ts": "1795331906.209189"
     },
     {
       "nr": 3,
-      "kop": "Recordbedrag belegd door huishoudens",
-      "samenvatting": "Nederlandse huishoudens hebben samen bijna 242 miljard euro belegd, meer dan ooit. De groei komt vooral door aankopen van beleggingsfondsen.\nBij losse aandelen is één chipmaker al maanden de grote favoriet.",
-      "todo": "Check hoe gespreid je vermogen is en of je risico nog past bij je doelen.",
+      "kop": "Black Friday verleidt steeds minder",
+      "samenvatting": "Nog maar 23 procent vindt Black Friday geweldig, vorig jaar was dat 31 procent. Twee derde zegt alleen nog te kopen wat echt nodig is.\nOpvallend: mensen met geldzorgen stellen aankopen juist vaker uit tot Black Friday.",
+      "todo": "Maak vooraf een lijstje van wat je echt nodig hebt en vergelijk de prijs met die van een paar weken terug.",
       "bron": "AD, 21 november",
-      "artikel_url": "https://www.ad.nl/economie/nederlanders-beleggen-een-recordbedrag-op-de-beurs-en-kiezen-massaal-voor-asml~a9d86cf2/",
-      "slide": "slides/2026-11-21-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-21-3.png",
-      "slack_ts": "1795245645.462689"
+      "artikel_url": "https://www.ad.nl/geld/black-friday-duurt-steeds-langer-maar-steeds-meer-nederlanders-haken-af~ae24482d/",
+      "slide": "slides/2026-11-22-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-22-3.png",
+      "slack_ts": "1795331908.699019"
     }
-  ],
-  "akiflow_task_id": "b638d80d-3bad-4d82-a190-44b24652106c"
+  ]
 }
