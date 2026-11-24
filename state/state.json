@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-23",
+  "datum": "2026-11-24",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1795418428.817169",
+  "slack_ts": "1795504340.140519",
   "eigen_ts": [
-    "1795418428.817169",
-    "1795418430.611509",
-    "1795418433.308609",
-    "1795418435.655449"
+    "1795504340.140519",
+    "1795504341.818559",
+    "1795504344.340009",
+    "1795504347.269049"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Meer stroom, minder gas",
-      "samenvatting": "Op de eerste koude dagen van november gebruikten huishoudens tot 10 procent minder gas dan vorig jaar. Het stroomverbruik ging juist tot 40 procent omhoog.\nVeel mensen houden gas als basis en verwarmen 's avonds bij met een elektrische kachel, infraroodpaneel of airco.",
-      "todo": "Check wat je contract per kuub gas en per kWh stroom kost en reken na wat elektrisch bijstoken jou echt oplevert.",
-      "bron": "NOS, 23 november",
-      "artikel_url": "https://nos.nl/l/2640666",
-      "slide": "slides/2026-11-23-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-23-1.png",
-      "slack_ts": "1795418430.611509"
+      "kop": "CO2-heffing op gas komt eraan",
+      "samenvatting": "Nederland wil dat de Europese CO2-heffing op gas en brandstof in 2028 echt start. Leveranciers rekenen die kosten door aan jou.\nVolgens het PBL kan gas in 2030 tot 24 cent per kuub duurder worden. In een ouder rijtjeshuis is dat 103 tot 243 euro per jaar.",
+      "todo": "Kijk wat je nu per jaar aan gas verbruikt en reken uit wat een paar dubbeltjes per kuub extra voor jou betekent.",
+      "bron": "De Telegraaf, 23 november",
+      "artikel_url": "https://www.telegraaf.nl/binnenland/kabinet-jetten-dringt-bij-wopke-hoekstra-aan-op-omstreden-co2-heffing-in-2028-forse-rekening-dreigt-voor-huishoudens-en-automobilisten",
+      "slide": "slides/2026-11-24-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-24-1.png",
+      "slack_ts": "1795504341.818559"
     },
     {
       "nr": 2,
-      "kop": "Huizenprijzen stijgen minder hard",
-      "samenvatting": "Bestaande koopwoningen waren in oktober gemiddeld 2,9 procent duurder dan een jaar eerder. De stijging vlakt al af sinds eind 2024 en er werden bijna 7 procent minder huizen verkocht.\nDe gemiddelde verkoopprijs lag op bijna 509.000 euro.",
-      "todo": "Wil je kopen of verkopen? Houd de prijzen in je regio in de gaten en reken je plannen opnieuw door.",
+      "kop": "Slecht onderhoud kost je geld",
+      "samenvatting": "Huizen met achterstallig onderhoud leveren bij verkoop gemiddeld ruim 12 procent minder op. Dat blijkt uit onderzoek van de Universiteit Maastricht.\nHet aandeel slecht onderhouden huizen is in dertig jaar verdubbeld naar 16 procent.",
+      "todo": "Zet op een rij wat er aan je huis moet gebeuren. Het Nibud noemt 1 procent van de woningwaarde per jaar als potje voor onderhoud.",
       "bron": "NU.nl, 23 november",
-      "artikel_url": "https://www.nu.nl/economie/6417264/koopwoningen-in-oktober-bijna-3-procent-duurder-dan-vorig-jaar.html",
-      "slide": "slides/2026-11-23-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-23-2.png",
-      "slack_ts": "1795418433.308609"
+      "artikel_url": "https://www.nu.nl/economie/6417535/steeds-meer-huizen-worden-slecht-onderhouden-en-leveren-daardoor-minder-op.html",
+      "slide": "slides/2026-11-24-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-24-2.png",
+      "slack_ts": "1795504344.340009"
     },
     {
       "nr": 3,
-      "kop": "Grootbanken stappen in crypto",
-      "samenvatting": "ABN Amro, ING en Rabobank werken aan cryptodiensten voor hun klanten. Inmiddels belegt een op de acht mensen in crypto.\nEen hoogleraar waarschuwt dat crypto via de bank net zo beweeglijk blijft. Bitcoin zakte in een week van 73.000 naar zo'n 64.000 dollar.",
-      "todo": "Check hoeveel van je vermogen in crypto zit en of dat past bij je risico. Twijfel je, bespreek het dan met je adviseur.",
-      "bron": "AD, 23 november",
-      "artikel_url": "https://www.ad.nl/economie/banken-nemen-gok-met-aanbieden-cryptomunten~a1443024/",
-      "slide": "slides/2026-11-23-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-23-3.png",
-      "slack_ts": "1795418435.655449"
+      "kop": "Stroom in piekuren straks duurder",
+      "samenvatting": "De overheid vraagt je om wasmachine, droger en vaatwasser niet tussen 16.00 en 21.00 uur te laten draaien. Dan zit het stroomnet het volst.\nVanaf 2029 komen er nieuwe nettarieven. Stroom in de piekuren wordt dan waarschijnlijk duurder.",
+      "todo": "Kijk welke zware apparaten je buiten de piekuren kunt laten draaien, zoals de was of het laden van je auto.",
+      "bron": "NU.nl, 23 november",
+      "artikel_url": "https://www.nu.nl/economie/6417500/overheid-roept-huishoudens-op-om-wasjes-buiten-1600-en-2100-uur-te-doen.html",
+      "slide": "slides/2026-11-24-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-24-3.png",
+      "slack_ts": "1795504347.269049"
     }
   ],
-  "akiflow_task_id": "f3e9ae24-bbd6-4e93-8809-958a11080cd8"
+  "akiflow_task_id": "87631462-c0d2-4cc9-b7cc-ff28eab6187b"
 }
