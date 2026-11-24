@@ -1,5 +1,5 @@
 {
-  "laatste_datum": "2026-11-13",
+  "laatste_datum": "2026-11-21",
   "laatste_fout_melding": "2026-11-01",
   "geschiedenis": [
     {
@@ -21,6 +21,21 @@
         "Splits je uitgaven per categorie uit in losse posten, zoals elk abonnement apart.",
         "Een BV-lening die bij een pand hoort, staat nu als hypotheek bij dat pand in de vermogensboom.",
         "Geef een opgeslagen profiel een andere naam, zonder het opnieuw op te slaan."
+      ]
+    },
+    {
+      "datum": "2026-11-21",
+      "titel": "Kosten voor kinderen lopen af, en grafieken die optellen",
+      "geplaatst": "2026-11-24T16:24:30Z",
+      "asset": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/update-2026-11-21.png",
+      "instagram": "6b05b7e7f031340fefc14ed5",
+      "facebook": "6b05b7e94181e8048fa7efce",
+      "blokken": [
+        "Nieuw in de planner op vermogenslab.nl.",
+        "Kosten voor kinderen lopen af. Het deel van elk kind valt weg in het jaar dat dat kind 21 wordt.",
+        "Nieuw in de grafiek Belasting per box: heffingskortingen en een lijn met wat je echt betaalt.",
+        "De band plus en min 2% geldt nu voor al je beleggingen, ook in je BV en pensioen.",
+        "De winst van je BV stopt in het jaar dat je stopt met werken."
       ]
     }
   ]
