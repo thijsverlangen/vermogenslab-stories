@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-24",
+  "datum": "2026-11-25",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1795504340.140519",
+  "slack_ts": "1795590746.665669",
   "eigen_ts": [
-    "1795504340.140519",
-    "1795504341.818559",
-    "1795504344.340009",
-    "1795504347.269049"
+    "1795590746.665669",
+    "1795590748.286079",
+    "1795590751.006719",
+    "1795590753.530119"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "CO2-heffing op gas komt eraan",
-      "samenvatting": "Nederland wil dat de Europese CO2-heffing op gas en brandstof in 2028 echt start. Leveranciers rekenen die kosten door aan jou.\nVolgens het PBL kan gas in 2030 tot 24 cent per kuub duurder worden. In een ouder rijtjeshuis is dat 103 tot 243 euro per jaar.",
-      "todo": "Kijk wat je nu per jaar aan gas verbruikt en reken uit wat een paar dubbeltjes per kuub extra voor jou betekent.",
-      "bron": "De Telegraaf, 23 november",
-      "artikel_url": "https://www.telegraaf.nl/binnenland/kabinet-jetten-dringt-bij-wopke-hoekstra-aan-op-omstreden-co2-heffing-in-2028-forse-rekening-dreigt-voor-huishoudens-en-automobilisten",
-      "slide": "slides/2026-11-24-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-24-1.png",
-      "slack_ts": "1795504341.818559"
+      "kop": "AI-risico raakt je pensioen",
+      "samenvatting": "Pensioenfondsen hebben 120 miljard euro in Amerikaanse techbedrijven zitten. Dat is bijna de helft van hun aandelen.\nVallen de AI-winsten tegen, dan kan hun vermogen volgens DNB bijna 4,5 procent krimpen. Vooral jongere deelnemers merken dat.",
+      "todo": "Check in je pensioenoverzicht hoe je fonds belegt en houd je eigen spreiding in de gaten.",
+      "bron": "NOS, 24 november",
+      "artikel_url": "https://nos.nl/artikel/2640847-onrustige-beurzen-en-cyberaanvallen-dnb-ziet-risico-in-snelle-groei-ai",
+      "slide": "slides/2026-11-25-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-25-1.png",
+      "slack_ts": "1795590748.286079"
     },
     {
       "nr": 2,
-      "kop": "Slecht onderhoud kost je geld",
-      "samenvatting": "Huizen met achterstallig onderhoud leveren bij verkoop gemiddeld ruim 12 procent minder op. Dat blijkt uit onderzoek van de Universiteit Maastricht.\nHet aandeel slecht onderhouden huizen is in dertig jaar verdubbeld naar 16 procent.",
-      "todo": "Zet op een rij wat er aan je huis moet gebeuren. Het Nibud noemt 1 procent van de woningwaarde per jaar als potje voor onderhoud.",
-      "bron": "NU.nl, 23 november",
-      "artikel_url": "https://www.nu.nl/economie/6417535/steeds-meer-huizen-worden-slecht-onderhouden-en-leveren-daardoor-minder-op.html",
-      "slide": "slides/2026-11-24-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-24-2.png",
-      "slack_ts": "1795504344.340009"
+      "kop": "Zzp'ers vaker onder armoedegrens",
+      "samenvatting": "Ruim een half miljoen mensen leeft in armoede, blijkt uit CBS-cijfers over 2025. Steeds vaker zijn dat werkenden, vooral zzp'ers.\nZij krijgen vaak niet alle toeslagen en steun waar ze recht op hebben.",
+      "todo": "Reken na of je recht hebt op toeslagen en bouw een buffer op voor magere maanden.",
+      "bron": "NU.nl, 25 november",
+      "artikel_url": "https://www.nu.nl/economie/6417643/armen-worden-armer-terwijl-de-rest-erop-vooruitgaat.html",
+      "slide": "slides/2026-11-25-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-25-2.png",
+      "slack_ts": "1795590751.006719"
     },
     {
       "nr": 3,
-      "kop": "Stroom in piekuren straks duurder",
-      "samenvatting": "De overheid vraagt je om wasmachine, droger en vaatwasser niet tussen 16.00 en 21.00 uur te laten draaien. Dan zit het stroomnet het volst.\nVanaf 2029 komen er nieuwe nettarieven. Stroom in de piekuren wordt dan waarschijnlijk duurder.",
-      "todo": "Kijk welke zware apparaten je buiten de piekuren kunt laten draaien, zoals de was of het laden van je auto.",
-      "bron": "NU.nl, 23 november",
-      "artikel_url": "https://www.nu.nl/economie/6417500/overheid-roept-huishoudens-op-om-wasjes-buiten-1600-en-2100-uur-te-doen.html",
-      "slide": "slides/2026-11-24-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-24-3.png",
-      "slack_ts": "1795504347.269049"
+      "kop": "Treinkaartje voorlopig niet duurder",
+      "samenvatting": "De NS zou kaartjes en de meeste abonnementen per 1 januari 4,7 procent duurder maken. Die verhoging is uitgesteld tot 1 juni.\nHet kabinet betaalt dat met 47 miljoen euro. Let op: in 2028 kan er een dubbele verhoging komen.",
+      "todo": "Kijk of je abonnement nog past bij hoe vaak je reist en houd de prijzen na 1 juni in de gaten.",
+      "bron": "RTL Nieuws, 25 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/binnenland/artikel/5667024/treinkaartjes-zelfde-prijs-tot-1-juni-maatregel-regering-tweede",
+      "slide": "slides/2026-11-25-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-25-3.png",
+      "slack_ts": "1795590753.530119"
     }
   ],
-  "akiflow_task_id": "87631462-c0d2-4cc9-b7cc-ff28eab6187b"
+  "akiflow_task_id": "cea4c515-0176-4209-9d2b-828e1885bd8a"
 }
