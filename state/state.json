@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-25",
+  "datum": "2026-11-26",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1795590746.665669",
+  "slack_ts": "1795677562.700689",
   "eigen_ts": [
-    "1795590746.665669",
-    "1795590748.286079",
-    "1795590751.006719",
-    "1795590753.530119"
+    "1795677562.700689",
+    "1795677564.476589",
+    "1795677567.328349",
+    "1795677569.862899"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "AI-risico raakt je pensioen",
-      "samenvatting": "Pensioenfondsen hebben 120 miljard euro in Amerikaanse techbedrijven zitten. Dat is bijna de helft van hun aandelen.\nVallen de AI-winsten tegen, dan kan hun vermogen volgens DNB bijna 4,5 procent krimpen. Vooral jongere deelnemers merken dat.",
-      "todo": "Check in je pensioenoverzicht hoe je fonds belegt en houd je eigen spreiding in de gaten.",
-      "bron": "NOS, 24 november",
-      "artikel_url": "https://nos.nl/artikel/2640847-onrustige-beurzen-en-cyberaanvallen-dnb-ziet-risico-in-snelle-groei-ai",
-      "slide": "slides/2026-11-25-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-25-1.png",
-      "slack_ts": "1795590748.286079"
+      "kop": "Pas op voor batterijverkopers",
+      "samenvatting": "Vereniging Eigen Huis kreeg in drie maanden bijna duizend meldingen over misleidende verkoop van thuisbatterijen en andere verduurzaming. Verkopers doen alsof ze namens je energiebedrijf bellen en rekenen de opbrengst veel te mooi voor.\nDoor het einde van salderen per 1 januari groeit het probleem.",
+      "todo": "Teken nooit meteen aan de deur of telefoon. Reken zelf na of een batterij bij jouw situatie past. Je hebt wettelijk 14 dagen bedenktijd.",
+      "bron": "NOS en AD, 26 november",
+      "artikel_url": "https://nos.nl/l/2641045",
+      "slide": "slides/2026-11-26-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-26-1.png",
+      "slack_ts": "1795677564.476589"
     },
     {
       "nr": 2,
-      "kop": "Zzp'ers vaker onder armoedegrens",
-      "samenvatting": "Ruim een half miljoen mensen leeft in armoede, blijkt uit CBS-cijfers over 2025. Steeds vaker zijn dat werkenden, vooral zzp'ers.\nZij krijgen vaak niet alle toeslagen en steun waar ze recht op hebben.",
-      "todo": "Reken na of je recht hebt op toeslagen en bouw een buffer op voor magere maanden.",
+      "kop": "Starters kopen minder huizen",
+      "samenvatting": "Starters kochten in het derde kwartaal 28.000 woningen, 4 procent minder dan een jaar eerder. De hogere hypotheekrente speelt mee.\nHuizen werden gemiddeld 3,4 procent duurder. Een starter betaalde gemiddeld 412.000 euro.",
+      "todo": "Wil je kopen? Reken na wat je bij de huidige rente maximaal kunt lenen en bespreek je plannen met je adviseur.",
       "bron": "NU.nl, 25 november",
-      "artikel_url": "https://www.nu.nl/economie/6417643/armen-worden-armer-terwijl-de-rest-erop-vooruitgaat.html",
-      "slide": "slides/2026-11-25-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-25-2.png",
-      "slack_ts": "1795590751.006719"
+      "artikel_url": "https://www.nu.nl/economie/6417768/groei-woningverkopen-tot-stilstand-gekomen-starters-kopen-minder-huizen.html",
+      "slide": "slides/2026-11-26-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-26-2.png",
+      "slack_ts": "1795677567.328349"
     },
     {
       "nr": 3,
-      "kop": "Treinkaartje voorlopig niet duurder",
-      "samenvatting": "De NS zou kaartjes en de meeste abonnementen per 1 januari 4,7 procent duurder maken. Die verhoging is uitgesteld tot 1 juni.\nHet kabinet betaalt dat met 47 miljoen euro. Let op: in 2028 kan er een dubbele verhoging komen.",
-      "todo": "Kijk of je abonnement nog past bij hoe vaak je reist en houd de prijzen na 1 juni in de gaten.",
-      "bron": "RTL Nieuws, 25 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/binnenland/artikel/5667024/treinkaartjes-zelfde-prijs-tot-1-juni-maatregel-regering-tweede",
-      "slide": "slides/2026-11-25-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-25-3.png",
-      "slack_ts": "1795590753.530119"
+      "kop": "Dag te laat, toeslag kwijt",
+      "samenvatting": "Een man vroeg zijn zorgtoeslag over 2024 één dag na de deadline aan en liep zo bijna 1000 euro mis. De rechter vond de afwijzing terecht.\nToeslagen over 2025 kun je nog aanvragen tot en met 31 december 2026.",
+      "todo": "Check of je over 2025 recht hebt op zorgtoeslag of huurtoeslag en vraag die op tijd aan.",
+      "bron": "De Telegraaf, 25 november",
+      "artikel_url": "https://www.telegraaf.nl/financieel/geld/man-vraagt-zorgtoeslag-een-dag-te-laat-aan-en-loopt-bijna-1000-euro-mis-eigen-verantwoordelijkheid/164980719.html",
+      "slide": "slides/2026-11-26-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-26-3.png",
+      "slack_ts": "1795677569.862899"
     }
   ],
-  "akiflow_task_id": "cea4c515-0176-4209-9d2b-828e1885bd8a"
+  "akiflow_task_id": "fa061084-6cbb-451c-a5b8-51340dcc11e1"
 }
