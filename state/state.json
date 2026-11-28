@@ -1,48 +1,48 @@
 {
-  "datum": "2026-11-27",
+  "datum": "2026-11-28",
   "status": "wacht_op_keuze",
   "slack_kanaal": "C0C1MU54N81",
-  "slack_ts": "1795763601.351459",
+  "slack_ts": "1795850170.396489",
   "eigen_ts": [
-    "1795763601.351459",
-    "1795763602.999029",
-    "1795763605.473959",
-    "1795763608.367799"
+    "1795850170.396489",
+    "1795850171.857199",
+    "1795850173.493079",
+    "1795850176.074759"
   ],
   "opties": [
     {
       "nr": 1,
-      "kop": "Energieschok werkt nog lang door",
-      "samenvatting": "De Nederlandsche Bank waarschuwt dat de hoge olie- en gasprijzen nog lang doorwerken. Bedrijven rekenen hun hogere kosten stap voor stap door in hun prijzen.\nDaardoor kunnen boodschappen en diensten tot ver in 2027 duurder blijven, ook als energie zelf weer goedkoper wordt.",
-      "todo": "Check je vaste lasten en reken je budget voor 2027 na met hogere prijzen.",
-      "bron": "RTL Nieuws, 26 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5667257/dnb-waarschuwt-voor-energieschok-consumenten-hoge-prijzen",
-      "slide": "slides/2026-11-27-1.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-27-1.png",
-      "slack_ts": "1795763602.999029"
+      "kop": "Netbeheer kost je flink meer",
+      "samenvatting": "Vanaf januari betaal je meer voor je aansluiting op het stroom- en gasnet. Die vaste kosten betaal je hoe weinig je ook verbruikt.\nBij Stedin zijn een gas- en stroomaansluiting samen bijna 14 euro per maand duurder. Bij Liander gaat stroom 25 procent omhoog.",
+      "todo": "Check je energierekening in januari en reken na of je voorschot nog klopt.",
+      "bron": "RTL Nieuws, 27 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5667541/je-bent-fors-meer-kwijt-aan-netbeheerkosten-voor-je-gas-en",
+      "slide": "slides/2026-11-28-1.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-28-1.png",
+      "slack_ts": "1795850171.857199"
     },
     {
       "nr": 2,
-      "kop": "Duurzame pensioenfondsen renderen minder",
-      "samenvatting": "Pensioenfondsen die sterk op duurzaamheid sturen, haalden tussen 2020 en 2024 elk jaar zo'n 1 procent minder rendement dan de brede aandelenmarkt. Dat blijkt uit onderzoek in vakblad ESB.\nDe onderzoekers zeggen wel dat vijf jaar kort is voor een belegger op lange termijn.",
-      "todo": "Kijk in je pensioenoverzicht hoe je fonds belegt en wat het rendement was. Vragen? Bespreek ze met je adviseur.",
-      "bron": "Financieel Management, 26 november",
-      "artikel_url": "https://financieel-management.nl/artikel/duurzame-pensioenfondsen-bleven-vijf-jaar-lang-achter-bij-de-brede-aandelenmarkt/",
-      "slide": "slides/2026-11-27-2.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-27-2.png",
-      "slack_ts": "1795763605.473959"
+      "kop": "Verplichte AOV zzp'ers uitgesteld",
+      "samenvatting": "De verplichte arbeidsongeschiktheidsverzekering voor zelfstandigen komt er niet in januari 2030. UWV en Belastingdienst hebben het te druk.\nNu is maar een kwart van de zzp'ers verzekerd. Word je langdurig ziek zonder buffer, dan beland je al snel in de bijstand.",
+      "todo": "Zet op een rij wat er gebeurt als je langdurig uitvalt en bespreek dat met je adviseur.",
+      "bron": "RTL Nieuws, 27 november",
+      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5667497/uitstel-verplichte-arbeidsongeschiktheidsverzekering-zzp",
+      "slide": "slides/2026-11-28-2.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-28-2.png",
+      "slack_ts": "1795850173.493079"
     },
     {
       "nr": 3,
-      "kop": "Werkgevers remmen snelladen leaseauto af",
-      "samenvatting": "Werkgevers willen steeds vaker dat je je elektrische leaseauto thuis of op kantoor laadt. Snelladen kost gemiddeld zo'n 70 cent per kWh, thuisladen ongeveer 24 cent.\nDat scheelt per 100 kilometer al gauw 8 euro.",
-      "todo": "Check de laadafspraken in je autoregeling en reken na wat je laden echt kost.",
-      "bron": "RTL Z, 27 november",
-      "artikel_url": "https://www.rtl.nl/nieuws/economie/artikel/5666086/werkgevers-zetten-de-rem-op-snelladen-voor-personeel",
-      "slide": "slides/2026-11-27-3.png",
-      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-27-3.png",
-      "slack_ts": "1795763608.367799"
+      "kop": "Drinkwater wordt weer duurder",
+      "samenvatting": "Vitens, het grootste drinkwaterbedrijf van Nederland, verhoogt volgend jaar de tarieven om te investeren. Voor een tweepersoonshuishouden is dat zo'n 6 euro per jaar.\nDaarbovenop stijgt de belasting op leidingwater met 10 cent per kuub.",
+      "todo": "Neem je vaste lasten voor 2027 door en pas je budget aan waar nodig.",
+      "bron": "NU.nl, 27 november",
+      "artikel_url": "https://www.nu.nl/economie/6418008/consumenten-gaan-volgend-jaar-meer-betalen-voor-drinkwater.html",
+      "slide": "slides/2026-11-28-3.png",
+      "asset_url": "https://raw.githubusercontent.com/thijsverlangen/vermogenslab-stories/main/slides/2026-11-28-3.png",
+      "slack_ts": "1795850176.074759"
     }
   ],
-  "akiflow_task_id": "b128048e-75fc-4f54-94c2-5aefc27a3286"
+  "akiflow_task_id": "b03f92a5-14f0-4414-884a-5a45725e00ab"
 }
